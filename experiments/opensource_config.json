@@ -1,0 +1,30 @@
+{
+    "NOTE": "开源模型实验配置 - 请填写对应模型的 API Key",
+    "qwen": {
+        "api_key": "sk-50b228be343d4862bf0ea90fcba12d35",
+        "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+        "models": [
+            "qwen-max",
+            "qwen-plus",
+            "qwen-turbo"
+        ]
+    },
+    "deepseek": {
+        "api_key": "sk-572fdd429a8b40eb8796fb0729182326",
+        "base_url": "https://api.deepseek.com/v1",
+        "models": [
+            "deepseek-v3",
+            "deepseek-chat",
+            "deepseek-reasoner"
+        ]
+    },
+    "openrouter": {
+        "api_key": "",
+        "base_url": "https://openrouter.ai/api/v1",
+        "models": [
+            "meta-llama/llama-3-70b-instruct",
+            "meta-llama/llama-3-8b-instruct"
+        ]
+    },
+    "default_model": "deepseek-v3"
+}

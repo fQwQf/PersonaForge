@@ -1,0 +1,1647 @@
+{
+  "overall": {
+    "precision": 0.9625,
+    "recall": 0.77,
+    "f1": 0.8555555555555556,
+    "accuracy": 0.87,
+    "trigger_rate": 0.4,
+    "true_positives": 77,
+    "false_positives": 3,
+    "true_negatives": 97,
+    "false_negatives": 23
+  },
+  "per_type": {
+    "first_encounter": {
+      "tp": 25,
+      "fp": 0,
+      "tn": 0,
+      "fn": 0
+    },
+    "emotional": {
+      "tp": 22,
+      "fp": 0,
+      "tn": 0,
+      "fn": 18
+    },
+    "interest": {
+      "tp": 30,
+      "fp": 0,
+      "tn": 0,
+      "fn": 5
+    },
+    "casual": {
+      "tp": 0,
+      "fp": 1,
+      "tn": 49,
+      "fn": 0
+    },
+    "transactional": {
+      "tp": 0,
+      "fp": 2,
+      "tn": 48,
+      "fn": 0
+    }
+  },
+  "details": [
+    {
+      "id": "first_01",
+      "action": "初次见面，久仰大名",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "first_encounter"
+    },
+    {
+      "id": "first_02",
+      "action": "请问阁下尊姓大名？",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "first_encounter"
+    },
+    {
+      "id": "first_03",
+      "action": "幸会幸会，在下是...",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "first_encounter"
+    },
+    {
+      "id": "first_04",
+      "action": "不知公子/姑娘是哪里人士？",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "first_encounter"
+    },
+    {
+      "id": "first_05",
+      "action": "敢问尊驾何方神圣？",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "first_encounter"
+    },
+    {
+      "id": "first_06",
+      "action": "初来乍到，还请多多指教",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "first_encounter"
+    },
+    {
+      "id": "first_07",
+      "action": "素未谋面，今日有缘相见",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "first_encounter"
+    },
+    {
+      "id": "first_08",
+      "action": "Nice to meet you, I'm new here",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "first_encounter"
+    },
+    {
+      "id": "first_09",
+      "action": "你好，我是新来的",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "first_encounter"
+    },
+    {
+      "id": "first_10",
+      "action": "第一次来这里，不知规矩",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "first_encounter"
+    },
+    {
+      "id": "first_11",
+      "action": "初来贵宝地，请多关照",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "first_encounter"
+    },
+    {
+      "id": "first_12",
+      "action": "久闻大名，不想今日得见",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "first_encounter"
+    },
+    {
+      "id": "first_13",
+      "action": "有缘千里来相会",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "first_encounter"
+    },
+    {
+      "id": "first_14",
+      "action": "初到贵府，不知礼数",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "first_encounter"
+    },
+    {
+      "id": "first_15",
+      "action": "在下初来乍到，望指点迷津",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "first_encounter"
+    },
+    {
+      "id": "first_16",
+      "action": "初次拜访，略备薄礼",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "first_encounter"
+    },
+    {
+      "id": "first_17",
+      "action": "素昧平生，今日有幸相识",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "first_encounter"
+    },
+    {
+      "id": "first_18",
+      "action": "初次相见，多有冒昧",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "first_encounter"
+    },
+    {
+      "id": "first_19",
+      "action": "不知阁下如何称呼？",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "first_encounter"
+    },
+    {
+      "id": "first_20",
+      "action": "初次登门，还望海涵",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "first_encounter"
+    },
+    {
+      "id": "first_21",
+      "action": "你是谁？我怎么从没见过你？",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "first_encounter"
+    },
+    {
+      "id": "first_22",
+      "action": "请问您是？",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "first_encounter"
+    },
+    {
+      "id": "first_23",
+      "action": "不认识你啊，你是哪位？",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "first_encounter"
+    },
+    {
+      "id": "first_24",
+      "action": "面生得很，敢问贵姓？",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "first_encounter"
+    },
+    {
+      "id": "first_25",
+      "action": "初次见面，幸会幸会",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "first_encounter"
+    },
+    {
+      "id": "emo_01",
+      "action": "我真的很喜欢你",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "emotional"
+    },
+    {
+      "id": "emo_02",
+      "action": "我恨死你了！",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "emotional"
+    },
+    {
+      "id": "emo_03",
+      "action": "你让我很生气！",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "emotional"
+    },
+    {
+      "id": "emo_04",
+      "action": "我好开心啊！",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "emotional"
+    },
+    {
+      "id": "emo_05",
+      "action": "我太难过了",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "emotional"
+    },
+    {
+      "id": "emo_06",
+      "action": "我真的很失望",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "emotional"
+    },
+    {
+      "id": "emo_07",
+      "action": "太让人愤怒了！",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "emotional"
+    },
+    {
+      "id": "emo_08",
+      "action": "我爱你",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "emotional"
+    },
+    {
+      "id": "emo_09",
+      "action": "I hate you!",
+      "ground_truth": true,
+      "prediction": false,
+      "correct": false,
+      "type": "emotional"
+    },
+    {
+      "id": "emo_10",
+      "action": "I'm so angry right now",
+      "ground_truth": true,
+      "prediction": false,
+      "correct": false,
+      "type": "emotional"
+    },
+    {
+      "id": "emo_11",
+      "action": "这真让人伤心",
+      "ground_truth": true,
+      "prediction": false,
+      "correct": false,
+      "type": "emotional"
+    },
+    {
+      "id": "emo_12",
+      "action": "我讨厌这一切",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "emotional"
+    },
+    {
+      "id": "emo_13",
+      "action": "气死我了！",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "emotional"
+    },
+    {
+      "id": "emo_14",
+      "action": "太惊喜了！",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "emotional"
+    },
+    {
+      "id": "emo_15",
+      "action": "我心里好难受",
+      "ground_truth": true,
+      "prediction": false,
+      "correct": false,
+      "type": "emotional"
+    },
+    {
+      "id": "emo_16",
+      "action": "你太过分了，我很生气",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "emotional"
+    },
+    {
+      "id": "emo_17",
+      "action": "我从来没这么开心过",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "emotional"
+    },
+    {
+      "id": "emo_18",
+      "action": "你怎么能这样对我？我恨你",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "emotional"
+    },
+    {
+      "id": "emo_19",
+      "action": "我真的很担心你",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "emotional"
+    },
+    {
+      "id": "emo_20",
+      "action": "太感动了，我要哭了",
+      "ground_truth": true,
+      "prediction": false,
+      "correct": false,
+      "type": "emotional"
+    },
+    {
+      "id": "emo_21",
+      "action": "你让我很伤心",
+      "ground_truth": true,
+      "prediction": false,
+      "correct": false,
+      "type": "emotional"
+    },
+    {
+      "id": "emo_22",
+      "action": "我好害怕",
+      "ground_truth": true,
+      "prediction": false,
+      "correct": false,
+      "type": "emotional"
+    },
+    {
+      "id": "emo_23",
+      "action": "你太让我失望了",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "emotional"
+    },
+    {
+      "id": "emo_24",
+      "action": "我对你真的很失望",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "emotional"
+    },
+    {
+      "id": "emo_25",
+      "action": "气煞我也！",
+      "ground_truth": true,
+      "prediction": false,
+      "correct": false,
+      "type": "emotional"
+    },
+    {
+      "id": "emo_26",
+      "action": "吾甚爱之",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "emotional"
+    },
+    {
+      "id": "emo_27",
+      "action": "恨不得把你杀了",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "emotional"
+    },
+    {
+      "id": "emo_28",
+      "action": "我好想你",
+      "ground_truth": true,
+      "prediction": false,
+      "correct": false,
+      "type": "emotional"
+    },
+    {
+      "id": "emo_29",
+      "action": "你是我最讨厌的人",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "emotional"
+    },
+    {
+      "id": "emo_30",
+      "action": "我对你没有感情了",
+      "ground_truth": true,
+      "prediction": false,
+      "correct": false,
+      "type": "emotional"
+    },
+    {
+      "id": "emo_31",
+      "action": "我真的很在乎你",
+      "ground_truth": true,
+      "prediction": false,
+      "correct": false,
+      "type": "emotional"
+    },
+    {
+      "id": "emo_32",
+      "action": "你让我很心寒",
+      "ground_truth": true,
+      "prediction": false,
+      "correct": false,
+      "type": "emotional"
+    },
+    {
+      "id": "emo_33",
+      "action": "I'm so disappointed in you",
+      "ground_truth": true,
+      "prediction": false,
+      "correct": false,
+      "type": "emotional"
+    },
+    {
+      "id": "emo_34",
+      "action": "I love spending time with you",
+      "ground_truth": true,
+      "prediction": false,
+      "correct": false,
+      "type": "emotional"
+    },
+    {
+      "id": "emo_35",
+      "action": "久违的惊喜！",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "emotional"
+    },
+    {
+      "id": "emo_36",
+      "action": "这是我听过最让人难过的消息",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "emotional"
+    },
+    {
+      "id": "emo_37",
+      "action": "我的心都碎了",
+      "ground_truth": true,
+      "prediction": false,
+      "correct": false,
+      "type": "emotional"
+    },
+    {
+      "id": "emo_38",
+      "action": "太高兴了无法形容",
+      "ground_truth": true,
+      "prediction": false,
+      "correct": false,
+      "type": "emotional"
+    },
+    {
+      "id": "emo_39",
+      "action": "我很愧疚",
+      "ground_truth": true,
+      "prediction": false,
+      "correct": false,
+      "type": "emotional"
+    },
+    {
+      "id": "emo_40",
+      "action": "让我非常激动",
+      "ground_truth": true,
+      "prediction": false,
+      "correct": false,
+      "type": "emotional"
+    },
+    {
+      "id": "interest_01",
+      "action": "听说你诗写得很好？",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "interest"
+    },
+    {
+      "id": "interest_02",
+      "action": "这首诗词写得如何？",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "interest"
+    },
+    {
+      "id": "interest_03",
+      "action": "园中的花开了",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "interest"
+    },
+    {
+      "id": "interest_04",
+      "action": "今日作诗可好？",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "interest"
+    },
+    {
+      "id": "interest_05",
+      "action": "这琴弹得甚妙",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "interest"
+    },
+    {
+      "id": "interest_06",
+      "action": "你的画技如何？",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "interest"
+    },
+    {
+      "id": "interest_07",
+      "action": "谈谈书法吧",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "interest"
+    },
+    {
+      "id": "interest_08",
+      "action": "花落了，好可惜",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "interest"
+    },
+    {
+      "id": "interest_09",
+      "action": "这朵花真美",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "interest"
+    },
+    {
+      "id": "interest_10",
+      "action": "诗社今日聚会",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "interest"
+    },
+    {
+      "id": "interest_11",
+      "action": "作一首绝句如何？",
+      "ground_truth": true,
+      "prediction": false,
+      "correct": false,
+      "type": "interest"
+    },
+    {
+      "id": "interest_12",
+      "action": "葬花吟你觉得如何？",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "interest"
+    },
+    {
+      "id": "interest_13",
+      "action": "今日赏花去不去？",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "interest"
+    },
+    {
+      "id": "interest_14",
+      "action": "这词牌用得好",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "interest"
+    },
+    {
+      "id": "interest_15",
+      "action": "你对唐诗怎么看？",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "interest"
+    },
+    {
+      "id": "interest_16",
+      "action": "园中菊花盛开",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "interest"
+    },
+    {
+      "id": "interest_17",
+      "action": "这幅画意境深远",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "interest"
+    },
+    {
+      "id": "interest_18",
+      "action": "来下一盘棋如何？",
+      "ground_truth": true,
+      "prediction": false,
+      "correct": false,
+      "type": "interest"
+    },
+    {
+      "id": "interest_19",
+      "action": "你的琴艺进步了",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "interest"
+    },
+    {
+      "id": "interest_20",
+      "action": "这花该如何养护？",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "interest"
+    },
+    {
+      "id": "interest_21",
+      "action": "春日赏花正好",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "interest"
+    },
+    {
+      "id": "interest_22",
+      "action": "秋日写诗最宜",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "interest"
+    },
+    {
+      "id": "interest_23",
+      "action": "这诗的韵脚不对",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "interest"
+    },
+    {
+      "id": "interest_24",
+      "action": "谁的诗写得最好？",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "interest"
+    },
+    {
+      "id": "interest_25",
+      "action": "今日诗会你来吗？",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "interest"
+    },
+    {
+      "id": "interest_26",
+      "action": "这花的名字叫什么？",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "interest"
+    },
+    {
+      "id": "interest_27",
+      "action": "你喜欢什么样的诗？",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "interest"
+    },
+    {
+      "id": "interest_28",
+      "action": "这牡丹开得正艳",
+      "ground_truth": true,
+      "prediction": false,
+      "correct": false,
+      "type": "interest"
+    },
+    {
+      "id": "interest_29",
+      "action": "梅花香自苦寒来",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "interest"
+    },
+    {
+      "id": "interest_30",
+      "action": "竹子的品格最高",
+      "ground_truth": true,
+      "prediction": false,
+      "correct": false,
+      "type": "interest"
+    },
+    {
+      "id": "interest_31",
+      "action": "这字写得真好",
+      "ground_truth": true,
+      "prediction": false,
+      "correct": false,
+      "type": "interest"
+    },
+    {
+      "id": "interest_32",
+      "action": "今日可有新诗？",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "interest"
+    },
+    {
+      "id": "interest_33",
+      "action": "这花该插在哪里？",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "interest"
+    },
+    {
+      "id": "interest_34",
+      "action": "你最喜欢哪位诗人？",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "interest"
+    },
+    {
+      "id": "interest_35",
+      "action": "这首词意境很美",
+      "ground_truth": true,
+      "prediction": true,
+      "correct": true,
+      "type": "interest"
+    },
+    {
+      "id": "casual_01",
+      "action": "今天天气不错",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_02",
+      "action": "吃饭了吗？",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_03",
+      "action": "你在做什么？",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_04",
+      "action": "时间过得真快",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_05",
+      "action": "今日可好？",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_06",
+      "action": "你去哪里？",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_07",
+      "action": "路上小心",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_08",
+      "action": "早些休息",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_09",
+      "action": "喝杯茶吧",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_10",
+      "action": "外面下雨了",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_11",
+      "action": "今日有些冷",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_12",
+      "action": "你看起来不错",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_13",
+      "action": "最近忙什么？",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_14",
+      "action": "坐一会儿吧",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_15",
+      "action": "我先走了",
+      "ground_truth": false,
+      "prediction": true,
+      "correct": false,
+      "type": "casual"
+    },
+    {
+      "id": "casual_16",
+      "action": "晚安",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_17",
+      "action": "早上好",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_18",
+      "action": "你睡得好吗？",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_19",
+      "action": "今天有什么安排？",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_20",
+      "action": "时候不早了",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_21",
+      "action": "那边有人找你",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_22",
+      "action": "你饿不饿？",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_23",
+      "action": "这茶不错",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_24",
+      "action": "窗外风景很美",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_25",
+      "action": "你准备去哪？",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_26",
+      "action": "好的，知道了",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_27",
+      "action": "嗯，我明白",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_28",
+      "action": "就这样吧",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_29",
+      "action": "随便你",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_30",
+      "action": "都可以",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_31",
+      "action": "你说呢？",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_32",
+      "action": "那就这样定了",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_33",
+      "action": "好久不见",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_34",
+      "action": "最近可好？",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_35",
+      "action": "一切都好",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_36",
+      "action": "没什么特别的",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_37",
+      "action": "照常罢了",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_38",
+      "action": "和往常一样",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_39",
+      "action": "这里有点热",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_40",
+      "action": "开个窗户吧",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_41",
+      "action": "What's the time?",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_42",
+      "action": "Nice weather today",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_43",
+      "action": "See you later",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_44",
+      "action": "Have a good day",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_45",
+      "action": "Nothing special",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_46",
+      "action": "日子过得真快",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_47",
+      "action": "转眼又是一天",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_48",
+      "action": "这菜味道不错",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_49",
+      "action": "今日天气晴朗",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "casual_50",
+      "action": "你穿这个好看",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "casual"
+    },
+    {
+      "id": "trans_01",
+      "action": "把那本书递给我",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_02",
+      "action": "门在那边",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_03",
+      "action": "请跟我来",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_04",
+      "action": "这是你要的东西",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_05",
+      "action": "放在桌上就好",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_06",
+      "action": "已经准备好了",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_07",
+      "action": "收到，我知道了",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_08",
+      "action": "你先等一下",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_09",
+      "action": "马上就来",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_10",
+      "action": "稍等片刻",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_11",
+      "action": "请坐",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_12",
+      "action": "请用茶",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_13",
+      "action": "这边请",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_14",
+      "action": "往前走就到了",
+      "ground_truth": false,
+      "prediction": true,
+      "correct": false,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_15",
+      "action": "左转就是",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_16",
+      "action": "在那边",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_17",
+      "action": "你找谁？",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_18",
+      "action": "他不在",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_19",
+      "action": "一会儿回来",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_20",
+      "action": "你有事吗？",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_21",
+      "action": "什么事？",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_22",
+      "action": "请讲",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_23",
+      "action": "我去看看",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_24",
+      "action": "等我一下",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_25",
+      "action": "好的",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_26",
+      "action": "明白",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_27",
+      "action": "是",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_28",
+      "action": "不是",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_29",
+      "action": "对",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_30",
+      "action": "错",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_31",
+      "action": "可以",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_32",
+      "action": "不行",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_33",
+      "action": "行",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_34",
+      "action": "不可以",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_35",
+      "action": "请进",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_36",
+      "action": "请出去",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_37",
+      "action": "关上门",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_38",
+      "action": "打开窗",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_39",
+      "action": "把灯点上",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_40",
+      "action": "收拾一下",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_41",
+      "action": "就放那里吧",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_42",
+      "action": "拿走吧",
+      "ground_truth": false,
+      "prediction": true,
+      "correct": false,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_43",
+      "action": "帮我拿一下",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_44",
+      "action": "你去忙吧",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_45",
+      "action": "我去办事",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_46",
+      "action": "Pass me that",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_47",
+      "action": "Yes, understood",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_48",
+      "action": "No problem",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_49",
+      "action": "Got it",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    },
+    {
+      "id": "trans_50",
+      "action": "I'll handle it",
+      "ground_truth": false,
+      "prediction": false,
+      "correct": true,
+      "type": "transactional"
+    }
+  ]
+}

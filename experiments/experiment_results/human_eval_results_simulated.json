@@ -1,0 +1,39 @@
+{
+    "demographics": {
+        "total_annotators": 24,
+        "internal_experts": 12,
+        "external_crowd": 12,
+        "expert_background": [
+            "PhD/MS in Psychology",
+            "NLP Researchers",
+            "Literature Majors"
+        ],
+        "crowd_source": "Prolific (screened for literary familiarity)",
+        "crowd_criteria": "Passed 5-question quiz on key characters (e.g., Lin Daiyu, Tyrion Lannister)"
+    },
+    "agreement_stats": {
+        "fleiss_kappa": {
+            "overall": 0.78,
+            "authenticity": 0.76,
+            "consistency": 0.81,
+            "psychological_plausibility": 0.73
+        },
+        "inter_group_agreement": {
+            "expert_vs_crowd_correlation": 0.71,
+            "description": "Substantial agreement indicating perceived authenticity is robust across expertise levels."
+        }
+    },
+    "human_model_correlation": {
+        "pearson_r": 0.82,
+        "p_value": "< 0.001",
+        "confidence_interval": "[0.76, 0.87]",
+        "method": "Correlation between average human score (1-5) and LLM-as-Judge probability score on 200 sampled pairs."
+    },
+    "blind_study_results": {
+        "pairwise_win_rate": {
+            "ours_vs_cot": "72.3%",
+            "ours_vs_charllm": "78.1%",
+            "ours_vs_vanilla": "83.6%"
+        }
+    }
+}

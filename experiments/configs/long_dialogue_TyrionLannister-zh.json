@@ -1,0 +1,11 @@
+{
+ "performer_codes": [
+  "TyrionLannister-zh"
+ ],
+ "world_file_path": "data/worlds/A_Song_of_Ice_and_Fire/world_info.json",
+ "role_file_dir": "data/roles/",
+ "loc_file_path": "data/locations/A_Song_of_Ice_and_Fire.json",
+ "language": "zh",
+ "source": "A_Song_of_Ice_and_Fire",
+ "experiment_subname": "long_dialogue_fixed"
+}

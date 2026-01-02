@@ -1,0 +1,9 @@
+{
+ "config": {
+  "role_llm": "gemini-2.5-flash-lite",
+  "world_llm": "gemini-2.5-flash-lite",
+  "total_turns": 50,
+  "num_characters": 3
+ },
+ "results": []
+}

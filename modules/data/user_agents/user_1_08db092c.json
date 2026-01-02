@@ -1,0 +1,16 @@
+{
+  "user_id": 1,
+  "role_code": "user_1_08db092c",
+  "scroll_id": 6,
+  "mbti": "INFP",
+  "big_five": {
+    "openness": 0.5,
+    "conscientiousness": 0.5,
+    "extraversion": 0.5,
+    "agreeableness": 0.5,
+    "neuroticism": 0.5
+  },
+  "identity": "居士",
+  "goal": "创作诗词书画，以艺术弘扬善念与哲理。",
+  "nickname": "李青"
+}

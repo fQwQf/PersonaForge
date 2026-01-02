@@ -1,0 +1,16 @@
+{
+  "user_id": 1,
+  "role_code": "user_1_de01a32f",
+  "scroll_id": 6,
+  "mbti": "INFP",
+  "big_five": {
+    "openness": 0.5,
+    "conscientiousness": 0.5,
+    "extraversion": 0.5,
+    "agreeableness": 0.5,
+    "neuroticism": 0.5
+  },
+  "identity": "诗社雅士",
+  "goal": "在诗社中创作流传千古的佳作。",
+  "nickname": "李青"
+}

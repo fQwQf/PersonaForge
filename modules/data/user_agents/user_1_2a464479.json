@@ -1,0 +1,16 @@
+{
+  "user_id": 1,
+  "role_code": "user_1_2a464479",
+  "scroll_id": 6,
+  "mbti": "INFP",
+  "big_five": {
+    "openness": 0.5,
+    "conscientiousness": 0.5,
+    "extraversion": 0.5,
+    "agreeableness": 0.5,
+    "neuroticism": 0.5
+  },
+  "identity": "旅行者",
+  "goal": "探索这个神奇的世界",
+  "nickname": "qwer"
+}

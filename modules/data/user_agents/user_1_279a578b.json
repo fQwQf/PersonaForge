@@ -1,0 +1,16 @@
+{
+  "user_id": 1,
+  "role_code": "user_1_279a578b",
+  "scroll_id": 6,
+  "mbti": "INFP",
+  "big_five": {
+    "openness": 0.5,
+    "conscientiousness": 0.5,
+    "extraversion": 0.5,
+    "agreeableness": 0.5,
+    "neuroticism": 0.5
+  },
+  "identity": "诗人",
+  "goal": "以诗慰藉敏感心灵，与知己共鸣悲欢离合。",
+  "nickname": "qwq"
+}

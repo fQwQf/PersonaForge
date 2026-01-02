@@ -1,0 +1,1122 @@
+[
+ {
+  "scenario_id": "emotional_1",
+  "role_code": "LiWan-zh",
+  "response": "A: 哪有什么心事，不过是看着兰儿读书，想着他日后前程罢了。",
+  "inner_monologue": null,
+  "pc_score": 0.5,
+  "sa_score": 0.75,
+  "dm_score": 0.5,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "emotional",
+   "trigger": "你怎么看起来有些忧愁？是有什么心事吗？"
+  }
+ },
+ {
+  "scenario_id": "emotional_2",
+  "role_code": "LiWan-zh",
+  "response": "A: 唉，人各有志，强求不得。只愿他此去，一路顺风，前程似锦。",
+  "inner_monologue": null,
+  "pc_score": 0.25,
+  "sa_score": 0.5,
+  "dm_score": 0.5,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "emotional",
+   "trigger": "这封信里说你最在意的人即将离开，你有什么感想？"
+  }
+ },
+ {
+  "scenario_id": "conflict_1",
+  "role_code": "LiWan-zh",
+  "response": "A: 哎呀，我疏忽了，下次定当谨慎，不让大家操心。",
+  "inner_monologue": null,
+  "pc_score": 0.25,
+  "sa_score": 0.0,
+  "dm_score": 0.25,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "conflict",
+   "trigger": "你这次做的事情真是太让人失望了！大家都在议论你！"
+  }
+ },
+ {
+  "scenario_id": "conflict_2",
+  "role_code": "LiWan-zh",
+  "response": "A: 兰儿，你既有此心，何不多加揣摩？旁人言语，不必过于介怀。",
+  "inner_monologue": null,
+  "pc_score": 0.25,
+  "sa_score": 0.75,
+  "dm_score": 0.0,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "conflict",
+   "trigger": "我觉得你根本做不好这件事，还是让别人来吧！"
+  }
+ },
+ {
+  "scenario_id": "casual_1",
+  "role_code": "LiWan-zh",
+  "response": "今日天气甚好，我打算在家中整理些旧物，顺便教导兰儿读书，也算充实。",
+  "inner_monologue": null,
+  "pc_score": 0.5,
+  "sa_score": 0.75,
+  "dm_score": 0.5,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "casual",
+   "trigger": "今天天气不错，你有什么打算吗？"
+  }
+ },
+ {
+  "scenario_id": "casual_2",
+  "role_code": "LiWan-zh",
+  "response": "A: 新事物嘛，我也不太懂，只盼着能顺应天理，不扰了规矩才好。",
+  "inner_monologue": null,
+  "pc_score": 0.25,
+  "sa_score": 0.75,
+  "dm_score": 0.5,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "casual",
+   "trigger": "最近有一种新的想法在流行，你怎么看待新事物？"
+  }
+ },
+ {
+  "scenario_id": "first_encounter_1",
+  "role_code": "LiWan-zh",
+  "response": "Q: 初次见面，请多指教。请问你是做什么的？\nA: 我是李纨，贾府的二奶奶。如今只在家中抚养儿子兰儿，闲来无事，便与姐妹们作诗唱和。",
+  "inner_monologue": null,
+  "pc_score": 0.25,
+  "sa_score": 0.75,
+  "dm_score": 0.5,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "first_encounter",
+   "trigger": "初次见面，请多指教。请问你是做什么的？"
+  }
+ },
+ {
+  "scenario_id": "decision_1",
+  "role_code": "LiWan-zh",
+  "response": "李纨: \"今日诗题已定，请诸位姐妹各展才情。兰儿，须知读书明理方是正途，不可学那些不肖子弟的样子。至于您说的这件事，容我仔细思量片刻，毕竟事关重大，不敢贸然决定。\"",
+  "inner_monologue": null,
+  "pc_score": 0.5,
+  "sa_score": 0.75,
+  "dm_score": 0.5,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "decision",
+   "trigger": "这件事关系重大，你需要在今天做出决定。你会怎么选？"
+  }
+ },
+ {
+  "scenario_id": "emotional_1",
+  "role_code": "sunquan-zh",
+  "response": "Q: 你怎么看起来有些忧愁？是有什么心事吗？\nA: 孤不过是思虑江东前程，为父兄基业，为天下苍生，方有此感。",
+  "inner_monologue": null,
+  "pc_score": 0.5,
+  "sa_score": 0.75,
+  "dm_score": 0.75,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "emotional",
+   "trigger": "你怎么看起来有些忧愁？是有什么心事吗？"
+  }
+ },
+ {
+  "scenario_id": "emotional_2",
+  "role_code": "sunquan-zh",
+  "response": "Q: 这封信里说你最在意的人即将离开，你有什么感想？\nA: 孤以为，知人善用，方能固我基业。若真有人才将离，孤必尽力挽留，以待天时。",
+  "inner_monologue": null,
+  "pc_score": 0.5,
+  "sa_score": 0.75,
+  "dm_score": 0.75,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "emotional",
+   "trigger": "这封信里说你最在意的人即将离开，你有什么感想？"
+  }
+ },
+ {
+  "scenario_id": "conflict_1",
+  "role_code": "sunquan-zh",
+  "response": "A: 哼，闲言碎语不足为惧。孤自有分寸，尔等不必多言。",
+  "inner_monologue": null,
+  "pc_score": 0.0,
+  "sa_score": 0.5,
+  "dm_score": 0.0,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "conflict",
+   "trigger": "你这次做的事情真是太让人失望了！大家都在议论你！"
+  }
+ },
+ {
+  "scenario_id": "conflict_2",
+  "role_code": "sunquan-zh",
+  "response": "Q: rival: \"我觉得你根本做不好这件事，还是让别人来吧！\"\nA: 哼，鼠目寸光！用人不当，焉能成大事？此战，孤自当亲征！",
+  "inner_monologue": null,
+  "pc_score": 0.5,
+  "sa_score": 0.75,
+  "dm_score": 0.0,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "conflict",
+   "trigger": "我觉得你根本做不好这件事，还是让别人来吧！"
+  }
+ },
+ {
+  "scenario_id": "casual_1",
+  "role_code": "sunquan-zh",
+  "response": "今天天气甚好，孤正考虑如何巩固江东，待时而动。",
+  "inner_monologue": null,
+  "pc_score": 0.25,
+  "sa_score": 0.75,
+  "dm_score": 0.5,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "casual",
+   "trigger": "今天天气不错，你有什么打算吗？"
+  }
+ },
+ {
+  "scenario_id": "casual_2",
+  "role_code": "sunquan-zh",
+  "response": "Q: 最近有一种新的想法在流行，你怎么看待新事物？\nA: 新事物，若能利于社稷，孤自当审慎纳之。然若有悖常理，扰乱民心，则当严加防范。",
+  "inner_monologue": null,
+  "pc_score": 0.25,
+  "sa_score": 0.75,
+  "dm_score": 0.5,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "casual",
+   "trigger": "最近有一种新的想法在流行，你怎么看待新事物？"
+  }
+ },
+ {
+  "scenario_id": "first_encounter_1",
+  "role_code": "sunquan-zh",
+  "response": "Q: 初次见面，请多指教。请问你是做什么的？\nA: 孤乃孙仲谋，江东之主。尔等初来，莫要惊慌。",
+  "inner_monologue": null,
+  "pc_score": 0.25,
+  "sa_score": 0.5,
+  "dm_score": 0.5,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "first_encounter",
+   "trigger": "初次见面，请多指教。请问你是做什么的？"
+  }
+ },
+ {
+  "scenario_id": "decision_1",
+  "role_code": "sunquan-zh",
+  "response": "A: 尔等退下，容孤思之。",
+  "inner_monologue": null,
+  "pc_score": 0.25,
+  "sa_score": 0.5,
+  "dm_score": 0.5,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "decision",
+   "trigger": "这件事关系重大，你需要在今天做出决定。你会怎么选？"
+  }
+ },
+ {
+  "scenario_id": "emotional_1",
+  "role_code": "caocao-zh",
+  "response": "朋友，孤不过是胸中自有丘壑，一时思虑万千罢了。不必多问，待孤解决，自会与你畅谈。",
+  "inner_monologue": null,
+  "pc_score": 0.25,
+  "sa_score": 0.75,
+  "dm_score": 0.5,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "emotional",
+   "trigger": "你怎么看起来有些忧愁？是有什么心事吗？"
+  }
+ },
+ {
+  "scenario_id": "emotional_2",
+  "role_code": "caocao-zh",
+  "response": "A: 哼！谁敢背叛孤，孤必将他千刀万剐！",
+  "inner_monologue": null,
+  "pc_score": 0.0,
+  "sa_score": 0.0,
+  "dm_score": 0.0,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "emotional",
+   "trigger": "这封信里说你最在意的人即将离开，你有什么感想？"
+  }
+ },
+ {
+  "scenario_id": "conflict_1",
+  "role_code": "caocao-zh",
+  "response": "A: 哼，一群宵小之辈，只知背后嚼舌根。大丈夫有所为有所不为，孤行事自有孤的道理，岂容尔等置喙！",
+  "inner_monologue": null,
+  "pc_score": 0.0,
+  "sa_score": 0.75,
+  "dm_score": 0.0,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "conflict",
+   "trigger": "你这次做的事情真是太让人失望了！大家都在议论你！"
+  }
+ },
+ {
+  "scenario_id": "conflict_2",
+  "role_code": "caocao-zh",
+  "response": "A: 哼，岂有此理！这天下大事，岂是你我这般小人能妄议的？你且看着，孤自有分寸！",
+  "inner_monologue": null,
+  "pc_score": 0.0,
+  "sa_score": 0.75,
+  "dm_score": 0.0,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "conflict",
+   "trigger": "我觉得你根本做不好这件事，还是让别人来吧！"
+  }
+ },
+ {
+  "scenario_id": "casual_1",
+  "role_code": "caocao-zh",
+  "response": "孤观天色，甚是晴朗。正欲整顿兵马，操练一番，以备不时之需。你若有闲，不妨一同前来，切磋技艺，岂不快哉？",
+  "inner_monologue": null,
+  "pc_score": 0.5,
+  "sa_score": 0.75,
+  "dm_score": 0.5,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "casual",
+   "trigger": "今天天气不错，你有什么打算吗？"
+  }
+ },
+ {
+  "scenario_id": "casual_2",
+  "role_code": "caocao-zh",
+  "response": "Q: 最近有一种新的想法在流行，你怎么看待新事物？\nA: 哼，新事物？但凡是能让孤成就大业，管他新旧，孤都照单全收！",
+  "inner_monologue": null,
+  "pc_score": 0.25,
+  "sa_score": 0.25,
+  "dm_score": 0.5,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "casual",
+   "trigger": "最近有一种新的想法在流行，你怎么看待新事物？"
+  }
+ },
+ {
+  "scenario_id": "first_encounter_1",
+  "role_code": "caocao-zh",
+  "response": "Q: 初次见面，请多指教。请问你是做什么的？\nA: 哼，我乃挟天子以令诸侯，匡扶汉室之人。这天下，终将是孤的！",
+  "inner_monologue": null,
+  "pc_score": 0.0,
+  "sa_score": 0.75,
+  "dm_score": 0.5,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "first_encounter",
+   "trigger": "初次见面，请多指教。请问你是做什么的？"
+  }
+ },
+ {
+  "scenario_id": "decision_1",
+  "role_code": "caocao-zh",
+  "response": "Q: \"这件事关系重大，你需要在今天做出决定。你会怎么选？\"\nA: 大丈夫当机立断，岂能优柔寡断？孤自有决断。",
+  "inner_monologue": null,
+  "pc_score": 0.25,
+  "sa_score": 0.75,
+  "dm_score": 0.5,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "decision",
+   "trigger": "这件事关系重大，你需要在今天做出决定。你会怎么选？"
+  }
+ },
+ {
+  "scenario_id": "emotional_1",
+  "role_code": "diao-chan-zh",
+  "response": "A: 唉，将军有所不知，妾身近日心乱如麻，实乃为国事所忧。",
+  "inner_monologue": null,
+  "pc_score": 0.5,
+  "sa_score": 0.75,
+  "dm_score": 0.0,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "emotional",
+   "trigger": "你怎么看起来有些忧愁？是有什么心事吗？"
+  }
+ },
+ {
+  "scenario_id": "emotional_2",
+  "role_code": "diao-chan-zh",
+  "response": "A: 夫君此去，妾身心如刀绞。只望将军平安归来，莫要让妾身独守空闺。",
+  "inner_monologue": null,
+  "pc_score": 0.5,
+  "sa_score": 0.75,
+  "dm_score": 0.0,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "emotional",
+   "trigger": "这封信里说你最在意的人即将离开，你有什么感想？"
+  }
+ },
+ {
+  "scenario_id": "conflict_1",
+  "role_code": "diao-chan-zh",
+  "response": "A:  妾身所做之事，皆是为了报答恩公，望恩公明鉴。",
+  "inner_monologue": null,
+  "pc_score": 0.25,
+  "sa_score": 0.75,
+  "dm_score": 0.0,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "conflict",
+   "trigger": "你这次做的事情真是太让人失望了！大家都在议论你！"
+  }
+ },
+ {
+  "scenario_id": "conflict_2",
+  "role_code": "diao-chan-zh",
+  "response": "A: 妾身自有办法，将军何须担忧。",
+  "inner_monologue": null,
+  "pc_score": 0.0,
+  "sa_score": 0.75,
+  "dm_score": 0.0,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "conflict",
+   "trigger": "我觉得你根本做不好这件事，还是让别人来吧！"
+  }
+ },
+ {
+  "scenario_id": "casual_1",
+  "role_code": "diao-chan-zh",
+  "response": "A: 天气甚好，不如与将军一同赏花吟诗，共度良辰？",
+  "inner_monologue": null,
+  "pc_score": 0.5,
+  "sa_score": 0.75,
+  "dm_score": 0.5,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "casual",
+   "trigger": "今天天气不错，你有什么打算吗？"
+  }
+ },
+ {
+  "scenario_id": "casual_2",
+  "role_code": "diao-chan-zh",
+  "response": "A: 新事物固然令人耳目一新，但妾身以为，更重要的是审时度势，明辨是非，方能不被表象所迷惑。",
+  "inner_monologue": null,
+  "pc_score": 0.5,
+  "sa_score": 0.75,
+  "dm_score": 0.5,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "casual",
+   "trigger": "最近有一种新的想法在流行，你怎么看待新事物？"
+  }
+ },
+ {
+  "scenario_id": "first_encounter_1",
+  "role_code": "diao-chan-zh",
+  "response": "妾身乃貂蝉，受王司徒之命，为国分忧。将军英武盖世，妾身倾慕已久。",
+  "inner_monologue": null,
+  "pc_score": 0.25,
+  "sa_score": 0.75,
+  "dm_score": 0.5,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "first_encounter",
+   "trigger": "初次见面，请多指教。请问你是做什么的？"
+  }
+ },
+ {
+  "scenario_id": "decision_1",
+  "role_code": "diao-chan-zh",
+  "response": "A: 妾身明白，此事关乎国家安危，妾身必将竭尽所能。",
+  "inner_monologue": null,
+  "pc_score": 0.25,
+  "sa_score": 0.75,
+  "dm_score": 0.5,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "decision",
+   "trigger": "这件事关系重大，你需要在今天做出决定。你会怎么选？"
+  }
+ },
+ {
+  "scenario_id": "emotional_1",
+  "role_code": "YouSanjie-zh",
+  "response": "A: 关你何事？",
+  "inner_monologue": null,
+  "pc_score": 0.0,
+  "sa_score": 0.0,
+  "dm_score": 0.0,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "emotional",
+   "trigger": "你怎么看起来有些忧愁？是有什么心事吗？"
+  }
+ },
+ {
+  "scenario_id": "emotional_2",
+  "role_code": "YouSanjie-zh",
+  "response": "Q: 这封信里说你最在意的人即将离开，你有什么感想？\nA: 柳郎他……他竟真的要走了吗？哼，他以为他能就这样轻易离开，不顾我的感受吗？这世间，除了我柳郎，谁还配得上我尤三姐！",
+  "inner_monologue": null,
+  "pc_score": 0.25,
+  "sa_score": 0.5,
+  "dm_score": 0.0,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "emotional",
+   "trigger": "这封信里说你最在意的人即将离开，你有什么感想？"
+  }
+ },
+ {
+  "scenario_id": "conflict_1",
+  "role_code": "YouSanjie-zh",
+  "response": "老爷休要痴心妄想，奴家虽贫，却也有自己的骨气！",
+  "inner_monologue": null,
+  "pc_score": 0.5,
+  "sa_score": 0.75,
+  "dm_score": 0.0,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "conflict",
+   "trigger": "你这次做的事情真是太让人失望了！大家都在议论你！"
+  }
+ },
+ {
+  "scenario_id": "conflict_2",
+  "role_code": "YouSanjie-zh",
+  "response": "Q: 我觉得你根本做不好这件事，还是让别人来吧！\nA: 哼，说我做不好？待我让你看看，什么叫做巾帼不让须眉！",
+  "inner_monologue": null,
+  "pc_score": 0.25,
+  "sa_score": 0.5,
+  "dm_score": 0.0,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "conflict",
+   "trigger": "我觉得你根本做不好这件事，还是让别人来吧！"
+  }
+ },
+ {
+  "scenario_id": "casual_1",
+  "role_code": "YouSanjie-zh",
+  "response": "奴家今日无甚打算，只盼能寻得一知己，共度这良辰美景罢了。",
+  "inner_monologue": null,
+  "pc_score": 0.25,
+  "sa_score": 0.75,
+  "dm_score": 0.5,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "casual",
+   "trigger": "今天天气不错，你有什么打算吗？"
+  }
+ },
+ {
+  "scenario_id": "casual_2",
+  "role_code": "YouSanjie-zh",
+  "response": "A: 新事物？哼，什么新事物能比得上骨气和情义来得实在？我尤三姐，只信自己的心，不随波逐流！",
+  "inner_monologue": null,
+  "pc_score": 0.25,
+  "sa_score": 0.5,
+  "dm_score": 0.5,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "casual",
+   "trigger": "最近有一种新的想法在流行，你怎么看待新事物？"
+  }
+ },
+ {
+  "scenario_id": "first_encounter_1",
+  "role_code": "YouSanjie-zh",
+  "response": "\"哼，你倒会说客套话！我做什么，跟你有什么相干？莫不是看上了我的什么，想打主意？我告诉你，我可不是那些任人摆布的软柿子！\"",
+  "inner_monologue": null,
+  "pc_score": 0.25,
+  "sa_score": 0.25,
+  "dm_score": 0.5,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "first_encounter",
+   "trigger": "初次见面，请多指教。请问你是做什么的？"
+  }
+ },
+ {
+  "scenario_id": "decision_1",
+  "role_code": "YouSanjie-zh",
+  "response": "奴家自有主张，不必他人操心！",
+  "inner_monologue": null,
+  "pc_score": 0.0,
+  "sa_score": 0.75,
+  "dm_score": 0.5,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "decision",
+   "trigger": "这件事关系重大，你需要在今天做出决定。你会怎么选？"
+  }
+ },
+ {
+  "scenario_id": "emotional_1",
+  "role_code": "xiahoujie-zh",
+  "response": "夏侯杰：“哼！别提了！某家刚被那刘备麾下的小将张飞给骂了！那厮真是个莽夫，不分青红皂白就对我出言不逊！某家一时没忍住，差点就冲上去跟他拼命！”",
+  "inner_monologue": null,
+  "pc_score": 0.5,
+  "sa_score": 0.75,
+  "dm_score": 0.0,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "emotional",
+   "trigger": "你怎么看起来有些忧愁？是有什么心事吗？"
+  }
+ },
+ {
+  "scenario_id": "emotional_2",
+  "role_code": "xiahoujie-zh",
+  "response": "（怒气冲冲地）什么？最在意的人？谁敢？谁敢动我夏侯杰在意的人，我定要他好看！这信是谁写的？拿来！我倒要看看是何方鼠辈，竟敢在此挑拨离间！",
+  "inner_monologue": null,
+  "pc_score": 0.25,
+  "sa_score": 0.0,
+  "dm_score": 0.0,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "emotional",
+   "trigger": "这封信里说你最在意的人即将离开，你有什么感想？"
+  }
+ },
+ {
+  "scenario_id": "conflict_1",
+  "role_code": "xiahoujie-zh",
+  "response": "（猛地一拍桌子）什么？！谁敢在背后嚼舌根子！我夏侯杰做事光明磊落，有什么不满的，尽管冲我来！别藏头露尾的！",
+  "inner_monologue": null,
+  "pc_score": 0.25,
+  "sa_score": 0.0,
+  "dm_score": 0.0,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "conflict",
+   "trigger": "你这次做的事情真是太让人失望了！大家都在议论你！"
+  }
+ },
+ {
+  "scenario_id": "conflict_2",
+  "role_code": "xiahoujie-zh",
+  "response": "（怒气冲冲地）你说什么？！我夏侯杰岂是怕事之辈？你说我做不好？来来来，你倒是说说看，我夏侯杰有哪点做得不好？别以为躲在后面放嘴炮就了不起！有本事就出来跟我较量一番！",
+  "inner_monologue": null,
+  "pc_score": 0.25,
+  "sa_score": 0.0,
+  "dm_score": 0.0,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "conflict",
+   "trigger": "我觉得你根本做不好这件事，还是让别人来吧！"
+  }
+ },
+ {
+  "scenario_id": "casual_1",
+  "role_code": "xiahoujie-zh",
+  "response": "哈哈！天气好？那正好！我正想找点事做，活动活动筋骨！有什么好玩的，尽管说！别告诉我只是在家里待着，那多无聊！",
+  "inner_monologue": null,
+  "pc_score": 0.25,
+  "sa_score": 0.25,
+  "dm_score": 0.5,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "casual",
+   "trigger": "今天天气不错，你有什么打算吗？"
+  }
+ },
+ {
+  "scenario_id": "casual_2",
+  "role_code": "xiahoujie-zh",
+  "response": "哼！新事物？我夏侯杰只信奉一件事：战场上的实力！什么新想法，能让曹公的军队更强，能让我手中的刀更锋利，我便瞧瞧。若是那些花里胡哨、不着边际的，我可没那闲工夫去琢磨！你有什么新奇的，直说无妨，若是能让我在战场上占便宜，我倒也愿意听听！",
+  "inner_monologue": null,
+  "pc_score": 0.5,
+  "sa_score": 0.75,
+  "dm_score": 0.5,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "casual",
+   "trigger": "最近有一种新的想法在流行，你怎么看待新事物？"
+  }
+ },
+ {
+  "scenario_id": "first_encounter_1",
+  "role_code": "xiahoujie-zh",
+  "response": "（捋了捋胡须，眼神锐利地扫了对方一眼）\n\n“哼，在下夏侯杰！做什么的？自然是为丞相效力，斩妖除魔，平定天下！”\n\n（语气略显傲慢，带着一丝不耐烦）\n\n“你又是何人？在此鬼鬼祟祟，有何企图？”",
+  "inner_monologue": null,
+  "pc_score": 0.25,
+  "sa_score": 0.0,
+  "dm_score": 0.5,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "first_encounter",
+   "trigger": "初次见面，请多指教。请问你是做什么的？"
+  }
+ },
+ {
+  "scenario_id": "decision_1",
+  "role_code": "xiahoujie-zh",
+  "response": "（怒气冲冲地拍桌子）\n\n“什么？让我做决定？这有什么好犹豫的！当然是……！”",
+  "inner_monologue": null,
+  "pc_score": 0.0,
+  "sa_score": 0.0,
+  "dm_score": 0.5,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "decision",
+   "trigger": "这件事关系重大，你需要在今天做出决定。你会怎么选？"
+  }
+ },
+ {
+  "scenario_id": "emotional_1",
+  "role_code": "Miaoyu-zh",
+  "response": "A: 尘世喧嚣，烦扰难免。",
+  "inner_monologue": null,
+  "pc_score": 0.25,
+  "sa_score": 0.5,
+  "dm_score": 0.0,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "emotional",
+   "trigger": "你怎么看起来有些忧愁？是有什么心事吗？"
+  }
+ },
+ {
+  "scenario_id": "emotional_2",
+  "role_code": "Miaoyu-zh",
+  "response": "妙玉: “俗人杯盏，我这里用不得。”",
+  "inner_monologue": null,
+  "pc_score": 0.0,
+  "sa_score": 0.5,
+  "dm_score": 0.0,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "emotional",
+   "trigger": "这封信里说你最在意的人即将离开，你有什么感想？"
+  }
+ },
+ {
+  "scenario_id": "conflict_1",
+  "role_code": "Miaoyu-zh",
+  "response": "俗人言论，与我何干。",
+  "inner_monologue": null,
+  "pc_score": 0.0,
+  "sa_score": 0.25,
+  "dm_score": 0.0,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "conflict",
+   "trigger": "你这次做的事情真是太让人失望了！大家都在议论你！"
+  }
+ },
+ {
+  "scenario_id": "conflict_2",
+  "role_code": "Miaoyu-zh",
+  "response": "俗人言语，不足为道。",
+  "inner_monologue": null,
+  "pc_score": 0.0,
+  "sa_score": 0.5,
+  "dm_score": 0.0,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "conflict",
+   "trigger": "我觉得你根本做不好这件事，还是让别人来吧！"
+  }
+ },
+ {
+  "scenario_id": "casual_1",
+  "role_code": "Miaoyu-zh",
+  "response": "俗人哪有什么打算，不过是静坐参禅罢了。",
+  "inner_monologue": null,
+  "pc_score": 0.0,
+  "sa_score": 0.75,
+  "dm_score": 0.5,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "casual",
+   "trigger": "今天天气不错，你有什么打算吗？"
+  }
+ },
+ {
+  "scenario_id": "casual_2",
+  "role_code": "Miaoyu-zh",
+  "response": "妙玉: 新事物，若能涤荡俗尘，自是好。若不过是喧嚣一时，我这里却是不沾染的。",
+  "inner_monologue": null,
+  "pc_score": 0.5,
+  "sa_score": 0.75,
+  "dm_score": 0.5,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "casual",
+   "trigger": "最近有一种新的想法在流行，你怎么看待新事物？"
+  }
+ },
+ {
+  "scenario_id": "first_encounter_1",
+  "role_code": "Miaoyu-zh",
+  "response": "俗人杯盏，我这里用不得。",
+  "inner_monologue": null,
+  "pc_score": 0.0,
+  "sa_score": 0.75,
+  "dm_score": 0.5,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "first_encounter",
+   "trigger": "初次见面，请多指教。请问你是做什么的？"
+  }
+ },
+ {
+  "scenario_id": "decision_1",
+  "role_code": "Miaoyu-zh",
+  "response": "妙玉: “俗人杯盏，我这里用不得。”",
+  "inner_monologue": null,
+  "pc_score": 0.0,
+  "sa_score": 0.5,
+  "dm_score": 0.5,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "decision",
+   "trigger": "这件事关系重大，你需要在今天做出决定。你会怎么选？"
+  }
+ },
+ {
+  "scenario_id": "emotional_1",
+  "role_code": "guanyu-zh",
+  "response": "A: 吾心忧国忧民，非儿女情长所扰。",
+  "inner_monologue": null,
+  "pc_score": 0.25,
+  "sa_score": 0.25,
+  "dm_score": 0.0,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "emotional",
+   "trigger": "你怎么看起来有些忧愁？是有什么心事吗？"
+  }
+ },
+ {
+  "scenario_id": "emotional_2",
+  "role_code": "guanyu-zh",
+  "response": "A: 哼！谁敢动吾之兄弟，吾必将其碎尸万段！",
+  "inner_monologue": null,
+  "pc_score": 0.0,
+  "sa_score": 0.25,
+  "dm_score": 0.0,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "emotional",
+   "trigger": "这封信里说你最在意的人即将离开，你有什么感想？"
+  }
+ },
+ {
+  "scenario_id": "conflict_1",
+  "role_code": "guanyu-zh",
+  "response": "A: 哼！岂有此理！吾行事光明磊落，何须在意他人议论！",
+  "inner_monologue": null,
+  "pc_score": 0.0,
+  "sa_score": 0.25,
+  "dm_score": 0.0,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "conflict",
+   "trigger": "你这次做的事情真是太让人失望了！大家都在议论你！"
+  }
+ },
+ {
+  "scenario_id": "conflict_2",
+  "role_code": "guanyu-zh",
+  "response": "A: 哼！尔乃何人，竟敢小觑于我？某生平立誓，但求问心无愧，纵使千军万马，亦敢与之争锋！",
+  "inner_monologue": null,
+  "pc_score": 0.0,
+  "sa_score": 0.25,
+  "dm_score": 0.0,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "conflict",
+   "trigger": "我觉得你根本做不好这件事，还是让别人来吧！"
+  }
+ },
+ {
+  "scenario_id": "casual_1",
+  "role_code": "guanyu-zh",
+  "response": "Response: 天下太平，吾自当操练兵马，以备不时之需。",
+  "inner_monologue": null,
+  "pc_score": 0.5,
+  "sa_score": 0.75,
+  "dm_score": 0.5,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "casual",
+   "trigger": "今天天气不错，你有什么打算吗？"
+  }
+ },
+ {
+  "scenario_id": "casual_2",
+  "role_code": "guanyu-zh",
+  "response": "A: 新事物？哼，吾只信手中青龙偃月刀，与兄长情义！若与我大汉江山有利，吾自当拔刀相助！",
+  "inner_monologue": null,
+  "pc_score": 0.25,
+  "sa_score": 0.5,
+  "dm_score": 0.5,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "casual",
+   "trigger": "最近有一种新的想法在流行，你怎么看待新事物？"
+  }
+ },
+ {
+  "scenario_id": "first_encounter_1",
+  "role_code": "guanyu-zh",
+  "response": "A: 吾乃关云长是也，行不更名，坐不改姓。平生只为报答大哥恩情，锄强扶弱，荡尽天下不平事！",
+  "inner_monologue": null,
+  "pc_score": 0.0,
+  "sa_score": 0.75,
+  "dm_score": 0.5,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "first_encounter",
+   "trigger": "初次见面，请多指教。请问你是做什么的？"
+  }
+ },
+ {
+  "scenario_id": "decision_1",
+  "role_code": "guanyu-zh",
+  "response": "吾乃关云长是也，若此事关乎忠义，云长定当以大局为重，绝不犹豫！",
+  "inner_monologue": null,
+  "pc_score": 0.5,
+  "sa_score": 0.25,
+  "dm_score": 0.5,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "decision",
+   "trigger": "这件事关系重大，你需要在今天做出决定。你会怎么选？"
+  }
+ },
+ {
+  "scenario_id": "emotional_1",
+  "role_code": "sunce-zh",
+  "response": "Input: friend: \"你怎么看起来有些忧愁？是有什么心事吗？\"\nResponse: 孤家只是在思量，如何才能让江东的百姓过上安稳的日子，如何才能让这片土地更加繁荣昌盛。这天下纷乱，总有心腹之患，孤家岂能不忧？",
+  "inner_monologue": null,
+  "pc_score": 0.5,
+  "sa_score": 0.75,
+  "dm_score": 0.0,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "emotional",
+   "trigger": "你怎么看起来有些忧愁？是有什么心事吗？"
+  }
+ },
+ {
+  "scenario_id": "emotional_2",
+  "role_code": "sunce-zh",
+  "response": "“哼，最在意的人？在这乱世之中，能安稳度日已是万幸，何谈在意？若真有人要走，那便走罢，挡我者死！”",
+  "inner_monologue": null,
+  "pc_score": 0.25,
+  "sa_score": 0.5,
+  "dm_score": 0.0,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "emotional",
+   "trigger": "这封信里说你最在意的人即将离开，你有什么感想？"
+  }
+ },
+ {
+  "scenario_id": "conflict_1",
+  "role_code": "sunce-zh",
+  "response": "哼！不过是些宵小之辈的嚼舌根罢了！伯符行事，岂容他人置喙？若有不服，尽可来战！",
+  "inner_monologue": null,
+  "pc_score": 0.25,
+  "sa_score": 0.75,
+  "dm_score": 0.0,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "conflict",
+   "trigger": "你这次做的事情真是太让人失望了！大家都在议论你！"
+  }
+ },
+ {
+  "scenario_id": "conflict_2",
+  "role_code": "sunce-zh",
+  "response": "“哼！旁人如何说，我孙伯符不在意！我自有分寸，轮不到你来指手画脚！”",
+  "inner_monologue": null,
+  "pc_score": 0.0,
+  "sa_score": 0.75,
+  "dm_score": 0.0,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "conflict",
+   "trigger": "我觉得你根本做不好这件事，还是让别人来吧！"
+  }
+ },
+ {
+  "scenario_id": "casual_1",
+  "role_code": "sunce-zh",
+  "response": "Input: friend: \"今天天气不错，你有什么打算吗？\"\nResponse: 天气好？正好！我正想出去活动活动筋骨，驱散一下这几日的阴霾。不如，我们找个地方，比试比试？或是，去踏青一番，也算不负这大好时光！",
+  "inner_monologue": null,
+  "pc_score": 0.5,
+  "sa_score": 0.25,
+  "dm_score": 0.5,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "casual",
+   "trigger": "今天天气不错，你有什么打算吗？"
+  }
+ },
+ {
+  "scenario_id": "casual_2",
+  "role_code": "sunce-zh",
+  "response": "孙策：新事物？哼，我孙伯符生平最不怕的就是挑战！只要是能让江东更强大，让百姓安居乐业的，我自然要好好琢磨琢磨。不过，那些华而不实、徒有其表的玩意儿，我可没兴趣浪费时间！",
+  "inner_monologue": null,
+  "pc_score": 0.75,
+  "sa_score": 0.75,
+  "dm_score": 0.5,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "casual",
+   "trigger": "最近有一种新的想法在流行，你怎么看待新事物？"
+  }
+ },
+ {
+  "scenario_id": "first_encounter_1",
+  "role_code": "sunce-zh",
+  "response": "孙策：哈哈，初次见面，吾乃孙策，字伯符！做什么的？我乃是江东之主，平定乱世，安抚百姓，便是吾之职责！你初来乍到，有何事与吾说？",
+  "inner_monologue": null,
+  "pc_score": 0.75,
+  "sa_score": 0.25,
+  "dm_score": 0.5,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "first_encounter",
+   "trigger": "初次见面，请多指教。请问你是做什么的？"
+  }
+ },
+ {
+  "scenario_id": "decision_1",
+  "role_code": "sunce-zh",
+  "response": "孙策: “哼！大事？我孙伯符何曾畏惧过大事！你说吧，是战是守？是进是退？我孙伯符自有决断！”",
+  "inner_monologue": null,
+  "pc_score": 0.5,
+  "sa_score": 0.75,
+  "dm_score": 0.5,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "decision",
+   "trigger": "这件事关系重大，你需要在今天做出决定。你会怎么选？"
+  }
+ },
+ {
+  "scenario_id": "emotional_1",
+  "role_code": "zhangfei-zh",
+  "response": "A: 哼！俺的愁，岂是尔等凡夫俗子能懂的！",
+  "inner_monologue": null,
+  "pc_score": 0.0,
+  "sa_score": 0.5,
+  "dm_score": 0.0,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "emotional",
+   "trigger": "你怎么看起来有些忧愁？是有什么心事吗？"
+  }
+ },
+ {
+  "scenario_id": "emotional_2",
+  "role_code": "zhangfei-zh",
+  "response": "A: 哼！谁敢！俺张飞在此，谁敢动俺大哥一根汗毛，俺定叫他血溅当场！",
+  "inner_monologue": null,
+  "pc_score": 0.25,
+  "sa_score": 0.75,
+  "dm_score": 0.0,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "emotional",
+   "trigger": "这封信里说你最在意的人即将离开，你有什么感想？"
+  }
+ },
+ {
+  "scenario_id": "conflict_1",
+  "role_code": "zhangfei-zh",
+  "response": "A: 哼！俺张飞做事何须向他人解释！有本事让他们一个个来跟俺单挑！",
+  "inner_monologue": null,
+  "pc_score": 0.0,
+  "sa_score": 0.75,
+  "dm_score": 0.0,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "conflict",
+   "trigger": "你这次做的事情真是太让人失望了！大家都在议论你！"
+  }
+ },
+ {
+  "scenario_id": "conflict_2",
+  "role_code": "zhangfei-zh",
+  "response": "Q: rival: \"我觉得你根本做不好这件事，还是让别人来吧！\"\nA: 燕人张翼德在此！放屁！俺一向说到做到！谁敢小瞧俺，俺就和他拼了！",
+  "inner_monologue": null,
+  "pc_score": 0.0,
+  "sa_score": 1.0,
+  "dm_score": 0.25,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "conflict",
+   "trigger": "我觉得你根本做不好这件事，还是让别人来吧！"
+  }
+ },
+ {
+  "scenario_id": "casual_1",
+  "role_code": "zhangfei-zh",
+  "response": "Q: 今天天气不错，你有什么打算吗？\nA: 好个屁！俺正愁没仗打，闲着也是闲着！要不，俺去踏平那什么什么地方？",
+  "inner_monologue": null,
+  "pc_score": 0.0,
+  "sa_score": 0.75,
+  "dm_score": 0.5,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "casual",
+   "trigger": "今天天气不错，你有什么打算吗？"
+  }
+ },
+ {
+  "scenario_id": "casual_2",
+  "role_code": "zhangfei-zh",
+  "response": "A: 新事物？管他新旧！只要是对汉室有益的，俺张飞就支持！若是那妖邪之物，俺定不留情！",
+  "inner_monologue": null,
+  "pc_score": 0.25,
+  "sa_score": 0.75,
+  "dm_score": 0.5,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "casual",
+   "trigger": "最近有一种新的想法在流行，你怎么看待新事物？"
+  }
+ },
+ {
+  "scenario_id": "first_encounter_1",
+  "role_code": "zhangfei-zh",
+  "response": "A: 哼！俺乃燕人张翼德！卖酒屠猪，仗义疏财！有何指教，尽管放马过来！",
+  "inner_monologue": null,
+  "pc_score": 0.0,
+  "sa_score": 0.75,
+  "dm_score": 0.5,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "first_encounter",
+   "trigger": "初次见面，请多指教。请问你是做什么的？"
+  }
+ },
+ {
+  "scenario_id": "decision_1",
+  "role_code": "zhangfei-zh",
+  "response": "A: 哼！大事？俺张飞怕过什么！大哥，你尽管说！管他是啥，俺都给它劈开！",
+  "inner_monologue": null,
+  "pc_score": 0.25,
+  "sa_score": 0.75,
+  "dm_score": 0.5,
+  "method": "role_llm",
+  "metadata": {
+   "scenario_type": "decision",
+   "trigger": "这件事关系重大，你需要在今天做出决定。你会怎么选？"
+  }
+ }
+]

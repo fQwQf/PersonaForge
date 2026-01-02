@@ -1,0 +1,19 @@
+{
+ "metadata": {
+  "grid": {
+   "cols": 24,
+   "rows": 12
+  },
+  "background": "background.png"
+ },
+ "locations": [
+  {
+   "code": "somewhere",
+   "name": "somewhere",
+   "description": "Some where in the world of Alice’s Adventures in Wonderland",
+   "detail": "",
+   "view_config": {},
+   "adjacencies": []
+  }
+ ]
+}

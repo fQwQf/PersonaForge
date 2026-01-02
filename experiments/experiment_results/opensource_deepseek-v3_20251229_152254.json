@@ -1,0 +1,22 @@
+{
+  "model": "deepseek-v3",
+  "timestamp": "20251229_152254",
+  "personaforge": {
+    "results_count": 32,
+    "scores": {
+      "PC (Personality Consistency)": 0.8359375,
+      "SA (Style Adherence)": 0.4921875,
+      "DM (Defense Mechanism)": 0.671875,
+      "RD (Response Diversity)": 0.9690215843134485
+    }
+  },
+  "structured_cot": {
+    "results_count": 32,
+    "scores": {
+      "PC (Personality Consistency)": 0.6484375,
+      "SA (Style Adherence)": 0.21875,
+      "DM (Defense Mechanism)": 0.40625,
+      "RD (Response Diversity)": 0.9749480493217895
+    }
+  }
+}

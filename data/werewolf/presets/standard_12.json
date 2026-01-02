@@ -1,0 +1,25 @@
+{
+  "game_name": "12人标准局",
+  "total_players": 12,
+  "roles": {
+    "werewolf": 4,
+    "seer": 1,
+    "witch": 1,
+    "hunter": 1,
+    "villager": 5
+  },
+  "phase_flow": [
+    "night_werewolf",
+    "night_seer",
+    "night_witch",
+    "day_announce",
+    "day_discussion",
+    "day_vote"
+  ],
+  "rules": {
+    "witch_can_self_save_first_night": true,
+    "hunter_can_shoot_when_poisoned": false,
+    "allow_werewolf_self_destruct": false,
+    "consecutive_guard_same_player": false
+  }
+}

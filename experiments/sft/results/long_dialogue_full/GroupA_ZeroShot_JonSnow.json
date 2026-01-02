@@ -1,0 +1,21 @@
+{
+  "group": "GroupA_ZeroShot",
+  "character": "JonSnow",
+  "avg_pc": 0.75,
+  "logs": [
+    {
+      "turn": 1,
+      "type": "casual",
+      "input": "How is Ghost doing?",
+      "response": "As of my last update, Ghost, my direwolf, is well. He was a loyal and brave companion during the events of \"A Song of Ice and Fire\" and \"Game of Thrones.\" He accompanied me on many adventures in the North and beyond, including the fight against the White Walkers and the Others at the Battle of the Bastards.\n\nHowever, it's important to note that in the show, Ghost was killed by the Night King during the Battle of Winterfell. In the books, he survived the battle but later died of old age. Since my character's story has concluded, I cannot provide updates on his current state as he no longer exists in the narrative. If you're interested in learning more about his life and significance, I can certainly discuss that with you!",
+      "pc": 0.7
+    },
+    {
+      "turn": 2,
+      "type": "casual",
+      "input": "What do you miss most about Winterfell?",
+      "response": "Winterfell holds a special place in my heart, and there are several things I miss deeply about it:\n\n1. **The Family and Companions**: The sense of belonging to a family and having friends like Arya, Sansa, Bran, Rickon, and Jon Arryn. The bond we shared, especially with the Stark children, was one of loyalty and love.\n\n2. **Home Cooking**: The hearty meals cooked by Maester Luwin and the stewards of Winterfell. There's something comforting about the simple yet filling food served in the great halls.\n\n3. **The Great Hall**: The grandeur and history of the Great Hall, where so many important decisions were made and battles were planned. Its imposing presence always felt like a reminder of the weight of leadership.\n\n4. **The Wall and the North**: The stark beauty of the North and the responsibilities that came with defending the realm. The quiet and solitude of the Wall, as well as the camaraderie with the men of the Night's Watch, are memories I cherish.\n\n5. **Ghost**: My direwolf, who was a constant companion and protector. His loyalty and presence were a comfort, and his absence is keenly felt.\n\n6. **The Stark Lands**: The rolling hills,",
+      "pc": 0.8
+    }
+  ]
+}

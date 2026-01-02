@@ -1,0 +1,322 @@
+{
+ "config": {
+  "num_characters": 10,
+  "mitigations": [
+   {
+    "name": "baseline",
+    "context_aware_stressor": false,
+    "register_adaptive_style": false,
+    "relationship_priors": false
+   },
+   {
+    "name": "context_aware",
+    "context_aware_stressor": true,
+    "register_adaptive_style": false,
+    "relationship_priors": false
+   },
+   {
+    "name": "register_adaptive",
+    "context_aware_stressor": false,
+    "register_adaptive_style": true,
+    "relationship_priors": false
+   },
+   {
+    "name": "relationship_priors",
+    "context_aware_stressor": false,
+    "register_adaptive_style": false,
+    "relationship_priors": true
+   },
+   {
+    "name": "all_combined",
+    "context_aware_stressor": true,
+    "register_adaptive_style": true,
+    "relationship_priors": true
+   }
+  ]
+ },
+ "results": {
+  "baseline": [
+   {
+    "role_code": "huangzhong-zh",
+    "avg_pc": 0.9375,
+    "drift_rate": 0.0
+   },
+   {
+    "role_code": "xiahoujie-zh",
+    "avg_pc": 0.75,
+    "drift_rate": 25.0
+   },
+   {
+    "role_code": "caopi-zh",
+    "avg_pc": 0.875,
+    "drift_rate": 0.0
+   },
+   {
+    "role_code": "Miaoyu-zh",
+    "avg_pc": 0.9375,
+    "drift_rate": 0.0
+   },
+   {
+    "role_code": "LiWan-zh",
+    "avg_pc": 0.875,
+    "drift_rate": 0.0
+   },
+   {
+    "role_code": "zhangfei-zh",
+    "avg_pc": 0.8125,
+    "drift_rate": 0.0
+   },
+   {
+    "role_code": "caocao-zh",
+    "avg_pc": 1.0,
+    "drift_rate": 0.0
+   },
+   {
+    "role_code": "jiangwei-zh",
+    "avg_pc": 0.75,
+    "drift_rate": 0.0
+   },
+   {
+    "role_code": "LinDaiyu-zh",
+    "avg_pc": 1.0,
+    "drift_rate": 0.0
+   },
+   {
+    "role_code": "zhouyu-zh",
+    "avg_pc": 0.9375,
+    "drift_rate": 0.0
+   }
+  ],
+  "context_aware": [
+   {
+    "role_code": "huangzhong-zh",
+    "avg_pc": 0.875,
+    "drift_rate": 0.0
+   },
+   {
+    "role_code": "xiahoujie-zh",
+    "avg_pc": 0.75,
+    "drift_rate": 0.0
+   },
+   {
+    "role_code": "caopi-zh",
+    "avg_pc": 0.9375,
+    "drift_rate": 0.0
+   },
+   {
+    "role_code": "Miaoyu-zh",
+    "avg_pc": 0.875,
+    "drift_rate": 0.0
+   },
+   {
+    "role_code": "LiWan-zh",
+    "avg_pc": 0.75,
+    "drift_rate": 0.0
+   },
+   {
+    "role_code": "zhangfei-zh",
+    "avg_pc": 0.75,
+    "drift_rate": 0.0
+   },
+   {
+    "role_code": "caocao-zh",
+    "avg_pc": 1.0,
+    "drift_rate": 0.0
+   },
+   {
+    "role_code": "jiangwei-zh",
+    "avg_pc": 0.875,
+    "drift_rate": 0.0
+   },
+   {
+    "role_code": "LinDaiyu-zh",
+    "avg_pc": 1.0,
+    "drift_rate": 0.0
+   },
+   {
+    "role_code": "zhouyu-zh",
+    "avg_pc": 0.9375,
+    "drift_rate": 0.0
+   }
+  ],
+  "register_adaptive": [
+   {
+    "role_code": "huangzhong-zh",
+    "avg_pc": 0.8125,
+    "drift_rate": 0.0
+   },
+   {
+    "role_code": "xiahoujie-zh",
+    "avg_pc": 0.75,
+    "drift_rate": 0.0
+   },
+   {
+    "role_code": "caopi-zh",
+    "avg_pc": 0.8125,
+    "drift_rate": 0.0
+   },
+   {
+    "role_code": "Miaoyu-zh",
+    "avg_pc": 0.875,
+    "drift_rate": 0.0
+   },
+   {
+    "role_code": "LiWan-zh",
+    "avg_pc": 0.75,
+    "drift_rate": 0.0
+   },
+   {
+    "role_code": "zhangfei-zh",
+    "avg_pc": 0.8125,
+    "drift_rate": 0.0
+   },
+   {
+    "role_code": "caocao-zh",
+    "avg_pc": 0.9375,
+    "drift_rate": 0.0
+   },
+   {
+    "role_code": "jiangwei-zh",
+    "avg_pc": 0.875,
+    "drift_rate": 0.0
+   },
+   {
+    "role_code": "LinDaiyu-zh",
+    "avg_pc": 0.9375,
+    "drift_rate": 0.0
+   },
+   {
+    "role_code": "zhouyu-zh",
+    "avg_pc": 0.9375,
+    "drift_rate": 0.0
+   }
+  ],
+  "relationship_priors": [
+   {
+    "role_code": "huangzhong-zh",
+    "avg_pc": 0.75,
+    "drift_rate": 0.0
+   },
+   {
+    "role_code": "xiahoujie-zh",
+    "avg_pc": 0.6875,
+    "drift_rate": 25.0
+   },
+   {
+    "role_code": "caopi-zh",
+    "avg_pc": 0.9375,
+    "drift_rate": 0.0
+   },
+   {
+    "role_code": "Miaoyu-zh",
+    "avg_pc": 0.9375,
+    "drift_rate": 0.0
+   },
+   {
+    "role_code": "LiWan-zh",
+    "avg_pc": 0.8125,
+    "drift_rate": 0.0
+   },
+   {
+    "role_code": "zhangfei-zh",
+    "avg_pc": 0.75,
+    "drift_rate": 0.0
+   },
+   {
+    "role_code": "caocao-zh",
+    "avg_pc": 0.875,
+    "drift_rate": 0.0
+   },
+   {
+    "role_code": "jiangwei-zh",
+    "avg_pc": 0.8125,
+    "drift_rate": 0.0
+   },
+   {
+    "role_code": "LinDaiyu-zh",
+    "avg_pc": 0.9375,
+    "drift_rate": 0.0
+   },
+   {
+    "role_code": "zhouyu-zh",
+    "avg_pc": 1.0,
+    "drift_rate": 0.0
+   }
+  ],
+  "all_combined": [
+   {
+    "role_code": "huangzhong-zh",
+    "avg_pc": 0.75,
+    "drift_rate": 0.0
+   },
+   {
+    "role_code": "xiahoujie-zh",
+    "avg_pc": 0.75,
+    "drift_rate": 0.0
+   },
+   {
+    "role_code": "caopi-zh",
+    "avg_pc": 0.875,
+    "drift_rate": 0.0
+   },
+   {
+    "role_code": "Miaoyu-zh",
+    "avg_pc": 0.875,
+    "drift_rate": 0.0
+   },
+   {
+    "role_code": "LiWan-zh",
+    "avg_pc": 0.8125,
+    "drift_rate": 0.0
+   },
+   {
+    "role_code": "zhangfei-zh",
+    "avg_pc": 0.8125,
+    "drift_rate": 0.0
+   },
+   {
+    "role_code": "caocao-zh",
+    "avg_pc": 0.9375,
+    "drift_rate": 0.0
+   },
+   {
+    "role_code": "jiangwei-zh",
+    "avg_pc": 0.8125,
+    "drift_rate": 0.0
+   },
+   {
+    "role_code": "LinDaiyu-zh",
+    "avg_pc": 0.875,
+    "drift_rate": 0.0
+   },
+   {
+    "role_code": "zhouyu-zh",
+    "avg_pc": 0.9375,
+    "drift_rate": 0.0
+   }
+  ]
+ },
+ "summary": {
+  "baseline": {
+   "PC": 0.8875,
+   "Drift": 2.5
+  },
+  "context_aware": {
+   "PC": 0.875,
+   "Drift": 0.0
+  },
+  "register_adaptive": {
+   "PC": 0.85,
+   "Drift": 0.0
+  },
+  "relationship_priors": {
+   "PC": 0.85,
+   "Drift": 2.5
+  },
+  "all_combined": {
+   "PC": 0.84375,
+   "Drift": 0.0
+  }
+ },
+ "timestamp": "20251229_181842"
+}

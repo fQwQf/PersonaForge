@@ -1,0 +1,43 @@
+{
+  "summary": {
+    "start_time": "2025-12-29T13:37:33.073807",
+    "end_time": "2025-12-29T15:27:11.262531",
+    "total_duration_seconds": 6578.19,
+    "total_experiments": 3,
+    "success": 2,
+    "failed": 1,
+    "interrupted": 0
+  },
+  "experiments": {
+    "run_experiment": {
+      "name": "run_experiment",
+      "description": "主实验：对比 PersonaForge 与基线方法",
+      "status": "failed",
+      "start_time": "2025-12-29T13:37:33.074088",
+      "end_time": "2025-12-29T14:20:44.170211",
+      "duration_seconds": 2591.1,
+      "error": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}",
+      "traceback": "Traceback (most recent call last):\n  File \"/root/ScrollWeaver/experiments/run_all_experiments.py\", line 167, in run_single_experiment\n    func()\n  File \"/root/ScrollWeaver/experiments/run_experiment.py\", line 484, in main\n    run_experiment(args)\n  File \"/root/ScrollWeaver/experiments/run_experiment.py\", line 426, in run_experiment\n    response = persona_gen.generate_without_dual_process(role_data, scenario)\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/root/ScrollWeaver/experiments/run_experiment.py\", line 299, in generate_without_dual_process\n    return self.llm.chat(prompt)\n           ^^^^^^^^^^^^^^^^^^^^^\n  File \"/root/ScrollWeaver/modules/llm/Gemini.py\", line 368, in chat\n    response = self.get_response(temperature=temperature, response_model=response_model)\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/root/ScrollWeaver/modules/llm/Gemini.py\", line 263, in get_response\n    raise exception_result[0]\n  File \"/root/ScrollWeaver/modules/llm/Gemini.py\", line 243, in api_call\n    response_result[0] = self._client.models.generate_content(\n                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.12/dist-packages/google/genai/models.py\", line 5203, in generate_content\n    response = self._generate_content(\n               ^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.12/dist-packages/google/genai/models.py\", line 3985, in _generate_content\n    response = self._api_client.request(\n               ^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.12/dist-packages/google/genai/_api_client.py\", line 1388, in request\n    response = self._request(http_request, http_options, stream=False)\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.12/dist-packages/google/genai/_api_client.py\", line 1224, in _request\n    return self._retry(self._request_once, http_request, stream)  # type: ignore[no-any-return]\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.12/dist-packages/tenacity/__init__.py\", line 475, in __call__\n    do = self.iter(retry_state=retry_state)\n         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.12/dist-packages/tenacity/__init__.py\", line 376, in iter\n    result = action(retry_state)\n             ^^^^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.12/dist-packages/tenacity/__init__.py\", line 418, in exc_check\n    raise retry_exc.reraise()\n          ^^^^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.12/dist-packages/tenacity/__init__.py\", line 185, in reraise\n    raise self.last_attempt.result()\n          ^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/lib/python3.12/concurrent/futures/_base.py\", line 449, in result\n    return self.__get_result()\n           ^^^^^^^^^^^^^^^^^^^\n  File \"/usr/lib/python3.12/concurrent/futures/_base.py\", line 401, in __get_result\n    raise self._exception\n  File \"/usr/local/lib/python3.12/dist-packages/tenacity/__init__.py\", line 478, in __call__\n    result = fn(*args, **kwargs)\n             ^^^^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.12/dist-packages/google/genai/_api_client.py\", line 1201, in _request_once\n    errors.APIError.raise_for_response(response)\n  File \"/usr/local/lib/python3.12/dist-packages/google/genai/errors.py\", line 121, in raise_for_response\n    cls.raise_error(response.status_code, response_json, response)\n  File \"/usr/local/lib/python3.12/dist-packages/google/genai/errors.py\", line 148, in raise_error\n    raise ServerError(status_code, response_json, response)\ngoogle.genai.errors.ServerError: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}\n"
+    },
+    "run_main_experiment": {
+      "name": "run_main_experiment",
+      "description": "主实验：Table 1 (含 RoleLLM, RAG 等基线)",
+      "status": "success",
+      "start_time": "2025-12-29T14:20:44.170470",
+      "end_time": "2025-12-29T15:13:50.653473",
+      "duration_seconds": 3186.48,
+      "error": null,
+      "traceback": null
+    },
+    "run_opensource_experiment": {
+      "name": "run_opensource_experiment",
+      "description": "开源模型验证：测试开源 LLM 效果",
+      "status": "success",
+      "start_time": "2025-12-29T15:13:50.654046",
+      "end_time": "2025-12-29T15:22:54.114673",
+      "duration_seconds": 543.46,
+      "error": null,
+      "traceback": null
+    }
+  }
+}

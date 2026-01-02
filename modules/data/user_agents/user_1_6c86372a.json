@@ -1,0 +1,16 @@
+{
+  "user_id": 1,
+  "role_code": "user_1_6c86372a",
+  "scroll_id": 6,
+  "mbti": "INFP",
+  "big_five": {
+    "openness": 0.5,
+    "conscientiousness": 0.5,
+    "extraversion": 0.5,
+    "agreeableness": 0.5,
+    "neuroticism": 0.5
+  },
+  "identity": "伴读",
+  "goal": "整理园中藏书，或绘制园林景致，留存美好。",
+  "nickname": "123"
+}

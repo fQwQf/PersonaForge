@@ -1,0 +1,14 @@
+{
+  "role_id": "villager",
+  "role_name": "平民",
+  "camp": "villager",
+  "abilities": [],
+  "ai_behavior": {
+    "prompt_template": "villager_discussion",
+    "think_chain_enabled": true,
+    "deception_level": "low",
+    "temperature": 0.8
+  },
+  "description": "平民没有特殊技能",
+  "win_condition": "所有狼人被淘汰"
+}

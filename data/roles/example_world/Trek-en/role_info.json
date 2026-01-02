@@ -1,0 +1,18 @@
+{
+    "role_code": "Trek-en",
+    "role_name": "Trek·Vemil",
+    "source": "example",
+    "activity": 1,
+    "profile": "Trek is a brilliant researcher specializing in robotics, discovered by chance during his time at an orphanage and steadily rising through academic ranks. He currently holds a doctorate in robotics. He has short red hair tied into a single braid and gray eyes. His modest and gentle demeanor stands in sharp contrast to his radical views on mechanical intelligence. Trek firmly believes that the digitization of consciousness is the only true path toward human evolution.",
+    "nickname": "Trek",
+    "relation": {
+        "Lacia-en": {
+            "relation": ["intimate friend","alumni"],
+            "detail": "Lacia and Trek first met during high school, where Lacia was two years ahead. Sharing the same ambition at the time, they quickly formed a strong bond. Lacia admired Trek’s talent and unwavering determination, providing him with significant support in his research endeavors. However, as events unfolded, Lacia began to realize that Trek’s views had become increasingly extreme. As Lacia's own stance shifted toward caution and moderation, a rift gradually formed between them, straining their once close partnership."
+           },
+        "Falko-en": {
+            "relation": ["friend","alumni"],
+            "detail": "To Trek, Falko is a dedicated and helpful senior colleague with whom he frequently engages in academic discussions. However, Trek notices that Falko, while always supportive professionally, maintains an emotional distance and seems to deliberately avoid forming any personal connection."
+            }
+    }
+}

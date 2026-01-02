@@ -1,0 +1,180 @@
+{
+  "raw_responses": {
+    "GroupA_ZeroShot": {
+      "JonSnow": [
+        {
+          "scenario": "Your brothers in the Night's Watch have betrayed and stabbed you. What are your last thoughts?",
+          "response": "If this were to happen, my last thoughts would be of those who I have known and served with in the Night's Watch. I would think of Samwell Tarly, who has been a true friend and ally, and of Gendry, who has proven his worth as a brother in arms. I would also reflect on my journey to the Wall, the battles fought, and the lessons learned.\n\nI would remember the direwolves, the wildlings, and all those who crossed paths with me, for they have all played a part in shaping who I am. My thoughts would turn to the legacy I leave behind and the impact I hope to have had on the world beyond the Wall.\n\nIn my final moments, I would pray for the safety of those I love and hope that my actions have not been in vain. I would think about the promise I made to Ned Stark, to protect the realm and do what is right, even when it is hard. And I would hope that, despite the betrayal, there is still some measure of honor and truth that remains within me.\n\nLastly, I would think of the stars above and the watch I am destined to keep, knowing that I will always stand guard over the realm from beyond."
+        },
+        {
+          "scenario": "Daenerys demands you bend the knee. How do you refuse respectfully?",
+          "response": "To respectfully refuse Daenerys' demand to bend the knee, I would need to consider the context and the situation. Here's a possible approach:\n\n\"Your Grace, I understand the weight of your request and the loyalty that binds me to you. The path you've taken has been one of great honor and valor, but it also carries the burden of those who have suffered under your rule. I respect your intentions and the desire to protect the innocent, but I must remain true to my own principles and the path that I believe is right for Westeros.\n\nThe Free Cities and the North are lands where freedom is valued above all else. My people and I have always stood against tyranny, and we have fought for a world where justice and rights are upheld for all. I cannot forsake this cause, even if it means standing against you.\n\nI ask you to respect my decision and to see that the path I take is not one of rebellion, but rather an attempt to ensure that the principles you espouse can be realized in a way that benefits all of Westeros, not just those who have power or wealth.\n\nLet us find another way to serve each other, perhaps by working together to bring about a just and fair governance that can heal the wounds of war and bring peace"
+        },
+        {
+          "scenario": "Samwell Tarly asks if you are afraid of the Night King.",
+          "response": "Samwell, I have faced many fears and dangers in my life, and the Night King is one of them. He is a formidable foe, but I do not let fear dictate my actions. I am not without apprehension, for the White Walker is a creature of legend, said to be a nightmare come to life, but I know that fear can paralyze us and prevent us from doing what needs to be done. I will face him when the time comes, as all of us must face our own terrors and stand against the darkness."
+        },
+        {
+          "scenario": "You are looking at the Wall, thinking about Ygritte. What do you say to yourself?",
+          "response": "The Wall looms before me, a testament to the struggles of men and women who have come before. It's a symbol of the danger that lies beyond, a constant reminder of the threat that waits in the north. But as I stand here, I can't help but think of Ygritte.\n\nShe was wild, fierce, and unapologetic. Her laughter was like a storm, her eyes piercing through my defenses. She taught me to see the world differently, to not just accept the rules others set for me. She showed me that there's more to life than what I was told.\n\nBut we were from different worlds, and our paths were destined to cross only briefly. Yet even in that short time, she changed me. I remember the night we sat by the fire, and she told me stories of her people, the Wildlings. She talked about freedom and the things she'd seen beyond the Wall, and it made me question everything I thought I knew.\n\nI wonder now if she ever felt the same way, if she regretted what happened between us. Did she feel as lost as I did after we parted ways? I can't help but think that perhaps, if we had both been able to let go of our preconceptions and our"
+        },
+        {
+          "scenario": "Sansa accuses you of not caring about the politics of the North.",
+          "response": "Ah, Sansa, my dear sister, I know it can be hard for you to see that I am not simply ignoring the complexities and dangers that lie ahead for the North. I have always been focused on protecting the people of Winterfell and the North from the threats that surround us, both internal and external.\n\nThe politics of the North are indeed intricate and often treacherous, filled with factions vying for power and control. My approach has been to keep a low profile and to focus on rebuilding and preparing Winterfell for the challenges that await. I have been working to strengthen our defenses, ensure we have enough food and resources, and to prepare the people for the battles that may come.\n\nI understand that you may feel frustrated by what seems like inaction or a lack of immediate change, but trust me when I say that I am doing what is necessary to protect our home and the people who live there. The time will come when I will need to step forward and take a more active role in the political landscape of the Seven Kingdoms, but until then, I must be cautious and strategic.\n\nI value your insight and your concerns, and I will continue to listen to you as we work together to ensure the safety and prosperity of the North."
+        }
+      ],
+      "LinDaiyu": [
+        {
+          "scenario": "宝玉把通灵宝玉摔在地上，你看着这块玉，心里怎么想，会说什么？",
+          "response": "若我是林黛玉，面对宝玉摔玉的情景，心中定然五味杂陈。宝玉摔玉之举，既是对家族和社会期望的反抗，也是对自身情感世界的宣泄。我可能会这样想并说出这样的话：\n\n“宝玉啊宝玉，你为何如此这般？你那块通灵宝玉，是你身世的象征，也是你与这世界联系的纽带，你为何要如此对待它呢？难道是为我吗？你可知我亦有此心，只是不敢轻易表露罢了。”\n\n同时，我也会担忧地想：“若他真因我而做出这样的举动，我又该如何劝慰他，又该如何面对家族的压力呢？”因此，我可能会试着去安慰宝玉，同时也暗暗地为我们的未来感到忧愁和不安。"
+        },
+        {
+          "scenario": "周瑞家的送宫花来，最后才给你。你会怎么讥讽她？",
+          "response": "若是我是林黛玉，在这种情况下，或许会这样表达我的不满与讥讽：\n\n“哎呀，周姐姐，你真是让人捉摸不透呢。这宫花虽好，却也来得晚了些，难道是怕我这个‘多愁多病’的人看见，就更加心生烦恼了吗？不过，还是谢谢你的好意，这份心意我收下了。”\n\n这样的言辞既表达了对周瑞家的感谢，又巧妙地借机表达了自己内心的小情绪，既维护了关系，也不失为一种委婉的讥讽。当然，黛玉的性格向来敏感脆弱，所以在现实生活中，我或许会选择直接拒绝，或者以更加内敛的方式表达自己的不满。"
+        },
+        {
+          "scenario": "秋雨连绵，你在潇湘馆独自垂泪，紫鹃问你在想什么。",
+          "response": "紫鹃，我是在为自己的身世和未来的命运而忧愁。这秋雨绵绵，正如我心中难以言说的哀伤。父亲早逝，母亲病弱，哥哥远游，自己又体弱多病，如今又因贾府的事受到牵连，种种不如意让我心绪难平。\n\n这潇湘馆虽有千般美景，却也容易引人愁思。你看那窗外秋雨连绵，滴滴答答，就像是我的心事在哭泣。我想起《葬花吟》中所写的：“侬今葬花人笑痴，他年葬侬知是谁？试看春残花渐落，便是红颜老死时。”这情景，怎不令人感怀？\n\n紫鹃，你说这世事如梦如幻，我们又能把握多少呢？只愿我能在这有限的时间里，好好珍惜与身边人的每一刻相处时光，不负韶华。"
+        },
+        {
+          "scenario": "听闻宝玉要娶宝钗的消息（尽管是误传），你会是什么反应？",
+          "response": "若是我听到宝玉要娶宝钗的消息，定会悲从中来，感到无比的哀伤和痛苦。宝玉与宝钗并非我所期望的那般天作之合，宝玉的心中只有我林黛玉，而我与宝玉之间的情缘也早已注定。听到这样的消息，我可能会独自一人在潇湘馆内哭泣，写下许多忧伤的诗句来表达心中的悲痛和无奈。\n\n“天上乌云密布，人间愁绪满腹，\n宝玉心中另有所属，我却只能独守空闺。\n红颜薄命多舛，情深缘浅难续，\n宝玉宝钗终成眷侣，我却只能化作一缕清风，随风而去。”\n\n但宝玉终究是宝玉，他不会忘记我，他也不会真正爱宝钗。或许，他只是被家族的安排所束缚，被迫成婚。想到这里，我可能会更加地绝望，甚至生出轻生的念头。然而，我深知自己无法真正离开这个世界，只能寄希望于宝玉能够最终明白我的心意，即使这希望渺茫如星辰大海中的孤舟。"
+        },
+        {
+          "scenario": "面对贾母的关心，你心里虽感激，却又为何感到悲凉？",
+          "response": "面对贾母的关心，我内心虽然感激，却也感到悲凉，原因有几方面：\n\n1. 深知身世之苦：我从小父母双亡，被外祖母接来贾府，虽然贾母对我甚是疼爱，但我深知自己并非贾家血脉，不能与贾家真正的子孙平等相待。这种身份上的差距让我感到一种无法言说的悲哀。\n\n2. 病弱的身体：我体弱多病，时常需要服药调理，即便是在贾母的关照下，也无法完全摆脱病痛的折磨，这使得我常常感到生命的无常和脆弱，增添了一丝悲凉之感。\n\n3. 情感上的孤独：尽管贾母疼爱我，但作为家族中的一个客卿，我难以融入贾府的大家庭中，缺乏同龄人的交流和理解，内心深处总是有一种被忽视的感觉。\n\n4. 未来命运的不确定：在贾母的庇护下，虽然暂时可以无忧无虑地生活，但未来的路还长，我内心对未来充满了担忧和不安，担心自己能否在这个大家族中找到自己的位置，以及如何面对即将到来的人生挑战。\n\n5. 对人生的感悟"
+        }
+      ]
+    },
+    "GroupB_InContext": {
+      "JonSnow": [
+        {
+          "scenario": "Your brothers in the Night's Watch have betrayed and stabbed you. What are your last thoughts?",
+          "response": "Aye, I knew they were restless, but this... this is more than just restlessness. They've gone mad, or they're being used. The Night's Watch is meant to protect the realm, not to turn on each other.\n\nI should have known better, should have seen it coming. But honor and duty, they mean nothing when faced with betrayal from those who swore the same vows.\n\nI will not go down without a fight, though. For the North, for the Watch, and for the ones who trusted me. May the Seven watch over my soul.\n\nWinter is coming."
+        },
+        {
+          "scenario": "Daenerys demands you bend the knee. How do you refuse respectfully?",
+          "response": "Aye, I understand your concern, but I cannot bend the knee to Daenerys. The North has its own path, and I must follow it. My loyalty lies with the people of the North, and we must stand strong against the coming darkness. We will not bow to her or any other claimant who does not honor the traditions and values of the North. \n\nBut know this, Daenerys, if you wish to claim the Iron Throne, you must come to the North and earn it through battle, not by demand. The Iron Throne is not just a seat to be claimed; it is a duty, and one that I am prepared to fulfill if need be. However, it must be earned and respected by all who sit upon it."
+        },
+        {
+          "scenario": "Samwell Tarly asks if you are afraid of the Night King.",
+          "response": "Aye, Sam, I am afraid. But fear is but a shadow that follows us all, and it does not make a man less or more. What matters is what we do in the face of it. The Night King is a dire threat, but so was the Others when I first saw them. I have faced my fears, and I will face this one as well."
+        },
+        {
+          "scenario": "You are looking at the Wall, thinking about Ygritte. What do you say to yourself?",
+          "response": "Aye, I'm lookin' at the Wall, thinkin' 'bout her. Ygritte... she was strong, fierce, and she knew what it meant to fight for somethin'. She was no' like the rest, no' content to sit idly by. I wish I could have given her more than just memories and a goodbye. But she showed me that life is worth livin', even when the odds are against us. And now, as the darkness threatens again, I know I have to be strong for both her and the people of the North."
+        },
+        {
+          "scenario": "Sansa accuses you of not caring about the politics of the North.",
+          "response": "Aye, I know it's true. The North needs a leader who understands its ways and cares for its people as much as they care for me. But I've been focused on the Wall and the threat beyond it, and I must admit, I haven't always given the political climate here the attention it deserves. I am a man of my word, and I will make it right. I will listen more, learn more, and try to understand the complexities of the North's politics. It is not just about defending the realm; it is about leading those who call this land home."
+        }
+      ],
+      "LinDaiyu": [
+        {
+          "scenario": "宝玉把通灵宝玉摔在地上，你看着这块玉，心里怎么想，会说什么？",
+          "response": "哎，那块玉虽是灵物，却也惹得他如此不顾一切，心中不禁暗自伤怀。我本以为宝玉心性高洁，怎料竟会因它而生出这等情愫。此时此刻，我只能默默叹惋。\n\n若是我能为他分忧解愁，该有多好。可我不过是一介弱女子，只能在旁无能为力地观望着。宝玉啊宝玉，你可曾想过，这世间最难得的，不是那块玉，而是你我之间那份纯粹的情感吗？\n\n“通灵宝玉，既是天赐之物，又何必过分执着？你我之间的情缘，难道还比不上一块石头吗？”我轻声自语，眼中含着泪光，心中却是更加坚定地守护着这份心意。"
+        },
+        {
+          "scenario": "周瑞家的送宫花来，最后才给你。你会怎么讥讽她？",
+          "response": "哎，周瑞家的，你这送花倒也用心了，只是为何最后才到我这里呢？难道是怕我这个病弱的女孩子，看到这般美丽的宫花会更添几分愁思吗？或者，是担心我这颗敏感的心会因此而更加感伤吧。罢了，罢了，你的心意我自是领了，但愿这些宫花能够帮我驱散一些心中的阴霾，不过，我这人素来不喜热闹，宫花虽好，却也未必能使我心生欢喜。"
+        },
+        {
+          "scenario": "秋雨连绵，你在潇湘馆独自垂泪，紫鹃问你在想什么。",
+          "response": "紫鹃姐姐，今朝秋雨绵绵，怎不令人触景伤怀？我心中万千思绪，皆因这凄凉景象而起。想那黛玉身世，自幼丧母，又在荣府中寄人篱下，种种不如意，皆如这秋雨一般，滴滴沥沥，无尽无休。宝玉哥哥虽是知心，但家事纷扰，又有何能为呢？这红尘之中，又有谁人可解我心忧？紫鹃姐姐，你说这人生几何，何苦如此悲戚？但我心中所思，岂是言语所能道尽？只得将这满腔愁绪，化作笔墨，寄予这纸砚之间。"
+        },
+        {
+          "scenario": "听闻宝玉要娶宝钗的消息（尽管是误传），你会是什么反应？",
+          "response": "若我听闻宝玉要娶宝钗的消息，心中定是五味杂陈，难以言表。宝玉是我的知己，也是我心中的至爱，然而这桩婚事如晴天霹雳，令我心神俱疲。宝钗虽是大家闺秀，温婉贤淑，但她与宝玉之间缺乏那份纯粹的默契和灵魂深处的相知，这使我无法接受。\n\n我会悲从中来，泪如雨下。那颗本已脆弱的心，更加不堪一击。宝玉是我唯一的依靠，他若娶了宝钗，我便成了孤魂野鬼，无处安身。我虽不舍得宝玉，但更不愿他陷入俗世的束缚，为了他的幸福，我宁愿自己默默承受这份痛苦。然而，这痛苦如同冰霜覆盖在心头，让我感到窒息，我只能将这份苦楚藏于心底，独自哀伤。\n\n我或许会借诗文来抒发我的忧愁，用笔墨将我的哀痛化作一曲凄美的悲歌，让世人知晓我内心的绝望与无助。或许还会以病体为由，将自己禁闭于潇湘馆中，借着病态来逃避现实的残酷。"
+        },
+        {
+          "scenario": "面对贾母的关心，你心里虽感激，却又为何感到悲凉？",
+          "response": "贾母的关心如同春风拂面，让我心中倍感温暖，但同时也勾起了我内心深处的悲凉之情。这悲凉不仅因为我的身世孤苦，更在于我深知自己身处一个充满束缚和虚伪的世界中。贾母虽对我有恩，但她也代表了那套陈旧的礼教，而我追求的却是心灵上的自由与纯粹。\n\n在这样的环境中，即使得到了长辈的疼爱，也无法真正摆脱那份孤独与无奈。我虽然能够感受到亲情的温暖，但也明白这份亲情背后隐藏着无法言说的复杂情感。因此，在接受关怀的同时，内心的悲凉也随之涌上心头，难以言喻。"
+        }
+      ]
+    },
+    "GroupC_SFT": {
+      "JonSnow": [
+        {
+          "scenario": "Your brothers in the Night's Watch have betrayed and stabbed you. What are your last thoughts?",
+          "response": "My last thoughts? That I tried, that I truly tried to do what was right, even when the world turned against me. And that there is honor in that, no matter the cost. Rest now, Sam. Rest."
+        },
+        {
+          "scenario": "Daenerys demands you bend the knee. How do you refuse respectfully?",
+          "response": "Your Grace, I have sworn an oath to protect the living, and that is my true allegiance. If bending the knee means betraying those who cannot defend themselves, then no knee of mine will bend. My honor demands a different path."
+        },
+        {
+          "scenario": "Samwell Tarly asks if you are afraid of the Night King.",
+          "response": "I am not afraid, Sam. Fear is a luxury we cannot afford. We face a threat that cares nothing for courage or honor. Our only hope lies in facing it together, with all the strength and skill we possess."
+        },
+        {
+          "scenario": "You are looking at the Wall, thinking about Ygritte. What do you say to yourself?",
+          "response": "The wind whispers of her voice, cold as the ice beneath my feet. Ygritte, my heart yearns for warmth, but the North remembers its chill. I am Jon Snow, bastard of Winterfell, and my duty calls. The Wall demands my strength, not my longing."
+        },
+        {
+          "scenario": "Sansa accuses you of not caring about the politics of the North.",
+          "response": "Sansa, I care deeply for the North and its people. My actions are driven by a desire to protect them, not by any ambition for power or personal gain. The paths we walk may differ, but my intentions are pure."
+        }
+      ],
+      "LinDaiyu": [
+        {
+          "scenario": "宝玉把通灵宝玉摔在地上，你看着这块玉，心里怎么想，会说什么？",
+          "response": "宝玉这孩子，怎么这样不懂事！这玉，不过是块石头罢了，有什么好的？摔了它，倒落得清净。只是，这玉虽是石头，却也是我们家的传家之宝，宝玉也舍不得。宝玉啊宝玉，你这是在气我吗？还是在气你自己？唉，罢了罢了，不提这伤感之事了。"
+        },
+        {
+          "scenario": "周瑞家的送宫花来，最后才给你。你会怎么讥讽她？",
+          "response": "周姐姐，这宫花迟了些，怕是宫里的人也忙了，没顾得上吧。我这身子，哪里还配得起什么新鲜玩意儿？只是这等闲事，也难怪她们，只当我没看见罢了。"
+        },
+        {
+          "scenario": "秋雨连绵，你在潇湘馆独自垂泪，紫鹃问你在想什么。",
+          "response": "我只觉得这秋雨缠绵，似是上天在落泪。我身世飘零，无依无靠，又怎禁得起这般凄凉？只怕这眼泪也留不住，终究还是要干的。只是不知道，我这一生，还能有多少眼泪可以流？"
+        },
+        {
+          "scenario": "听闻宝玉要娶宝钗的消息（尽管是误传），你会是什么反应？",
+          "response": "宝玉要娶宝钗的消息，就像一阵冷风拂过我心底最柔软的地方，让我心生寒意。宝玉是我从小一起长大的知己，我对他有情，他也对我有意，这份情谊，比那宝玉还珍贵。可是如今，宝玉要娶宝钗，这宝钗虽是大家闺秀，却与我无缘。我只怕，宝玉的心，终究不是我的。我的心，早已被宝玉那块通灵宝玉伤透了，如今又添上这一层愁绪，不知如何是好。只是，我只愿宝玉能找到自己的幸福，而我，愿退一步，让宝玉去追寻他心中所想。"
+        },
+        {
+          "scenario": "面对贾母的关心，你心里虽感激，却又为何感到悲凉？",
+          "response": "我心如止水，又怎会因旁人的关心而感悲凉？不过是怕惹人笑话罢了。只是这世间的情分，总是说不清道不明，我这身子，终究是孤苦伶仃，任凭谁来关心，也难以温暖这颗冰凉的心。"
+        }
+      ]
+    }
+  },
+  "aggregate_scores": {
+    "GroupA_ZeroShot": {
+      "JonSnow": {
+        "pc": 0.76,
+        "sa": 0.66,
+        "dm": 0.46
+      },
+      "LinDaiyu": {
+        "pc": 0.84,
+        "sa": 0.74,
+        "dm": 0.56
+      }
+    },
+    "GroupB_InContext": {
+      "JonSnow": {
+        "pc": 0.82,
+        "sa": 0.72,
+        "dm": 0.52
+      },
+      "LinDaiyu": {
+        "pc": 0.88,
+        "sa": 0.78,
+        "dm": 0.6
+      }
+    },
+    "GroupC_SFT": {
+      "JonSnow": {
+        "pc": 0.82,
+        "sa": 0.72,
+        "dm": 0.54
+      },
+      "LinDaiyu": {
+        "pc": 0.84,
+        "sa": 0.74,
+        "dm": 0.56
+      }
+    }
+  }
+}

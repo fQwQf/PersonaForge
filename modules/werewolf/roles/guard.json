@@ -1,0 +1,26 @@
+{
+  "role_id": "guard",
+  "role_name": "守卫",
+  "camp": "villager",
+  "abilities": [
+    {
+      "ability_id": "protect",
+      "name": "守护",
+      "phase": "night_guard",
+      "target_type": "single_player",
+      "can_target_self": true,
+      "restrictions": [
+        "cannot_protect_same_twice_consecutive"
+      ],
+      "description": "守护一名玩家，使其免受狼人击杀"
+    }
+  ],
+  "ai_behavior": {
+    "prompt_template": "guard_protect",
+    "think_chain_enabled": true,
+    "deception_level": "low",
+    "temperature": 0.7
+  },
+  "description": "守卫每晚可以守护一名玩家",
+  "win_condition": "所有狼人被淘汰"
+}

@@ -1,0 +1,39 @@
+{
+  "role_id": "witch",
+  "role_name": "女巫",
+  "camp": "villager",
+  "abilities": [
+    {
+      "ability_id": "antidote",
+      "name": "解药",
+      "phase": "night_witch",
+      "target_type": "single_player",
+      "can_target_self": true,
+      "restrictions": [
+        "use_once_per_game",
+        "can_only_save_killed_player"
+      ],
+      "description": "救活被狼人击杀的玩家"
+    },
+    {
+      "ability_id": "poison",
+      "name": "毒药",
+      "phase": "night_witch",
+      "target_type": "single_player",
+      "can_target_self": false,
+      "restrictions": [
+        "use_once_per_game",
+        "cannot_use_both_potions_same_night"
+      ],
+      "description": "毒杀一名玩家"
+    }
+  ],
+  "ai_behavior": {
+    "prompt_template": "witch_potion_use",
+    "think_chain_enabled": true,
+    "deception_level": "medium",
+    "temperature": 0.8
+  },
+  "description": "女巫拥有一瓶解药和一瓶毒药",
+  "win_condition": "所有狼人被淘汰"
+}

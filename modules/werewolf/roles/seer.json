@@ -1,0 +1,24 @@
+{
+  "role_id": "seer",
+  "role_name": "预言家",
+  "camp": "villager",
+  "abilities": [
+    {
+      "ability_id": "check",
+      "name": "查验",
+      "phase": "night_seer",
+      "target_type": "single_player",
+      "can_target_self": false,
+      "restrictions": [],
+      "description": "查验一名玩家，获知其是狼人还是好人"
+    }
+  ],
+  "ai_behavior": {
+    "prompt_template": "seer_check",
+    "think_chain_enabled": true,
+    "deception_level": "low",
+    "temperature": 0.7
+  },
+  "description": "预言家每晚可以查验一名玩家的身份",
+  "win_condition": "所有狼人被淘汰"
+}

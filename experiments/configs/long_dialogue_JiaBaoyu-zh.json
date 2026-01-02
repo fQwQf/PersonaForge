@@ -1,0 +1,11 @@
+{
+ "performer_codes": [
+  "JiaBaoyu-zh"
+ ],
+ "world_file_path": "data/worlds/A_Dream_in_Red_Mansions/world_info.json",
+ "role_file_dir": "data/roles/",
+ "loc_file_path": "data/locations/A_Dream_in_Red_Mansions.json",
+ "language": "zh",
+ "source": "A_Dream_in_Red_Mansions",
+ "experiment_subname": "long_dialogue_fixed"
+}

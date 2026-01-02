@@ -1,0 +1,24 @@
+{
+  "role_id": "werewolf",
+  "role_name": "狼人",
+  "camp": "werewolf",
+  "abilities": [
+    {
+      "ability_id": "kill",
+      "name": "击杀",
+      "phase": "night_werewolf",
+      "target_type": "single_player",
+      "can_target_self": false,
+      "restrictions": [],
+      "description": "狼人团队选择一名玩家进行击杀"
+    }
+  ],
+  "ai_behavior": {
+    "prompt_template": "werewolf_night_action",
+    "think_chain_enabled": true,
+    "deception_level": "high",
+    "temperature": 0.9
+  },
+  "description": "狼人每晚可以击杀一名玩家",
+  "win_condition": "所有好人被淘汰或狼人数量≥好人数量"
+}

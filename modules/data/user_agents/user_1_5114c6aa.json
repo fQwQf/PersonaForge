@@ -1,0 +1,16 @@
+{
+  "user_id": 1,
+  "role_code": "user_1_5114c6aa",
+  "scroll_id": 6,
+  "mbti": "ESFJ",
+  "big_five": {
+    "openness": 0.5,
+    "conscientiousness": 0.5,
+    "extraversion": 0.5,
+    "agreeableness": 0.5,
+    "neuroticism": 0.5
+  },
+  "identity": "贤管家",
+  "goal": "恪守家族礼仪规矩，维护家族体面与声誉。",
+  "nickname": "李青"
+}

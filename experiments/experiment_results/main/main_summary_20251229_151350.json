@@ -1,0 +1,61 @@
+{
+ "config": {
+  "num_characters": 10,
+  "num_scenarios": 8,
+  "methods": [
+   "vanilla",
+   "character_llm",
+   "structured_cot",
+   "rag_persona",
+   "role_llm",
+   "ours_no_dual",
+   "ours"
+  ],
+  "llm": "gemini-2.5-flash-lite"
+ },
+ "summary": {
+  "vanilla": {
+   "PC (Personality Consistency)": 0.680379746835443,
+   "SA (Style Adherence)": 0.0981012658227848,
+   "DM (Defense Mechanism)": 0.26282051282051283,
+   "RD (Response Diversity)": 0.9185581679496649
+  },
+  "character_llm": {
+   "PC (Personality Consistency)": 0.684375,
+   "SA (Style Adherence)": 0.1875,
+   "DM (Defense Mechanism)": 0.3,
+   "RD (Response Diversity)": 0.9262411438707575
+  },
+  "structured_cot": {
+   "PC (Personality Consistency)": 0.7151898734177216,
+   "SA (Style Adherence)": 0.310126582278481,
+   "DM (Defense Mechanism)": 0.33974358974358976,
+   "RD (Response Diversity)": 0.9215642947012154
+  },
+  "rag_persona": {
+   "PC (Personality Consistency)": 0.6613924050632911,
+   "SA (Style Adherence)": 0.189873417721519,
+   "DM (Defense Mechanism)": 0.27564102564102566,
+   "RD (Response Diversity)": 0.9206412020776097
+  },
+  "role_llm": {
+   "PC (Personality Consistency)": 0.246875,
+   "SA (Style Adherence)": 0.565625,
+   "DM (Defense Mechanism)": 0.0875,
+   "RD (Response Diversity)": 0.9660651694195082
+  },
+  "ours_no_dual": {
+   "PC (Personality Consistency)": 0.571875,
+   "SA (Style Adherence)": 0.48125,
+   "DM (Defense Mechanism)": 0.2875,
+   "RD (Response Diversity)": 0.9507303284425919
+  },
+  "ours": {
+   "PC (Personality Consistency)": 0.8625,
+   "SA (Style Adherence)": 0.7125,
+   "DM (Defense Mechanism)": 0.5625,
+   "RD (Response Diversity)": 0.9773704584095436
+  }
+ },
+ "timestamp": "20251229_151350"
+}

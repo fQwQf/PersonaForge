@@ -1,0 +1,16 @@
+{
+  "user_id": 1,
+  "role_code": "user_1_a0b7991b",
+  "scroll_id": 6,
+  "mbti": "INFP",
+  "big_five": {
+    "openness": 0.5,
+    "conscientiousness": 0.5,
+    "extraversion": 0.5,
+    "agreeableness": 0.5,
+    "neuroticism": 0.5
+  },
+  "identity": "雅士",
+  "goal": "以诗文琴艺抚慰友人，传递理解与人文关怀。",
+  "nickname": "qwq"
+}

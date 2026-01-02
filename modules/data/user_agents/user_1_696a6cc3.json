@@ -1,0 +1,16 @@
+{
+  "user_id": 1,
+  "role_code": "user_1_696a6cc3",
+  "scroll_id": 6,
+  "mbti": "ENFP",
+  "big_five": {
+    "openness": 0.5,
+    "conscientiousness": 0.5,
+    "extraversion": 0.5,
+    "agreeableness": 0.5,
+    "neuroticism": 0.5
+  },
+  "identity": "清客",
+  "goal": "以独特视角，记录贾府兴衰变迁。",
+  "nickname": "qwq"
+}

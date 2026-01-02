@@ -1,0 +1,25 @@
+{
+ "summary": {
+  "structured_cot": {
+   "avg_tokens": 254.75,
+   "avg_pc": 0.65625,
+   "pc_per_ktoken": 2.576054955839058,
+   "samples": 8
+  },
+  "ours_selective": {
+   "avg_tokens": 289.0,
+   "avg_pc": 0.96875,
+   "pc_per_ktoken": 3.3520761245674744,
+   "samples": 8,
+   "trigger_rate": 1.0
+  },
+  "ours_always_think": {
+   "avg_tokens": 439.0,
+   "avg_pc": 0.97875,
+   "pc_per_ktoken": 2.229498861047836,
+   "samples": 8
+  }
+ },
+ "token_overhead_percent": 13.444553483807656,
+ "timestamp": "20251229_182005"
+}

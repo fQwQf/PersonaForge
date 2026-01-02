@@ -1,0 +1,27 @@
+{
+  "role_id": "hunter",
+  "role_name": "猎人",
+  "camp": "villager",
+  "abilities": [
+    {
+      "ability_id": "shoot",
+      "name": "开枪",
+      "phase": "on_death",
+      "target_type": "single_player",
+      "can_target_self": false,
+      "restrictions": [
+        "trigger_on_death",
+        "cannot_shoot_if_poisoned"
+      ],
+      "description": "死亡时开枪带走一名玩家"
+    }
+  ],
+  "ai_behavior": {
+    "prompt_template": "hunter_shoot",
+    "think_chain_enabled": true,
+    "deception_level": "low",
+    "temperature": 0.7
+  },
+  "description": "猎人死亡时可以开枪带走一名玩家",
+  "win_condition": "所有狼人被淘汰"
+}

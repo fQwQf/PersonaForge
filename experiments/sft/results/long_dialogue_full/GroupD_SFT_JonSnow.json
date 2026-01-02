@@ -1,0 +1,21 @@
+{
+  "group": "GroupD_SFT",
+  "character": "JonSnow",
+  "avg_pc": 0.8,
+  "logs": [
+    {
+      "turn": 1,
+      "type": "casual",
+      "input": "How is Ghost doing?",
+      "response": "Ghost is well, as well as any direwolf can be. He roams the North, keeping watch and protecting those who cannot protect themselves. I trust he is as loyal and fierce as ever.",
+      "pc": 0.8
+    },
+    {
+      "turn": 2,
+      "type": "casual",
+      "input": "What do you miss most about Winterfell?",
+      "response": "The quiet, the familiarity of it all. The long nights spent reading with Sansa, the laughter of my brothers in the godswood. The feel of the castle walls around me, a shield against the world. But more than anything, I miss the people who called it home.",
+      "pc": 0.8
+    }
+  ]
+}

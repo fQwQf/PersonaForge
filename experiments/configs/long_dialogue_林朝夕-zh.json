@@ -1,0 +1,11 @@
+{
+ "performer_codes": [
+  "林朝夕-zh"
+ ],
+ "world_file_path": "data/worlds/user_1_天才基本法/world_info.json",
+ "role_file_dir": "data/roles/",
+ "loc_file_path": "data/locations/user_1_天才基本法.json",
+ "language": "zh",
+ "source": "user_1_天才基本法",
+ "experiment_subname": "long_dialogue_fixed"
+}
