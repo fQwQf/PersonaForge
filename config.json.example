@@ -1,0 +1,27 @@
+{
+    "role_llm_name": "YOUR_MODEL_NAME_HERE",
+    "world_llm_name": "YOUR_MODEL_NAME_HERE",
+    "embedding_model_name": "bge-small",
+    "preset_path": "./experiment_presets/experiment_red_mansions.json",
+    
+    "_comment_api_keys": "Fill in ONE of the following API key sections based on your model choice",
+    
+    "OPENAI_API_KEY": "sk-xxx",
+    "OPENAI_API_BASE": "https://api.openai.com/v1",
+    
+    "GEMINI_API_KEY": "xxx",
+    
+    "DEEPSEEK_API_KEY": "xxx",
+    
+    "QWEN_API_KEY": "xxx",
+    
+    "ANTHROPIC_API_KEY": "xxx",
+    
+    "_comment_supported_models": [
+        "OpenAI: gpt-4o, gpt-4-turbo, gpt-3.5-turbo",
+        "Gemini: gemini-2.5-flash, gemini-pro",
+        "DeepSeek: deepseek-v3, deepseek-chat",
+        "Qwen: qwen-turbo, qwen-plus, qwen-max",
+        "Local: ollama/xxx, vllm/xxx"
+    ]
+}

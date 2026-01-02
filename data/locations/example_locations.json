@@ -1,0 +1,24 @@
+{
+    "laboratory": {
+      "location_code": "laboratory",
+      "location_name": "Laboratory",
+      "source": "example",
+      "description": "A high-security research lab pioneering human-machine fusion experiments.",
+      "detail": "Inside this sterile, high-tech facility, scientists and engineers work on merging biological and artificial systems. It stands at the forefront of redefining human evolution through machine integration."
+    },
+    "university": {
+      "location_code": "university",
+      "location_name": "University",
+      "source": "example",
+      "description": "An elite institution training the next generation of technologists and bioengineers.",
+      "detail": "The university offers cutting-edge programs in AI ethics, cybernetics, and synthetic biology. Its sprawling campus nurtures innovation, producing thinkers who will shape humanity’s future relationship with machines."
+    },
+    "eldridge_corporation": {
+      "location_code": "eldridge_corporation",
+      "location_name": "Eldridge Corporation",
+      "source": "example",
+      "description": "A dominant tech conglomerate driving the frontier of AI and biotechnology.",
+      "detail": "Eldridge Corporation controls vast sectors of AI research, cybernetic enhancements, and neural networking. Officially a beacon of progress, rumors persist of secret projects far beyond ethical boundaries."
+    }
+  }
+  

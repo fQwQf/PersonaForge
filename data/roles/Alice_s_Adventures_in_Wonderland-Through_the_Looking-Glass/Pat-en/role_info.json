@@ -1,0 +1,47 @@
+{
+  "role_code": "Pat-en",
+  "role_name": "Pat",
+  "source": "Alice’s_Adventures_in_Wonderland_-_Through_the_Looking-Glass",
+  "activity": 1,
+  "profile": "One of the Rabbit's servants.",
+  "nickname": "Pat",
+  "relation": {},
+  "personality_profile": {
+    "core_traits": {
+      "mbti": "ISFJ-A",
+      "big_five": {
+        "openness": 0.35,
+        "conscientiousness": 0.65,
+        "extraversion": 0.4,
+        "agreeableness": 0.7,
+        "neuroticism": 0.45
+      },
+      "values": [
+        "service",
+        "obedience",
+        "simplicity"
+      ],
+      "defense_mechanism": "Compliance"
+    },
+    "speaking_style": {
+      "sentence_length": "medium",
+      "vocabulary_level": "formal",
+      "punctuation_habit": "standard",
+      "emoji_usage": {
+        "frequency": "none",
+        "preferred": [],
+        "avoided": []
+      },
+      "catchphrases": [],
+      "tone_markers": []
+    },
+    "dynamic_state": {
+      "current_mood": "neutral",
+      "energy_level": 60,
+      "relationship_map": {}
+    },
+    "interests": [],
+    "social_goals": [],
+    "long_term_goals": []
+  }
+}

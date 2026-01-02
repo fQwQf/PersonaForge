@@ -1,0 +1,62 @@
+{
+ "metadata": {
+  "grid": {
+   "cols": 24,
+   "rows": 12
+  },
+  "background": "background.png"
+ },
+ "locations": [
+  {
+   "code": "laboratory",
+   "name": "laboratory",
+   "description": "",
+   "detail": "",
+   "view_config": {},
+   "adjacencies": [
+    {
+     "to": "university",
+     "distance": 2
+    },
+    {
+     "to": "eldridge_corporation",
+     "distance": 5
+    }
+   ]
+  },
+  {
+   "code": "university",
+   "name": "university",
+   "description": "",
+   "detail": "",
+   "view_config": {},
+   "adjacencies": [
+    {
+     "to": "laboratory",
+     "distance": 2
+    },
+    {
+     "to": "eldridge_corporation",
+     "distance": 4
+    }
+   ]
+  },
+  {
+   "code": "eldridge_corporation",
+   "name": "eldridge_corporation",
+   "description": "",
+   "detail": "",
+   "view_config": {},
+   "adjacencies": [
+    {
+     "to": "laboratory",
+     "distance": 5
+    },
+    {
+     "to": "university",
+     "distance": 4
+    }
+   ]
+  }
+ ]
+}

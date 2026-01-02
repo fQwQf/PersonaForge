@@ -1,0 +1,117 @@
+{
+  "buildings": [
+    {
+      "building_code": "QinfangTing",
+      "building_name": "沁芳亭",
+      "location_code": "Daguanyuan",
+      "description": "位于中轴线南端，是狭长的过道与水亭结合部，连接南北。",
+      "coordinates": {
+        "sw": [11, 2],
+        "se": [14, 2],
+        "ne": [14, 3],
+        "nw": [11, 3]
+      },
+      "width": 4,
+      "height": 2,
+      "color": "#d4a574",
+      "icon": "🏛️"
+    },
+    {
+      "building_code": "XiaoxiangGuan",
+      "building_name": "潇湘馆",
+      "location_code": "Daguanyuan",
+      "description": "林黛玉居住之所，位于西南隅，地形幽深。因为包含大片竹林，占地较方正但偏向角落。",
+      "coordinates": {
+        "sw": [3, 3],
+        "se": [6, 3],
+        "ne": [6, 5],
+        "nw": [3, 5]
+      },
+      "width": 4,
+      "height": 3,
+      "color": "#8b9a46",
+      "icon": "🎋"
+    },
+    {
+      "building_code": "YihongYuan",
+      "building_name": "怡红院",
+      "location_code": "Daguanyuan",
+      "description": "贾宝玉居住之所，位于东南方位。这是园内最复杂的建筑群，包含多进院落、回廊和花园。",
+      "coordinates": {
+        "sw": [19, 2],
+        "se": [23, 2],
+        "ne": [23, 5],
+        "nw": [19, 5]
+      },
+      "width": 5,
+      "height": 4,
+      "color": "#c94c4c",
+      "icon": "🏮"
+    },
+    {
+      "building_code": "OuxiangXie",
+      "building_name": "藕香榭",
+      "location_code": "Daguanyuan",
+      "description": "位于几何中心的水面上。这是一个四面环水的独立亭榭，占地虽不大，但独占中央水域。",
+      "coordinates": {
+        "sw": [11, 6],
+        "se": [13, 6],
+        "ne": [13, 7],
+        "nw": [11, 7]
+      },
+      "width": 3,
+      "height": 2,
+      "color": "#4a90a4",
+      "icon": "🏯"
+    },
+    {
+      "building_code": "LongcuiAn",
+      "building_name": "栊翠庵",
+      "location_code": "Daguanyuan",
+      "description": "妙玉居住之所，位于东侧中段，怡红院的北侧。这是一座依山而建的独立庙宇，占地紧凑。",
+      "coordinates": {
+        "sw": [21, 7],
+        "se": [23, 7],
+        "ne": [23, 8],
+        "nw": [21, 8]
+      },
+      "width": 3,
+      "height": 2,
+      "color": "#6b7a8f",
+      "icon": "⛩️"
+    },
+    {
+      "building_code": "QiushuangZhai",
+      "building_name": "秋爽斋",
+      "location_code": "Daguanyuan",
+      "description": "贾探春居住之所，位于西北角。因为此时要举行宴席且栽种梧桐芭蕉，需要极开阔的厅堂空间，横向跨度大。",
+      "coordinates": {
+        "sw": [3, 9],
+        "se": [7, 9],
+        "ne": [7, 11],
+        "nw": [3, 11]
+      },
+      "width": 5,
+      "height": 3,
+      "color": "#9b7a3d",
+      "icon": "🏛️"
+    },
+    {
+      "building_code": "HengwuYuan",
+      "building_name": "蘅芜苑",
+      "location_code": "Daguanyuan",
+      "description": "薛宝钗居住之所，位于东北角。多奇石假山，建筑掩映在山石之间，位置相对隐蔽。",
+      "coordinates": {
+        "sw": [19, 9],
+        "se": [22, 9],
+        "ne": [22, 11],
+        "nw": [19, 11]
+      },
+      "width": 4,
+      "height": 3,
+      "color": "#7a8b6b",
+      "icon": "🏡"
+    }
+  ]
+}
+

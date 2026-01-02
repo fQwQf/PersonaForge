@@ -1,0 +1,85 @@
+# =====================================================
+# .gitignore for Anonymous GitHub Submission
+# =====================================================
+# Use this file when preparing code for anonymous review
+# Rename to .gitignore or use: git ls-files | grep -vf .gitignore_anonymous
+
+# === IDENTIFYING INFORMATION ===
+.git/
+config.json
+*.log
+scrollweaver.db
+nohup.out
+
+# === PRODUCT/DEMO CODE (Not needed for paper reproduction) ===
+server.py
+database.py
+Dockerfile
+index.html
+frontend/
+sw_utils.py
+test_api.py
+
+# === CHINESE DOCUMENTATION (Identifying) ===
+SCROLLWEAVER_EVOLUTION_PLAN.md
+SCROLLWEAVER_EXPERIMENT_GUIDE.md
+下一步计划.md
+后端改造详细方案.md
+广场页开发.md
+模块开发流程图.md
+三国演义背景图.png
+
+# === LARGE EXTERNAL DEPENDENCIES ===
+LLaMA-Factory/
+Soulverse-main/
+SillyTavern-release/
+3D模型/
+
+# === CACHE AND GENERATED FILES ===
+**/__pycache__/
+**/chromadb_saves/
+model_cache/
+.cursor/
+.vscode/
+.DS_Store
+
+# === LARGE EXPERIMENT BUNDLES ===
+experiment_bundle/
+experiment_saves/
+scrollweaver_experiments_full.zip
+new-experiment/
+four_way_experiment_package/
+map-pic/
+
+# === USER-CREATED LOCAL DATA ===
+experiment_presets/user_*.json
+data/locations/user_*.json
+data/maps/user_*.csv
+data/roles/user_*/
+data/worlds/user_*/
+user_uploads/
+
+# === LaTeX AUXILIARY FILES ===
+paper/*.aux
+paper/*.bbl
+paper/*.blg
+paper/*.out
+paper/*.log
+paper/page9.txt
+
+# === FRONTEND BUILD ARTIFACTS ===
+frontend/node_modules/
+frontend/.next/
+frontend/next-env.d.ts
+
+# === GENERATED IMAGES ===
+Gemini_Generated_Image_*.png
+
+# === MISCELLANEOUS ===
+run.sh
+/config/
+/log/
+BookWorld_test.py
+migrate_maps.py
+convert_sillytavern_cards_to_data.py
+extract_data/

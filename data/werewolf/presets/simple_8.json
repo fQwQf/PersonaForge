@@ -1,0 +1,22 @@
+{
+  "game_name": "8人简化局",
+  "total_players": 8,
+  "roles": {
+    "werewolf": 2,
+    "seer": 1,
+    "witch": 1,
+    "villager": 4
+  },
+  "phase_flow": [
+    "night_werewolf",
+    "night_seer",
+    "night_witch",
+    "day_announce",
+    "day_discussion",
+    "day_vote"
+  ],
+  "rules": {
+    "witch_can_self_save_first_night": true,
+    "hunter_can_shoot_when_poisoned": false
+  }
+}

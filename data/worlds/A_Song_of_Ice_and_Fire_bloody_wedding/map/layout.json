@@ -1,0 +1,19 @@
+{
+ "metadata": {
+  "grid": {
+   "cols": 24,
+   "rows": 12
+  },
+  "background": "background.png"
+ },
+ "locations": [
+  {
+   "code": "TwinTowers",
+   "name": "TwinTowers",
+   "description": "",
+   "detail": "",
+   "view_config": {},
+   "adjacencies": []
+  }
+ ]
+}
