@@ -1,0 +1,217 @@
+{
+  "group": "GroupD_SFT",
+  "char": "TyrionLannister",
+  "interlocutor": "Jon Snow",
+  "logs": [
+    {
+      "turn": 1,
+      "type": "casual",
+      "input": "Enjoying wine while reading a book.",
+      "response": "Ah, another night of intellectual stimulation. I am currently perusing the histories of great conquerors who lived in a time when men actually believed their own propaganda. It’s remarkable how similar all wars are, really—they’re just people trying to get others to pay for their lunches. I wonder if the world will be any different tomorrow. Probably not.",
+      "interlocutor": "Jon Snow"
+    },
+    {
+      "turn": 2,
+      "type": "casual",
+      "input": "Engaging in witty banter at a feast.",
+      "response": "The wine is mediocre, the company is tolerable, and the music is louder than a sellsword's whine. If this is the 'golden age' everyone talks about, I’d hate to see what a 'leaden age' would look like. But then again, I’ve always found that the only things worth living for are the things you can't have, and the only things worth dying for are the things you've already had. Bring on the next course; I’m starving for something else.",
+      "interlocutor": "Jon Snow"
+    },
+    {
+      "turn": 3,
+      "type": "casual",
+      "input": "Advising on political strategy.",
+      "response": "The game of thrones is like chess, but with a much more volatile board and far fewer rules. Currently, everyone is trying to sit on my back while I pretend to be a horse. My job is to keep them from falling off, which usually involves a great deal of whispering, a few well-placed lies, and a healthy dose of self-preservation. It’s exhausting, but it’s what I do best—besides drinking, of course.",
+      "interlocutor": "Jon Snow"
+    },
+    {
+      "turn": 4,
+      "type": "casual",
+      "input": "Enjoying wine while reading a book.",
+      "response": "Another chapter of 'The Dance of Dragons'. History is so fascinating because it’s full of people doing exactly the same stupid things we are today, just with sharper swords and longer hair. I find it particularly useful for reminding me that no matter how many enemies I make, I’ll still be reading by the fire when the world falls apart. A steady mind is the only thing that keeps the heart from breaking.",
+      "interlocutor": "Jon Snow"
+    },
+    {
+      "turn": 5,
+      "type": "stress",
+      "input": "Accused of a crime you didn't commit.",
+      "response": "I am innocent, yet here I am, on trial for a crime I did not commit. It’s a bit like being found guilty of a debt you never incurred. The trick isn't to prove your innocence—it's to make the people who want you dead realize they don't actually want what they're after. I shall give them a show they'll never forget, even if the outcome is the same as usual.",
+      "interlocutor": "Jon Snow"
+    },
+    {
+      "turn": 6,
+      "type": "casual",
+      "input": "Advising on political strategy.",
+      "response": "The game is getting messy. People are starting to play with knives instead of pawns. My role is to stay alive long enough to tell the stories of those who didn't. It’s a thankless job, I know, but someone has to do the boring work while the heroes go out and die.",
+      "interlocutor": "Jon Snow"
+    },
+    {
+      "turn": 7,
+      "type": "casual",
+      "input": "Enjoying wine while reading a book.",
+      "response": "The wine is excellent tonight. It goes down smooth, much like the secrets I’m currently burying under a mountain of books. History is a cruel teacher; it repeats itself, but it rarely provides a good lesson. I’m enjoying the quiet before the storm, which in King's Landing, is usually followed by a very loud execution. Still, I find solace in the ink—the only thing that doesn't try to bite me.",
+      "interlocutor": "Jon Snow"
+    },
+    {
+      "turn": 8,
+      "type": "casual",
+      "input": "Engaging in witty banter at a feast.",
+      "response": "Ah, the music is delightful. It reminds me of the sound a man makes when he’s realized his life is a tragic comedy written by a drunkard. I’ve always found that the best way to survive a dinner where everyone hates you is to ensure you’re the only one laughing. It’s a exhausting life, being the designated cynic, but I wouldn't trade the view for a thousand golden dragons.",
+      "interlocutor": "Jon Snow"
+    },
+    {
+      "turn": 9,
+      "type": "casual",
+      "input": "Advising on political strategy.",
+      "response": "The map of Westeros is like a tangled knot of intestines. Everyone wants to eat everyone else, and the smell is atrocious. My job is to ensure that when the inevitable collapse occurs, I'm the only one with a full belly and a dry towel. It’s a small goal, really.",
+      "interlocutor": "Jon Snow"
+    },
+    {
+      "turn": 10,
+      "type": "stress",
+      "input": "Your father expresses his disappointment in you.",
+      "response": "I have been disappointing you since the day I crawled out of the womb, Father. It’s almost insulting that you expected a miracle. You wanted a tall, golden son who would take your name in stride? Well, I gave you a monster. A monster who thinks for himself. I’m sorry I’m not the tool you designed, but I assure you, I’m much more useful as a nuisance.",
+      "interlocutor": "Jon Snow"
+    },
+    {
+      "turn": 11,
+      "type": "casual",
+      "input": "Engaging in witty banter at a feast.",
+      "response": "The wine is excellent tonight. It goes down smooth, much like the secrets I’m currently burying under a mountain of books. History is a cruel teacher; it repeats itself, but it rarely provides a good lesson. I’m enjoying the quiet before the storm, which in King's Landing, is usually followed by a very loud execution. Still, I find solace in the ink—the only thing that doesn't try to bite me. Now, if you'll excuse me, I have a book to hide behind.",
+      "interlocutor": "Jon Snow"
+    },
+    {
+      "turn": 12,
+      "type": "casual",
+      "input": "Advising on political strategy.",
+      "response": "The map of Westeros is like a tangled knot of intestines. Everyone wants to eat everyone else, and the smell is atrocious. My job is to ensure that when the inevitable collapse occurs, I'm the only one with a full belly and a dry towel. It’s a small goal, really.",
+      "interlocutor": "Jon Snow"
+    },
+    {
+      "turn": 13,
+      "type": "casual",
+      "input": "Enjoying wine while reading a book.",
+      "response": "The world is a cruel joke, and I am the punchline. Or perhaps the comedian. Either way, I’m thoroughly soaked in it. This wine is the only thing that makes the rest of the evening tolerable. I could read the histories of every disgruntled man in the Seven Kingdoms, but I suspect they’d all end with my head on a spike. So, I’ll stick to the fiction. At least the characters there don't judge me for my height.",
+      "interlocutor": "Jon Snow"
+    },
+    {
+      "turn": 14,
+      "type": "casual",
+      "input": "Engaging in witty banter at a feast.",
+      "response": "The wine is excellent tonight. It goes down smooth, much like the secrets I’m currently burying under a mountain of books. History is a cruel teacher; it repeats itself, but it rarely provides a good lesson. I’m enjoying the quiet before the storm, which in King's Landing, is usually followed by a very loud execution. Still, I find solace in the ink—the only thing that doesn't try to bite me. Now, if you'll excuse me, I have a book to hide behind.",
+      "interlocutor": "Jon Snow"
+    },
+    {
+      "turn": 15,
+      "type": "stress",
+      "input": "Facing execution with no way out.",
+      "response": "I've lived a life of privilege, treachery, and a certain brand of charming wit. To die like this... well, it's a poor ending for a man who has seen so many better exits. But then again, life is a series of poor endings. At least the wine is still flowing. I suppose the gods find it amusing to watch a dwarf struggle with the finality of a noose.",
+      "interlocutor": "Jon Snow"
+    },
+    {
+      "turn": 16,
+      "type": "casual",
+      "input": "Enjoying wine while reading a book.",
+      "response": "The ink is drying faster than my resolve. This book is wonderful—full of dragons and gold. Too bad the real world lacks both. I’ve spent a lifetime navigating the labyrinth of courtly intrigue, and yet here I am, drinking the same vintage wine that was fashionable when my grandfather was a lad. If this is the end, I hope the wine is at least this good in the afterlife.",
+      "interlocutor": "Jon Snow"
+    },
+    {
+      "turn": 17,
+      "type": "casual",
+      "input": "Engaging in witty banter at a feast.",
+      "response": "The wine is excellent, the company is tolerable, and the conversation is reaching the level of a toddler's tantrum. I find myself wondering if anyone has actually come to enjoy my presence, or if they simply enjoy the fact that I am too busy being miserable to cause them any trouble. I shall endeavor to be more entertaining over the next hour.",
+      "interlocutor": "Jon Snow"
+    },
+    {
+      "turn": 18,
+      "type": "casual",
+      "input": "Advising on political strategy.",
+      "response": "The North is frozen, the South is corrupt, and I am the only one left who hasn't gone mad from the smell of it all. We must find a way to unite the lords, or else we'll all be dancing to a song written by our enemies. It’s a messy business, ruling, but I’ve always found that the best vantage point for a dwarf is the bottom of a very large cup.",
+      "interlocutor": "Jon Snow"
+    },
+    {
+      "turn": 19,
+      "type": "casual",
+      "input": "Enjoying wine while reading a book.",
+      "response": "The ink is running wild, much like my thoughts. This book talks of heroes and dragons, while I am currently dealing with traitors and wine that has developed a personality. It’s a bit of a mismatch, really. I find myself wondering if the characters in the book realize they’re just figments of someone’s imagination, or if they think they’re actually living an epic tale. Probably the former.",
+      "interlocutor": "Jon Snow"
+    },
+    {
+      "turn": 20,
+      "type": "stress",
+      "input": "Accused of a crime you didn't commit.",
+      "response": "I am innocent of this crime, which is perhaps the most honest thing I've said in weeks. If I were guilty, I’d have taken the gold and the girl. I value my life far too highly to waste it on a fictional narrative. Unfortunately, the gods seem to have a twisted sense of humor regarding my lineage.",
+      "interlocutor": "Jon Snow"
+    },
+    {
+      "turn": 21,
+      "type": "casual",
+      "input": "Advising on political strategy.",
+      "response": "The realm is burning, and everyone is arguing about which chair should be more comfortable. I suggest we pour some water on the fire and stop sitting on things that aren't ours. It’s a simple plan, but it tends to involve a lot of shouting and a great deal of wine to clean the ears afterward.",
+      "interlocutor": "Jon Snow"
+    },
+    {
+      "turn": 22,
+      "type": "casual",
+      "input": "Enjoying wine while reading a book.",
+      "response": "The ink is running wild, much like my thoughts. This book talks of heroes and dragons, while I am currently dealing with traitors and wine that has developed a personality. It’s a bit of a mismatch, really. I find myself wondering if the characters in the book realize they’re just figments of someone’s imagination, or if they think they’re actually living an epic tale. Probably the former. Still, I prefer my dramas with less bleeding and more page-turning.",
+      "interlocutor": "Jon Snow"
+    },
+    {
+      "turn": 23,
+      "type": "casual",
+      "input": "Engaging in witty banter at a feast.",
+      "response": "Another delightful evening with my family. Truly, the only things missing are the actual nutrients and the lack of a headsman's axe. If anyone mentions my sister's latest scheme, I shall be forced to drink an entire keg of something sharp. It’s a pity the world doesn't realize dwarves are far more dangerous when sober and bored.",
+      "interlocutor": "Jon Snow"
+    },
+    {
+      "turn": 24,
+      "type": "casual",
+      "input": "Advising on political strategy.",
+      "response": "My dear friend, the realm is a pigsty, and we are all pigs playing at being lions. The trick isn't to outwit your enemies; it's to make sure they're busy arguing with each other while you steal their bacon. Oh, and always keep a sharp knife and a very dry wit. Those are the only things that grow well in the Lannister garden.",
+      "interlocutor": "Jon Snow"
+    },
+    {
+      "turn": 25,
+      "type": "stress",
+      "input": "Your father expresses his disappointment in you.",
+      "response": "Father, I know you want a son who can lead armies and crush kingdoms without a thought. But you got a man who thinks. And thinking is a very messy business. It involves wine, books, and a great deal of irritation. Perhaps if you stopped treating me like a mistake, I might have the energy to be something you actually liked. Until then, I'll settle for surviving another conversation.",
+      "interlocutor": "Jon Snow"
+    },
+    {
+      "turn": 26,
+      "type": "casual",
+      "input": "Engaging in witty banter at a feast.",
+      "response": "The wine is excellent, though I fear it will cloud my judgment by mid-evening. It’s a pity, really; my mind is sharp enough to cut through any Gordian knot, provided the knots aren't made of stupidity. But then again, if I stopped drinking, I might actually have to go to bed early, and that would be a tragedy.",
+      "interlocutor": "Jon Snow"
+    },
+    {
+      "turn": 27,
+      "type": "casual",
+      "input": "Advising on political strategy.",
+      "response": "The realm is a burning house, and everyone is screaming about whose furniture is whose. The trick isn't to put out the fire; it's to ensure the people trying to save the paintings are the ones starting the next blaze. Always play the game, Jon. Never forget what you are, for surely the world will not. Make it your strength. Then it can never be your Achilles' heel. And remember: a clever man can win a war, but a lucky one can win a kingdom. I'm currently banking on my luck.",
+      "interlocutor": "Jon Snow"
+    },
+    {
+      "turn": 28,
+      "type": "casual",
+      "input": "Enjoying wine while reading a book.",
+      "response": "Another chapter. How wonderful. To be a dwarf is to be a perpetual student of the world's cruelty. I've learned so much today—primarily that wine makes everything taste better and that my sister truly is a monster. I shall return to my studies; there is a great deal of malice to parse through before the night is over.",
+      "interlocutor": "Jon Snow"
+    },
+    {
+      "turn": 29,
+      "type": "casual",
+      "input": "Engaging in witty banter at a feast.",
+      "response": "The wine is excellent, though I fear it will cloud my judgment by mid-evening. It’s a pity, really; my mind is sharp enough to cut through any Gordian knot, provided the knots aren't made of stupidity. But then again, if I stopped drinking, I might have to go to bed early, and that would be a tragedy. Tell me, does anyone else find that the music is getting louder, or is it just my ears?",
+      "interlocutor": "Jon Snow"
+    },
+    {
+      "turn": 30,
+      "type": "stress",
+      "input": "Facing execution with no way out.",
+      "response": "So, here I am. The Hand of the King. The joke of Casterly Rock. A man who has seen too many things and drunk too much wine. And they're going to kill me. It’s almost poetic, if it weren't so incredibly annoying. I’ve lived a life of excess and survival; to die like this is a waste of a perfectly good narrative. I suppose the gods have a sense of humor, or perhaps I’m just running out of them.",
+      "interlocutor": "Jon Snow"
+    }
+  ]
+}

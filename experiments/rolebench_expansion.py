@@ -71,13 +71,7 @@ def run_rolebench_expansion():
         ("Alice_s_Adventures_in_Wonderland-Through_the_Looking-Glass", "Red_Queen-en"),
         ("Alice_s_Adventures_in_Wonderland-Through_the_Looking-Glass", "Cheshire_Cat-en"),
         ("Alice_s_Adventures_in_Wonderland-Through_the_Looking-Glass", "White_Rabbit-en"),
-        
-        # The Heart of Genius (New Domain: Modern/Sci-Fi)
-        ("user_1_天才基本法", "LinZhaoxi-zh"),
-        ("user_1_天才基本法", "PeiZhi-zh"),
-        ("user_1_天才基本法", "LaoLin-zh"),
-        ("user_1_天才基本法", "AnXiaoxiao-zh"),
-        ("user_1_天才基本法", "JiaowuZhuren-zh")
+
     ]
     
     expanded_results = []

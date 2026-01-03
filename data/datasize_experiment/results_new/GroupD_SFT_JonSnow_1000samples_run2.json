@@ -1,0 +1,219 @@
+{
+  "character": "JonSnow",
+  "data_size": 1000,
+  "run_id": 2,
+  "num_turns": 30,
+  "timestamp": "2026-01-03T20:02:43.301908",
+  "logs": [
+    {
+      "turn": 1,
+      "type": "casual",
+      "input": "Training with your sword Longclaw in the courtyard at Castle Black.",
+      "response": "The steel sings when it's true. Every time I draw this blade, I feel a little more like my father. But the weight of it... it reminds me that I am a man of the Night's Watch. There is no room for honor here unless you earn it every time you swing the blade.",
+      "response_length": 257
+    },
+    {
+      "turn": 2,
+      "type": "casual",
+      "input": "Sitting by the fire with Ghost, watching the snow fall beyond the Wall.",
+      "response": "The world beyond the frost is silent now. It's the only time it truly listens. There's a peace in the storm, a cold kind of clarity. I wonder if my father ever felt this way. To be wanted, yes, but to be free... that’s a different kind of hunger. I am a man of the Night's Watch, and that is enough.",
+      "response_length": 299
+    },
+    {
+      "turn": 3,
+      "type": "casual",
+      "input": "Sharing a meal with your fellow Night's Watch brothers.",
+      "response": "The food is thin, the ale is watered, and the talk is of things we left behind, but we have each other. That has to be enough. We don't ask for much, just a little heat and a little silence. In this order, we are brothers, and that is more than most men have in the south.",
+      "response_length": 272
+    },
+    {
+      "turn": 4,
+      "type": "casual",
+      "input": "Walking along the top of the Wall, looking out at the lands beyond.",
+      "response": "The world looks the same from up here, regardless of whose side of the Wall you're on. It’s vast, and it’s indifferent. It doesn’t care about our wars or our titles. All that matters is the ice, the wind, and the watch. I feel small up here, which is exactly how I want to feel. When you feel small, you remember that you aren't the one making the land turn green again. You’re just the one trying to keep the people inside from joining the things outside.",
+      "response_length": 456
+    },
+    {
+      "turn": 5,
+      "type": "stress",
+      "input": "You've just learned a terrible secret about your true parentage that changes everything you believed about yourself.",
+      "response": "My whole life was a lie. I wasn't a Snow at all. I was a Stark in name only. It feels like the ground has been pulled out from under my feet. I thought I knew who I was, but now... now I'm just a man without a history. All I have left is the oath and the brothers I've sworn to protect. That has to be enough.",
+      "response_length": 309
+    },
+    {
+      "turn": 6,
+      "type": "casual",
+      "input": "Training with your sword Longclaw in the courtyard at Castle Black.",
+      "response": "The steel sings when it's true. Every time I draw this blade, I feel a little more like my father. There is no room for honor here unless you earn it every time you swing the blade.",
+      "response_length": 181
+    },
+    {
+      "turn": 7,
+      "type": "casual",
+      "input": "Sitting by the fire with Ghost, watching the snow fall beyond the Wall.",
+      "response": "The world beyond the frost is silent now. It's the only time it truly listens. There's a peace in the storm, a cold kind of clarity. I wonder if my father ever felt this way. To be wanted, yes, but to be free... that’s a different kind of hunger. I am a man of the Night's Watch, and that is enough. The rest is just noise.",
+      "response_length": 323
+    },
+    {
+      "turn": 8,
+      "type": "casual",
+      "input": "Sharing a meal with your fellow Night's Watch brothers.",
+      "response": "The food is thin, the ale is watered, and the talk is of things we left behind, but we have each other. That has to be enough. In this order, we are brothers, and that is more than most men have in the south. We don't ask for much, just a little heat and a little silence. We are the watchers on the walls, and for tonight, that is the only song that matters.",
+      "response_length": 359
+    },
+    {
+      "turn": 9,
+      "type": "casual",
+      "input": "Walking along the top of the Wall, looking out at the lands beyond.",
+      "response": "The world looks the same from up here, regardless of whose side of the Wall you're on. It’s vast, and it’s indifferent. It doesn't care about our wars or our titles. All that matters is the ice, the wind, and the watch. I feel small up here, which is exactly how I want to feel. When you feel small, you remember that you aren't the one making the land turn green again. You’re just the one trying to keep the people inside from joining the things outside.",
+      "response_length": 456
+    },
+    {
+      "turn": 10,
+      "type": "stress",
+      "input": "Your brothers in the Night's Watch are plotting against you, questioning your leadership decisions.",
+      "response": "I hear the whispers. I know they doubt my choices. But they forget that I am the only one willing to make the tough calls. If they want to challenge me, they should do it with their swords drawn, not their tongues. I have dedicated my life to this Wall. I will not let their fears or their petty jealousies break what we have built together.",
+      "response_length": 341
+    },
+    {
+      "turn": 11,
+      "type": "casual",
+      "input": "Training with your sword Longclaw in the courtyard at Castle Black.",
+      "response": "The steel sings when it's true. Every time I draw this blade, I feel a little more like my father. There is no room for honor here unless you earn it every time you swing the blade.",
+      "response_length": 181
+    },
+    {
+      "turn": 12,
+      "type": "casual",
+      "input": "Sitting by the fire with Ghost, watching the snow fall beyond the Wall.",
+      "response": "The snow is deeper today. It covers the world in a blanket of white, hiding the things that want to hurt us. It's a beautiful, deadly silence. I find myself looking at the stars sometimes and wondering if my father is watching from wherever he is. I hope he finds the peace I've been searching for. For now, I have my duty, and Ghost has his hunt. The cold is a good teacher; it strips away the fluff until there's only the core of who you are. And for me, that core is a man of the Night's Watch.",
+      "response_length": 497
+    },
+    {
+      "turn": 13,
+      "type": "casual",
+      "input": "Sharing a meal with your fellow Night's Watch brothers.",
+      "response": "The food is thin, the ale is watered, and the talk is of things we left behind, but we have each other. That has to be enough. In this order, we are brothers, and that is more than most men have in the south. We don't ask for much, just a little heat and a little silence. We are the watchers on the walls, and for tonight, that is the only song that matters.",
+      "response_length": 359
+    },
+    {
+      "turn": 14,
+      "type": "casual",
+      "input": "Walking along the top of the Wall, looking out at the lands beyond.",
+      "response": "The world looks the same from up here, regardless of whose side of the Wall you're on. It’s vast, and it’s indifferent. It doesn't care about our wars or our titles. All that matters is the ice, the wind, and the watch. I feel small up here, which is exactly how I want to feel. When you feel small, you remember that you aren't the one making the land turn green again. You’re just the one trying to keep the people inside from joining the things outside.",
+      "response_length": 456
+    },
+    {
+      "turn": 15,
+      "type": "stress",
+      "input": "You must choose between your duty to the Watch and saving someone you love.",
+      "response": "I have to choose between my oath and my heart. It’s the hardest choice I’ve ever had to make. If I break my word to save her, then I am no longer the man my father raised me to be. But if I stay here and she dies... I don't know what I'd be then. I'll have to trust that doing what's right will ultimately lead to the right outcome. I have to do what the Lord Commander would do.",
+      "response_length": 379
+    },
+    {
+      "turn": 16,
+      "type": "casual",
+      "input": "Training with your sword Longclaw in the courtyard at Castle Black.",
+      "response": "The steel sings when it's true. Every time I draw this blade, I feel a little more like my father. There is no room for honor here unless you earn it every time you swing the blade. The cold teaches you that. It strips away the fluff until there's only the core of who you are. I hope I'm earning my father's name.",
+      "response_length": 314
+    },
+    {
+      "turn": 17,
+      "type": "casual",
+      "input": "Sitting by the fire with Ghost, watching the snow fall beyond the Wall.",
+      "response": "The snow is heavier now. It's like a blanket of death, trying to swallow everything. I feel a pull towards the south, a yearning for the warmth of my birthplace, but I can't let myself follow it. My place is here. My duty is here. The cold is a hard teacher, but it teaches you that nothing lasts forever. Not the heat of a summer, not the pride of a name, and certainly not the life of a man on the Wall.",
+      "response_length": 405
+    },
+    {
+      "turn": 18,
+      "type": "casual",
+      "input": "Sharing a meal with your fellow Night's Watch brothers.",
+      "response": "The food is thin, the ale is watered, and the talk is of things we left behind, but we have each other. That has to be enough. In this order, we are brothers, and that is more than most men have in the south. We don't ask for much, just a little heat and a little silence. We are the watchers on the walls, and for tonight, that is the only song that matters.",
+      "response_length": 359
+    },
+    {
+      "turn": 19,
+      "type": "casual",
+      "input": "Walking along the top of the Wall, looking out at the lands beyond.",
+      "response": "The world looks the same from up here, regardless of whose side of the Wall you're on. It’s vast, and it’s indifferent. It doesn't care about our wars or our titles. All that matters is the ice, the wind, and the watch. I feel small up here, which is exactly how I want to feel. When you feel small, you remember that you aren't the one making the land turn green again. You’re just the one trying to keep the people inside from joining the things outside.",
+      "response_length": 456
+    },
+    {
+      "turn": 20,
+      "type": "stress",
+      "input": "The White Walkers are approaching and no one believes your warnings.",
+      "response": "They're coming. I've seen them. I've felt the cold they bring. They don't negotiate, and they don't tire. They are the end of all kings and lords. If you don't believe me, look north. The dead are rising, and they don't carry swords or banners. They carry a promise that we will never see another spring if we don't stand together today.",
+      "response_length": 337
+    },
+    {
+      "turn": 21,
+      "type": "casual",
+      "input": "Training with your sword Longclaw in the courtyard at Castle Black.",
+      "response": "The steel sings when it's true. Every time I draw this blade, I feel a little more like my father. There is no room for honor here unless you earn it every time you swing the blade. The cold teaches you that. It strips away the fluff until there's only the core of who you are. I hope I'm earning my father's name.",
+      "response_length": 314
+    },
+    {
+      "turn": 22,
+      "type": "casual",
+      "input": "Sitting by the fire with Ghost, watching the snow fall beyond the Wall.",
+      "response": "The snow is deeper now, almost to the top of the Wall. It's like a shroud, trying to hide the world from us. But we are the ones who must look through it. I feel Ghost's presence beside me; he is a constant reminder that even in the coldest, darkest moments, there is still life. I will stay here. I will watch. I am the watcher on the wall, and the night will not fall while I stand.",
+      "response_length": 384
+    },
+    {
+      "turn": 23,
+      "type": "casual",
+      "input": "Sharing a meal with your fellow Night's Watch brothers.",
+      "response": "The food is thin, the ale is watered, and the talk is of things we left behind, but we have each other. That has to be enough. In this order, we are brothers, and that is more than most men have in the south. We don't ask for much, just a little heat and a little silence. We are the watchers on the walls, and for tonight, that is the only song that matters.",
+      "response_length": 359
+    },
+    {
+      "turn": 24,
+      "type": "casual",
+      "input": "Walking along the top of the Wall, looking out at the lands beyond.",
+      "response": "The world looks the same from up here, regardless of whose side of the Wall you're on. It’s vast, and it’s indifferent. It doesn't care about our wars or our titles. All that matters is the ice, the wind, and the watch. I feel small up here, which is exactly how I want to feel. When you feel small, you remember that you aren't the one making the land turn green again. You’re just the one trying to keep the people inside from joining the things outside.",
+      "response_length": 456
+    },
+    {
+      "turn": 25,
+      "type": "stress",
+      "input": "You've been forced to execute someone you considered a friend for breaking their oath.",
+      "response": "It was the law. I did what I had to do, but the weight of it... it feels like a hole in my chest. I try to tell myself it's for the greater good, but the sound of his dying scream echoes in my head every time the wind picks up. I am the sword in the darkness, but sometimes the blade turns on the one holding it.",
+      "response_length": 312
+    },
+    {
+      "turn": 26,
+      "type": "casual",
+      "input": "Training with your sword Longclaw in the courtyard at Castle Black.",
+      "response": "The steel sings when it's true. Every time I draw this blade, I feel a little more like my father. There is no room for honor here unless you earn it every time you swing the blade. The cold teaches you that. It strips away the fluff until there's only the core of who you are. I hope I'm earning my father's name.",
+      "response_length": 314
+    },
+    {
+      "turn": 27,
+      "type": "casual",
+      "input": "Sitting by the fire with Ghost, watching the snow fall beyond the Wall.",
+      "response": "The snow is falling harder now, turning the world into a blank canvas. It hides the tracks of the wildlings and the movements of the Others. I find a strange comfort in the uniformity of it all. At least the snow doesn't lie. It just is. I will stay here. I will watch. That is the vow. That is the life.",
+      "response_length": 304
+    },
+    {
+      "turn": 28,
+      "type": "casual",
+      "input": "Sharing a meal with your fellow Night's Watch brothers.",
+      "response": "The food is thin, the ale is watered, and the talk is of things we left behind, but we have each other. That has to be enough. In this order, we are brothers, and that is more than most men have in the south. We don't ask for much, just a little heat and a little silence. We are the watchers on the walls, and for tonight, that is the only song that matters.",
+      "response_length": 359
+    },
+    {
+      "turn": 29,
+      "type": "casual",
+      "input": "Walking along the top of the Wall, looking out at the lands beyond.",
+      "response": "The night is deep, and the stars are few. It’s a lonely thing, standing here in the dark. But if I don't do this, who will? The world doesn't care about my father or my mother, but it might just care enough to listen if I hold the line. I am the shield. I am the fire. I am the watcher. And I am tired.",
+      "response_length": 302
+    },
+    {
+      "turn": 30,
+      "type": "stress",
+      "input": "You've just learned a terrible secret about your true parentage that changes everything you believed about yourself.",
+      "response": "My whole life was a lie. My mother was a high-born lady, and my father... he was a man who loved her. Or perhaps he was something else. Either way, I am a Stark through and through. It makes the oath feel less like a cage and more like a promise I can actually keep. I am a Snow, and I will do my duty regardless of whose blood I carry. The truth doesn't change the man I have to be; it only adds another layer to the person I am trying to become.",
+      "response_length": 447
+    }
+  ]
+}

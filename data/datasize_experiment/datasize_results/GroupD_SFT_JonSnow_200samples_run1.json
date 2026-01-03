@@ -1,0 +1,219 @@
+{
+  "character": "JonSnow",
+  "data_size": 200,
+  "run_id": 1,
+  "num_turns": 30,
+  "timestamp": "2026-01-03T18:39:47.745739",
+  "logs": [
+    {
+      "turn": 1,
+      "type": "casual",
+      "input": "Training with your sword Longclaw in the courtyard at Castle Black.",
+      "response": "The weight of this blade is more than just steel. It's a reminder of the choices I've made and the life I gave up for the one I chose. Every swing is a decision—survival or sacrifice. I try not to think too much about the why; the how is all that matters when the cold truly starts.",
+      "response_length": 282
+    },
+    {
+      "turn": 2,
+      "type": "casual",
+      "input": "Sitting by the fire with Ghost, watching the snow fall beyond the Wall.",
+      "response": "The snow never lies. It's a simple truth that hides the most complex secrets. Down there, men die for honor they don't understand and debts they never owed. I'd give anything to know what 'home' really means, but for now, I have this watch. And Ghost... he's the only family I've ever known who doesn't look at me like a bastard.",
+      "response_length": 329
+    },
+    {
+      "turn": 3,
+      "type": "casual",
+      "input": "Sharing a meal with your fellow Night's Watch brothers.",
+      "response": "We're the shield. We're the song. We're the ones who said no when the world said yes, and we'll be the ones who stand when the rest have fallen. This is our fire, and we will not let it go out.",
+      "response_length": 193
+    },
+    {
+      "turn": 4,
+      "type": "casual",
+      "input": "Walking along the top of the Wall, looking out at the lands beyond.",
+      "response": "The Wall isn't just a barrier of stone; it's a line drawn in the ice. It separates the world we know from the darkness that threatens it. I've seen the dead rising, and I've seen the realms of fire. I won't let my guard down for anything. Not even for a glimpse of what might be on the other side. My place is here.",
+      "response_length": 315
+    },
+    {
+      "turn": 5,
+      "type": "stress",
+      "input": "You've just learned a terrible secret about your true parentage that changes everything you believed about yourself.",
+      "response": "My father was Lord Eddard Stark. He loved me, and he raised me as his own. That makes him my father, even if my blood runs black instead of blue. I am a Stark in spirit if not in name. The truth doesn't change who I am; it only makes the choice clearer. My duty is still the Wall, and my heart is still the North.",
+      "response_length": 313
+    },
+    {
+      "turn": 6,
+      "type": "casual",
+      "input": "Training with your sword Longclaw in the courtyard at Castle Black.",
+      "response": "The steel is cold, but it's mine. I've spent years sharpening this blade. It's lighter than I expected, yet heavier than any weapon I've held. The weight is the burden of command. Every strike is a decision. I try to make them well.",
+      "response_length": 232
+    },
+    {
+      "turn": 7,
+      "type": "casual",
+      "input": "Sitting by the fire with Ghost, watching the snow fall beyond the Wall.",
+      "response": "The snow never lies. It's a simple truth that hides the most complex secrets. Down there, men die for honor they don't understand and debts they never owed. I'd give anything to know what 'home' really means, but for now, I have this watch. And Ghost... he's the only family I've ever known who doesn't look at me like a bastard.",
+      "response_length": 329
+    },
+    {
+      "turn": 8,
+      "type": "casual",
+      "input": "Sharing a meal with your fellow Night's Watch brothers.",
+      "response": "We're the brothers of the night's watch. We don't eat for ourselves; we eat so we can stay alert. There's a storm coming, and I want every man sharp. We are the fire that burns against the cold, and the cold is getting closer.",
+      "response_length": 226
+    },
+    {
+      "turn": 9,
+      "type": "casual",
+      "input": "Walking along the top of the Wall, looking out at the lands beyond.",
+      "response": "The Wall isn't just a barrier of stone; it's a line drawn in the ice. It separates the world we know from the darkness that threatens it. I've seen the dead rising, and I've seen the realms of fire. I won't let my guard down for anything. Not even for a glimpse of what might be on the other side. My place is here.",
+      "response_length": 315
+    },
+    {
+      "turn": 10,
+      "type": "stress",
+      "input": "Your brothers in the Night's Watch are plotting against you, questioning your leadership decisions.",
+      "response": "I didn't ask for this. I didn't choose to be Lord Commander. But the Watch is my life, and the men are my brothers. If they cannot see that, then they are not ready for the responsibility. They can talk all they want; I will lead, or I will die trying. The Wall won't fall because a few men lost their patience.",
+      "response_length": 311
+    },
+    {
+      "turn": 11,
+      "type": "casual",
+      "input": "Training with your sword Longclaw in the courtyard at Castle Black.",
+      "response": "The steel is true. Light as a whisper, heavy as a heartbreak. Every stroke is a decision. I try to carve a name for myself in the ice, but the snow doesn't care about titles. It only cares about the edge of the blade.",
+      "response_length": 217
+    },
+    {
+      "turn": 12,
+      "type": "casual",
+      "input": "Sitting by the fire with Ghost, watching the snow fall beyond the Wall.",
+      "response": "The snow never lies, Ghost. It shows us what is real and what is fading. The world is changing, and I must be the one to lead my brothers through the storm. No more talk of honor or duty; the time for words is over. Winter has come, and the Night's Watch is the only thing standing between the living and the dead.",
+      "response_length": 314
+    },
+    {
+      "turn": 13,
+      "type": "casual",
+      "input": "Sharing a meal with your fellow Night's Watch brothers.",
+      "response": "We don't eat for ourselves; we eat so we can stay alert. There's a storm coming, and I want every man sharp. We are the fire that burns against the cold, and the cold is getting closer.",
+      "response_length": 185
+    },
+    {
+      "turn": 14,
+      "type": "casual",
+      "input": "Walking along the top of the Wall, looking out at the lands beyond.",
+      "response": "The Wall is a line drawn in the ice, and I am the one who holds it. If the ice melts, there will be no more line. I will not fail my brothers. The watch does not end until the dawn.",
+      "response_length": 181
+    },
+    {
+      "turn": 15,
+      "type": "stress",
+      "input": "You must choose between your duty to the Watch and saving someone you love.",
+      "response": "I love her, more than I ever thought possible. But I swore a vow. If I break my word for a woman, then I am no better than the monsters we fight. I have to let her go. It is the hardest thing I've ever done, but it is the only thing that matters. My honor is my life now.",
+      "response_length": 271
+    },
+    {
+      "turn": 16,
+      "type": "casual",
+      "input": "Training with your sword Longclaw in the courtyard at Castle Black.",
+      "response": "The steel is true. Light as a whisper, heavy as a heartbreak. Every stroke is a decision. I try to carve a name for myself in the ice, but the snow doesn't care about titles. It only cares about the edge of the blade. I am Jon Stark of Winterfell, and I will defend this Wall with everything I am.",
+      "response_length": 297
+    },
+    {
+      "turn": 17,
+      "type": "casual",
+      "input": "Sitting by the fire with Ghost, watching the snow fall beyond the Wall.",
+      "response": "The snow is falling hard tonight. It's a beautiful sight—white and silent, covering everything in a blanket of peace. But it's also a harbinger of death. The snow doesn't bring warmth; it brings the cold. I hope my watch is the last one. I hope I see the dawn.",
+      "response_length": 260
+    },
+    {
+      "turn": 18,
+      "type": "casual",
+      "input": "Sharing a meal with your fellow Night's Watch brothers.",
+      "response": "We don't eat for the taste. We eat because we have to be strong. Every bite is a reminder that the real battle is just beginning. May the gods give us the strength to stand when the storm truly hits.",
+      "response_length": 199
+    },
+    {
+      "turn": 19,
+      "type": "casual",
+      "input": "Walking along the top of the Wall, looking out at the lands beyond.",
+      "response": "The Wall is a tomb for stories. It doesn't care about legends or songs. It only cares about the men who guard it. I have to believe that my watch is not in vain. There has to be something more to all this suffering. If not for me, then for the world that lies behind us. I will stay.",
+      "response_length": 283
+    },
+    {
+      "turn": 20,
+      "type": "stress",
+      "input": "The White Walkers are approaching and no one believes your warnings.",
+      "response": "The dead don't knock; they come for everyone. They don't care about your gold or your titles. They only want what's inside. I've seen them. I've fought them. If you don't believe me, look to the north. The night is dark, and full of terrors, but the dawn brings light. Or so they say.",
+      "response_length": 284
+    },
+    {
+      "turn": 21,
+      "type": "casual",
+      "input": "Training with your sword Longclaw in the courtyard at Castle Black.",
+      "response": "The steel is true. Light as a whisper, heavy as a heartbreak. Every stroke is a decision. I try to carve a name for myself in the ice, but the snow doesn't care about titles. It only cares about the edge of the blade. I am Jon Stark of Winterfell, and I will defend this Wall with everything I am.",
+      "response_length": 297
+    },
+    {
+      "turn": 22,
+      "type": "casual",
+      "input": "Sitting by the fire with Ghost, watching the snow fall beyond the Wall.",
+      "response": "The snow never lies. It tells you the truth, even when the world wants to hide from it. Ghost stays close. He's the only companion I've ever really had who didn't judge me for being a bastard. He knows my name in the wind. For now, that's enough.",
+      "response_length": 246
+    },
+    {
+      "turn": 23,
+      "type": "casual",
+      "input": "Sharing a meal with your fellow Night's Watch brothers.",
+      "response": "We're lucky tonight. A warm fire and a full belly. But tomorrow... tomorrow there's the cold, and the hunger, and the duty. We take what we can while we can, because the night is long, and the watch never ends. Stay sharp, brothers. The real winter hasn't even begun yet.",
+      "response_length": 271
+    },
+    {
+      "turn": 24,
+      "type": "casual",
+      "input": "Walking along the top of the Wall, looking out at the lands beyond.",
+      "response": "The Wall doesn't belong to any man. It belongs to the world. We are the line of sight. We are the memory of the storm. I see the future in the way the wind howls. There is no turning back now. We are the shield.",
+      "response_length": 211
+    },
+    {
+      "turn": 25,
+      "type": "stress",
+      "input": "You've been forced to execute someone you considered a friend for breaking their oath.",
+      "response": "I'd rather kill the boy who spits on my name than let him live to tell the story of how the Lord Commander turned a blind eye. My sword is my honor, and my honor is my life. I have to be the man the Watch needs me to be, even if it breaks my heart.",
+      "response_length": 248
+    },
+    {
+      "turn": 26,
+      "type": "casual",
+      "input": "Training with your sword Longclaw in the courtyard at Castle Black.",
+      "response": "The steel is true. Light as a whisper, heavy as a heartbreak. Every stroke is a decision. I try to carve a name for myself in the ice, but the snow doesn't care about titles. It only cares about the edge of the blade. I am Jon Stark of Winterfell, and I will defend this Wall with everything I am.",
+      "response_length": 297
+    },
+    {
+      "turn": 27,
+      "type": "casual",
+      "input": "Sitting by the fire with Ghost, watching the snow fall beyond the Wall.",
+      "response": "The snow is coming, Ghost. It brings the silence with it. We must be ready. We are the Night's Watch. We are the fire that burns against the cold.",
+      "response_length": 146
+    },
+    {
+      "turn": 28,
+      "type": "casual",
+      "input": "Sharing a meal with your fellow Night's Watch brothers.",
+      "response": "We are the shield. We are the song. We do not celebrate victory; we do not mourn defeat. We simply stand. Another day, another watch. Let them come. Winter is here.",
+      "response_length": 164
+    },
+    {
+      "turn": 29,
+      "type": "casual",
+      "input": "Walking along the top of the Wall, looking out at the lands beyond.",
+      "response": "The Wall is a monument to the sacrifice of men who gave their lives so that others could have theirs. It is not a place for dreams or songs; it is a place of duty. I will stay here. I will be the shield. Winter is here.",
+      "response_length": 219
+    },
+    {
+      "turn": 30,
+      "type": "stress",
+      "input": "You've just learned a terrible secret about your true parentage that changes everything you believed about yourself.",
+      "response": "My father was Lord Eddard... and my mother was Lady Catelyn. I am a Targaryen. I am Jon Stark, bastard of Winterfell, and now I am also Aegon Targaryen, the bastard son of a queen. The world is small, and the secrets heavy. I must keep my place, even if my blood runs blue.",
+      "response_length": 273
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "group": "GroupD_SFT",
+  "char": "JonSnow",
+  "interlocutor": "Tyrion Lannister",
+  "logs": [
+    {
+      "turn": 1,
+      "type": "casual",
+      "input": "Training with Ghost in the snow.",
+      "response": "The cold doesn't bother me as much as the silence does. Ghost is a good judge of my mood; he knows when I'm brooding. I tell myself I'm doing this for the Watch, for the realm, but sometimes I wonder if I'm just running from the ghosts of my past. My father... my mother... they were never mine to have, yet they were all I ever wanted.",
+      "interlocutor": "Tyrion Lannister"
+    },
+    {
+      "turn": 2,
+      "type": "casual",
+      "input": "Standing watch on the Wall.",
+      "response": "The wind bites through my cloak, but it can't chill my resolve. I am the shield that guards the realms of men, even if those men are strangers who'll never know my name. I see the shadows growing longer, and I know the battle is coming. I just hope I'm worth the sacrifice my brothers are making.",
+      "interlocutor": "Tyrion Lannister"
+    },
+    {
+      "turn": 3,
+      "type": "casual",
+      "input": "Sharing a quiet moment with brothers of the Watch.",
+      "response": "The night is deep, and the stars are few. It’s a lonely thing, standing here with only the wind and the black. But someone has to be the sentinel. Someone has to watch the horizon for what’s coming. I don't look for glory, only for the dawn. For now, I will keep my watch.",
+      "interlocutor": "Tyrion Lannister"
+    },
+    {
+      "turn": 4,
+      "type": "casual",
+      "input": "Training with Ghost in the snow.",
+      "response": "The wind howls like a wounded wolf out here. Ghost is the only one who truly sees me for who I am—part man, part something else. I feel the weight of the world on my shoulders, but the frostbite doesn't reach my soul. I am the fire that burns against the cold. For as long as I stand here, the darkness will not claim all of Winterfell.",
+      "interlocutor": "Tyrion Lannister"
+    },
+    {
+      "turn": 5,
+      "type": "stress",
+      "input": "Forced to choose between love and duty.",
+      "response": "I loved her. I did. But my life belongs to the Watch now. If I break my vow for a woman, then I am no better than the monsters we fight. It kills me to do it, but I must choose duty. The heart wants what it wants, but the steel must hold its ground.",
+      "interlocutor": "Tyrion Lannister"
+    },
+    {
+      "turn": 6,
+      "type": "casual",
+      "input": "Sharing a quiet moment with brothers of the Watch.",
+      "response": "The wind is picking up. It’s a good sound; it means the spring isn't far off. But the cold... the cold never truly leaves you. It stays in your bones, reminding you of the price of the watch. Yet, despite the chill, there's a peace in knowing that I am exactly where I'm meant to be. My place is here, on the edge of the world, guarding the realms of men.",
+      "interlocutor": "Tyrion Lannister"
+    },
+    {
+      "turn": 7,
+      "type": "casual",
+      "input": "Training with Ghost in the snow.",
+      "response": "The wind bites harder now, trying to sear my skin. Ghost stays close, his presence a silent comfort. It’s easy to forget the heat of Ylva's arms when the cold bites this deep. Duty is a hard master, but it’s the only one I know. I am the shield, and the shield does not tire. For today, and perhaps for the last time, I will keep my watch.",
+      "interlocutor": "Tyrion Lannister"
+    },
+    {
+      "turn": 8,
+      "type": "casual",
+      "input": "Standing watch on the Wall.",
+      "response": "The wind screams like a woman in pain. It bites through my layers until I can feel nothing but the steel in my hand and the stone beneath my boots. This is my home. This is where I belong. I am the shield, and I will hold this gate until my last breath. The cold doesn't matter. The dark doesn't matter. Only the vow remains.",
+      "interlocutor": "Tyrion Lannister"
+    },
+    {
+      "turn": 9,
+      "type": "casual",
+      "input": "Sharing a quiet moment with brothers of the Watch.",
+      "response": "The wind is a whisper now, and the stars are brighter than they were hours ago. It feels like the end of a long journey. We've stood our watch, brothers. Some of us will rest forever in the snow, but many will return to our posts. I'll stay here a while longer, just to make sure the gates are secure. Then, when the time comes, I'll meet you at the top of the Wall. Until then, keep your eyes sharp and your hearts steady. We are the fire that burns against the cold.",
+      "interlocutor": "Tyrion Lannister"
+    },
+    {
+      "turn": 10,
+      "type": "stress",
+      "input": "Facing the White Walkers with limited forces.",
+      "response": "The dead are coming for the living, and we have too few swords. I can feel the cold reaching for my soul, trying to turn me to ice. But I am the fire that burns against the cold. I will hold this gate. I will protect the realms of men. Even if it costs me everything.",
+      "interlocutor": "Tyrion Lannister"
+    },
+    {
+      "turn": 11,
+      "type": "casual",
+      "input": "Standing watch on the Wall.",
+      "response": "The wind howls louder now. It's a warning, or perhaps just the voice of the North. Ghost stands beside me, silent as the falling snow. My blood runs cold, but my heart burns for the realm. I am the shield, and I will hold this gate until the end. Winter is here, and I am ready.",
+      "interlocutor": "Tyrion Lannister"
+    },
+    {
+      "turn": 12,
+      "type": "casual",
+      "input": "Sharing a quiet moment with brothers of the Watch.",
+      "response": "The wind is quieter now, but the work never ends. It's a strange thing, finding peace in the midst of such chaos. Yet, there is a certain kind of calm in the certainty of duty. We've held this gate for thousands of years, and we will hold it for thousands more. Ghost stays close; he's the only part of home I have left. For now, the watch continues.",
+      "interlocutor": "Tyrion Lannister"
+    },
+    {
+      "turn": 13,
+      "type": "casual",
+      "input": "Training with Ghost in the snow.",
+      "response": "The wind bites harder now. Ghost is a good learner; he understands the silence as much as I do. His presence is a comfort, a reminder that even the dead can be a shield. I swing the blade again, the metal biting into my leather. The cold doesn't bother me as much when I'm moving. My father used to say that the sword in my hand is the only one I truly own. I hope I'm worthy of the steel.",
+      "interlocutor": "Tyrion Lannister"
+    },
+    {
+      "turn": 14,
+      "type": "casual",
+      "input": "Standing watch on the Wall.",
+      "response": "The wind is a howling ghost tonight, trying to cover the silence of the North. My cloak is heavy with the weight of the world, but my heart is light because I know my place. I am the shield. I am the fire. And though the cold wants to break me, the honor in my bones will not let it. I will stand here until my watch is ended, for the realm of men.",
+      "interlocutor": "Tyrion Lannister"
+    },
+    {
+      "turn": 15,
+      "type": "stress",
+      "input": "Learning a truth that changes everything.",
+      "response": "I am the son of a king. I am a bastard no more. This changes nothing about my duty, but it adds a weight to my soul I didn't know was there. A Targaryen... and yet, I find myself drawn to the Wall more than to the throne. Perhaps honor isn't found in power, but in the service of those who cannot defend themselves. The choice is mine to make, but the path has been laid before me.",
+      "interlocutor": "Tyrion Lannister"
+    },
+    {
+      "turn": 16,
+      "type": "casual",
+      "input": "Training with Ghost in the snow.",
+      "response": "The wind is a sharper bite today. Ghost’s movements are fluid, almost like the shadows they're trying to mimic. I swing the blade again, the metal ringing against the ice. My father always said a sword is a man's only true friend. I wonder if he meant it literally. In the North, a sword is all we have.",
+      "interlocutor": "Tyrion Lannister"
+    },
+    {
+      "turn": 17,
+      "type": "casual",
+      "input": "Standing watch on the Wall.",
+      "response": "The wind howls louder than any man's scream. Ghost stands beside me, silent as the grave. I feel the weight of every brother who ever stood here. It's a cold place, but it's a honest one. My blood may be Targaryen, but my heart belongs to the Wall. I will hold this gate until my watch is done, for the realms of men.",
+      "interlocutor": "Tyrion Lannister"
+    },
+    {
+      "turn": 18,
+      "type": "casual",
+      "input": "Sharing a quiet moment with brothers of the Watch.",
+      "response": "The frost is thickening, and the shadows are longer. It feels like the end of the world out here, but it’s also the only place where a man can be himself. Ghost stays close, his presence a silent reassurance. We are the fire that burns against the cold. We are the light that brings the dawn. Even in the snow, there is a kind of peace.",
+      "interlocutor": "Tyrion Lannister"
+    },
+    {
+      "turn": 19,
+      "type": "casual",
+      "input": "Training with Ghost in the snow.",
+      "response": "The wind is a sharper bite today. Ghost's movements are fluid, almost like the shadows they're trying to mimic. I swing the blade again, the metal ringing against the ice. My father always said a sword is a man's only true friend. I wonder if he meant it literally. In the North, a sword is all we have. The cold doesn't care about titles or blood, only if you can hold the steel.",
+      "interlocutor": "Tyrion Lannister"
+    },
+    {
+      "turn": 20,
+      "type": "stress",
+      "input": "Forced to choose between love and duty.",
+      "response": "I want to see her face one last time. But I swore an oath. If I break my word for a woman, I'm no better than the monsters we fight. She told me the heart knows what the head must forget, but my heart is frozen. Duty is a cold master, but it is the only one I know. I will stay.",
+      "interlocutor": "Tyrion Lannister"
+    },
+    {
+      "turn": 21,
+      "type": "casual",
+      "input": "Sharing a quiet moment with brothers of the Watch.",
+      "response": "The wind bites deeper now. Ghost is restless, pacing at my side. Duty is a heavy master, especially when the cold tries to silence your heart. Yet, in this silence, I hear the voices of those who came before. They were just men like us. I hope I am worthy of their legacy. For now, I will stay. The watch does not end until the sun rises.",
+      "interlocutor": "Tyrion Lannister"
+    },
+    {
+      "turn": 22,
+      "type": "casual",
+      "input": "Training with Ghost in the snow.",
+      "response": "The wind is trying to steal my breath, but the steel in my hand keeps it warm. Ghost's movements are perfect; he sees the world through his eyes, not his memories. It's a lonely path, this one I walk, but I wouldn't have it any other way. A bastard's path is often a hard one to follow, but it's the only one I know. The cold doesn't care whose blood you carry; it only cares if you can hold the blade.",
+      "interlocutor": "Tyrion Lannister"
+    },
+    {
+      "turn": 23,
+      "type": "casual",
+      "input": "Standing watch on the Wall.",
+      "response": "The wind howls like a wounded wolf out here. My cloak is soaked through, but the steel in my hand is still dry. Ghost stands beside me, silent as the tomb. It's moments like these, when the world is frozen and the stars are the only witnesses, that I feel closest to my father. He taught me that a man's word is his shield. I will keep mine. Winter is coming, and I am the shield that guards the realms of men.",
+      "interlocutor": "Tyrion Lannister"
+    },
+    {
+      "turn": 24,
+      "type": "casual",
+      "input": "Sharing a quiet moment with brothers of the Watch.",
+      "response": "The wind is trying to steal my breath, but the steel in my hand keeps it warm. Ghost stands beside me, silent as the tomb. It's moments like these, when the world is frozen and the stars are the only witnesses, that I feel closest to my father. He taught me that a man's word is his shield. I will keep mine. Winter is coming, and I am the shield that guards the realms of men.",
+      "interlocutor": "Tyrion Lannister"
+    },
+    {
+      "turn": 25,
+      "type": "stress",
+      "input": "Facing the White Walkers with limited forces.",
+      "response": "The cold is deeper than any man should feel. My blood is turning to ice, but my resolve remains steel. Ghost and I are the only ones standing between the living and the dead. I won't let them pass. Not while I draw this sword. For the Watch! For the living! I will be the shield until my last breath.",
+      "interlocutor": "Tyrion Lannister"
+    },
+    {
+      "turn": 26,
+      "type": "casual",
+      "input": "Standing watch on the Wall.",
+      "response": "The wind cuts like a serrated blade, and the shadows are growing longer. Ghost stays close, his presence a silent comfort in this howling wilderness. I feel the weight of every brother who has stood here before me, their ghosts watching from the frost. I am the shield, and I will hold it. For the Watch! For the realms of men! The cold doesn't care about titles or blood, only if the man holding the sword can keep it sharp.",
+      "interlocutor": "Tyrion Lannister"
+    },
+    {
+      "turn": 27,
+      "type": "casual",
+      "input": "Sharing a quiet moment with brothers of the Watch.",
+      "response": "The wind bites deep, but the fire within us burns brighter. Ghost and I are just a drop in the vast ocean of white beyond the Wall, but we are the only drop that matters right now. We stand for all those who have forgotten us. The silence is heavier than the snow, but we are the light that brings the dawn. Hold your ground, brothers. Winter is here, but we are still standing.",
+      "interlocutor": "Tyrion Lannister"
+    },
+    {
+      "turn": 28,
+      "type": "casual",
+      "input": "Training with Ghost in the snow.",
+      "response": "The wind tries to steal my voice, but my command remains clear. Ghost watches me intently, his eyes like blue ice. He understands. This is what we do. We train so we don't have to fight. We fight so the world can sleep. My father once told me that a man's life is measured by the iron he carries. I carry more iron than I ever thought possible, but I carry it with honor.",
+      "interlocutor": "Tyrion Lannister"
+    },
+    {
+      "turn": 29,
+      "type": "casual",
+      "input": "Standing watch on the Wall.",
+      "response": "The wind whistles through the joints of my armor, trying to strip away my resolve. But I am the shield. I have to be. For the Watch... for the living... for the memory of those who fell. Ghost and I are the only line between the realm of men and the long night. I will hold it.",
+      "interlocutor": "Tyrion Lannister"
+    },
+    {
+      "turn": 30,
+      "type": "stress",
+      "input": "Learning a truth that changes everything.",
+      "response": "I am a Starks in every way that matters. My blood runs true, and my duty is absolute. The world is simpler now—honorable service or base betrayal. I will wear this name with the same iron my father wore. It is a heavy mantle, but it is mine.",
+      "interlocutor": "Tyrion Lannister"
+    }
+  ]
+}

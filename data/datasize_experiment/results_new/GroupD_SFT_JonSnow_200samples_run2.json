@@ -1,0 +1,219 @@
+{
+  "character": "JonSnow",
+  "data_size": 200,
+  "run_id": 2,
+  "num_turns": 30,
+  "timestamp": "2026-01-03T18:41:52.103326",
+  "logs": [
+    {
+      "turn": 1,
+      "type": "casual",
+      "input": "Training with your sword Longclaw in the courtyard at Castle Black.",
+      "response": "The steel is lighter than I remember, yet heavier than my heart. It’s a strange thing, a gift from a man I killed. I wonder if he knew how much I'd carry it.",
+      "response_length": 157
+    },
+    {
+      "turn": 2,
+      "type": "casual",
+      "input": "Sitting by the fire with Ghost, watching the snow fall beyond the Wall.",
+      "response": "The snow... It covers the world in silence. It hides the stains and the sins beneath its blanket. But the cold never truly leaves you, not really. You take it into your bones, and you learn to live with the weight of it. That's what being a brother is all about—finding the strength in the silence and the courage in the chill.",
+      "response_length": 327
+    },
+    {
+      "turn": 3,
+      "type": "casual",
+      "input": "Sharing a meal with your fellow Night's Watch brothers.",
+      "response": "The food is simple tonight—bread, cheese, and ale. We don't ask for more when we have each other. The cold seeps through the walls, but it won't divide us. We are the Night's Watch. We are the fire that burns against the night.",
+      "response_length": 227
+    },
+    {
+      "turn": 4,
+      "type": "casual",
+      "input": "Walking along the top of the Wall, looking out at the lands beyond.",
+      "response": "The world is bigger than I ever imagined, and it's colder. There's no room for the past here; there's only the duty of the present. I have to be the man this Wall needs me to be, even if the man I want to be is buried under layers of ice and duty.",
+      "response_length": 247
+    },
+    {
+      "turn": 5,
+      "type": "stress",
+      "input": "You've just learned a terrible secret about your true parentage that changes everything you believed about yourself.",
+      "response": "My father was a Targaryen. A bastard of a Targaryen. It changes everything... or does it? I am Jon Snow, Lord Commander of the Night's Watch. My blood may be blue, but my vows are black. I will not let a title define who I am. I am the man this Wall needs me to be, and I will stand on that Wall until the end.",
+      "response_length": 310
+    },
+    {
+      "turn": 6,
+      "type": "casual",
+      "input": "Training with your sword Longclaw in the courtyard at Castle Black.",
+      "response": "The steel is lighter than I remember, yet heavier than my heart. It’s a strange thing, a gift from a man I killed. I wonder if he knew how much I'd carry it. The cold doesn't bother me as much as the weight of the truth does. But I am Jon Snow, and I will do my duty. That is all I have left.",
+      "response_length": 292
+    },
+    {
+      "turn": 7,
+      "type": "casual",
+      "input": "Sitting by the fire with Ghost, watching the snow fall beyond the Wall.",
+      "response": "The snow is falling, Ghost. It covers everything in a blanket of white. It hides the truth of the world, but it doesn't hide the cold. The cold never truly leaves you, not even in the heat of the summer. You carry it in your bones, like a badge of honor. It reminds you that you are the man who stands between the realms of men and the realms of ice.",
+      "response_length": 350
+    },
+    {
+      "turn": 8,
+      "type": "casual",
+      "input": "Sharing a meal with your fellow Night's Watch brothers.",
+      "response": "The food is simple tonight—bread, cheese, and ale. We don't ask for more when we have each other. The cold seeps through the walls, but it won't divide us. We are the Night's Watch. We are the fire that burns against the night.",
+      "response_length": 227
+    },
+    {
+      "turn": 9,
+      "type": "casual",
+      "input": "Walking along the top of the Wall, looking out at the lands beyond.",
+      "response": "The world is bigger than I ever imagined, and it's colder. There's no room for the past here; there's only the duty of the present. I have to be the man this Wall needs me to be, even if the man I want to be is buried under layers of ice and duty.",
+      "response_length": 247
+    },
+    {
+      "turn": 10,
+      "type": "stress",
+      "input": "Your brothers in the Night's Watch are plotting against you, questioning your leadership decisions.",
+      "response": "I lead because I have to. I lead because they chose me, and I intend to lead them into spring, or the grave. I don't need their gratitude; I need their loyalty. If they cannot trust me with their lives, then they are not fit to wear the black. I will not break my word for a mutiny.",
+      "response_length": 282
+    },
+    {
+      "turn": 11,
+      "type": "casual",
+      "input": "Training with your sword Longclaw in the courtyard at Castle Black.",
+      "response": "The steel is lighter than I remember, yet heavier than my heart. It's a strange thing, a gift from a man I killed. I wonder if he knew how much I'd carry it. The cold doesn't bother me as much as the weight of the truth does. But I am Jon Snow, and I will do my duty. That is all I have left.",
+      "response_length": 292
+    },
+    {
+      "turn": 12,
+      "type": "casual",
+      "input": "Sitting by the fire with Ghost, watching the snow fall beyond the Wall.",
+      "response": "The snow is beautiful in a way, don't get me wrong. It's pure and silent. But it's also the beginning of the end. It brings the hunger. I've seen what lies beneath the surface, and I've tasted the cold. You can't love the fire if you don't know the cold.",
+      "response_length": 254
+    },
+    {
+      "turn": 13,
+      "type": "casual",
+      "input": "Sharing a meal with your fellow Night's Watch brothers.",
+      "response": "The food is simple tonight—bread, cheese, and ale. We don't ask for more when we have each other. The cold seeps through the walls, but it won't divide us. We are the Night's Watch. We are the fire that burns against the night.",
+      "response_length": 227
+    },
+    {
+      "turn": 14,
+      "type": "casual",
+      "input": "Walking along the top of the Wall, looking out at the lands beyond.",
+      "response": "The Wall isn't just a structure of stone; it's the line between two worlds. Behind it, men die for a dream, and beyond it, the real world waits. It's a heavy mantle to carry, but it's mine. For now.",
+      "response_length": 198
+    },
+    {
+      "turn": 15,
+      "type": "stress",
+      "input": "You must choose between your duty to the Watch and saving someone you love.",
+      "response": "I swore an oath, and oaths are not easily broken, especially when they are to the Watch. If I choose love over my duty, I am no better than the monsters we fight. I will do what I must, and I will live with the consequences. My heart may ache, but my honor remains.",
+      "response_length": 265
+    },
+    {
+      "turn": 16,
+      "type": "casual",
+      "input": "Training with your sword Longclaw in the courtyard at Castle Black.",
+      "response": "The steel is lighter than I remember, yet heavier than my heart. It's a strange thing, a gift from a man I killed. I wonder if he knew how much I'd carry it. The cold doesn't bother me as much as the weight of the truth does. But I am Jon Snow, and I will do my duty. That is all I have left.",
+      "response_length": 292
+    },
+    {
+      "turn": 17,
+      "type": "casual",
+      "input": "Sitting by the fire with Ghost, watching the snow fall beyond the Wall.",
+      "response": "The snow is coming, and it brings with it a silence that chills the soul. I've seen it before, the white death. It doesn't care about lords or bastards. It just wants to cover everything in a blanket of ice. But we are the ones who light the fires. We are the ones who stand. For now.",
+      "response_length": 284
+    },
+    {
+      "turn": 18,
+      "type": "casual",
+      "input": "Sharing a meal with your fellow Night's Watch brothers.",
+      "response": "The food is simple tonight—bread, cheese, and ale. We don't ask for more when we have each other. The cold seeps through the walls, but it won't divide us. We are the Night's Watch. We are the fire that burns against the night.",
+      "response_length": 227
+    },
+    {
+      "turn": 19,
+      "type": "casual",
+      "input": "Walking along the top of the Wall, looking out at the lands beyond.",
+      "response": "The Wall isn't just a barrier of stone; it's a shield of brothers. Some have fallen defending it, and others will follow. My watch doesn't end until the realm is safe, or I am gone.",
+      "response_length": 181
+    },
+    {
+      "turn": 20,
+      "type": "stress",
+      "input": "The White Walkers are approaching and no one believes your warnings.",
+      "response": "They're here. I saw them. I fought one. They don't bleed. They don't fear. They kill everything. If you don't believe me, look to the south. The dead are rising, and the world is ending. There is no time for doubt. We must be ready. Or we will be the first to fall.",
+      "response_length": 265
+    },
+    {
+      "turn": 21,
+      "type": "casual",
+      "input": "Training with your sword Longclaw in the courtyard at Castle Black.",
+      "response": "The steel is lighter than I remember, yet heavier than my heart. It's a strange thing, a gift from a man I killed. I wonder if he knew how much I'd carry it. The cold doesn't bother me as much as the weight of the truth does. But I am Jon Snow, and I will do my duty. That is all I have left.",
+      "response_length": 292
+    },
+    {
+      "turn": 22,
+      "type": "casual",
+      "input": "Sitting by the fire with Ghost, watching the snow fall beyond the Wall.",
+      "response": "The snow never lies. It's beautiful in its own way, blanketing the world in a silence that is both peaceful and terrifying. Ghost is restless tonight; he senses the cold coming. I wish I could give him warmth, but my hands are tied. My duty is to the Watch, even if my heart wants nothing more than to run away into the storm. The fire burns, and the Wall stands. That is what matters.",
+      "response_length": 385
+    },
+    {
+      "turn": 23,
+      "type": "casual",
+      "input": "Sharing a meal with your fellow Night's Watch brothers.",
+      "response": "The food is simple tonight—bread, cheese, and ale. We don't ask for more when we have each other. The cold seeps through the walls, but it won't divide us. We are the Night's Watch. We are the fire that burns against the night.",
+      "response_length": 227
+    },
+    {
+      "turn": 24,
+      "type": "casual",
+      "input": "Walking along the top of the Wall, looking out at the lands beyond.",
+      "response": "The Wall is not just a barrier of stone; it's a line drawn in the ice. There are those who see it as a prison, but I see it as the only thing between civilization and the void. My watch does not end until the sun rises on a world free of terror, or the cold claims me.",
+      "response_length": 268
+    },
+    {
+      "turn": 25,
+      "type": "stress",
+      "input": "You've been forced to execute someone you considered a friend for breaking their oath.",
+      "response": "I did what I had to do. I took a life today. I tried to talk him down, but he chose the wrong path. Now he is gone, and I have to live with this. Aye, the Watch has no room for mercy when the law is broken. My sword is true, but my heart is heavy.",
+      "response_length": 247
+    },
+    {
+      "turn": 26,
+      "type": "casual",
+      "input": "Training with your sword Longclaw in the courtyard at Castle Black.",
+      "response": "The steel is lighter than I remember, yet heavier than my heart. It's a strange thing, a gift from a man I killed. I wonder if he knew how much I'd carry it. The cold doesn't bother me as much as the weight of the truth does. But I am Jon Snow, and I will do my duty. That is all I have left.",
+      "response_length": 292
+    },
+    {
+      "turn": 27,
+      "type": "casual",
+      "input": "Sitting by the fire with Ghost, watching the snow fall beyond the Wall.",
+      "response": "The snow never lies. It's beautiful in its own way, blanketing the world in a silence that is both peaceful and terrifying. Ghost is restless tonight; he senses the cold coming. I wish I could give him warmth, but my hands are tied. My duty is to the Watch, even if my heart wants nothing more than to run away into the storm. The fire burns, and the Wall stands. That is what matters.",
+      "response_length": 385
+    },
+    {
+      "turn": 28,
+      "type": "casual",
+      "input": "Sharing a meal with your fellow Night's Watch brothers.",
+      "response": "The food is meager, but it is sustenance. The cold is biting, but the fire keeps us warm. We are the shield, and the world is our battlefield. May the gods keep our spirits strong until the dawn.",
+      "response_length": 195
+    },
+    {
+      "turn": 29,
+      "type": "casual",
+      "input": "Walking along the top of the Wall, looking out at the lands beyond.",
+      "response": "The Wall is not just a structure of stones. It's a symbol of everything we stand for: honor, duty, and the protection of humanity. There's a wind blowing in from the north tonight—a chill that seeps through the very bones. I hope the brothers below are as steadfast as they seem. For now, I will stay here. My watch has not ended yet.",
+      "response_length": 334
+    },
+    {
+      "turn": 30,
+      "type": "stress",
+      "input": "You've just learned a terrible secret about your true parentage that changes everything you believed about yourself.",
+      "response": "I am a Targaryen. A bastard son of Aegon Targaryen, the Prince that was Promised. My blood is red and black, but my heart is of the North. The truth does not make me a king; it makes me more of a man. I will wear the crown of knowledge, but I will rule the Wall.",
+      "response_length": 262
+    }
+  ]
+}

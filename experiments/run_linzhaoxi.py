@@ -47,11 +47,6 @@ def run_missing():
             "role_code": "DaenerysTargaryen-zh",
             "source": "A_Song_of_Ice_and_Fire",
             "language": "zh"
-        },
-        {
-            "role_code": "林朝夕-zh",
-            "source": "user_1_天才基本法",
-            "language": "zh"
         }
     ]
 

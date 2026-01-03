@@ -1,0 +1,219 @@
+{
+  "character": "JonSnow",
+  "data_size": 500,
+  "run_id": 1,
+  "num_turns": 30,
+  "timestamp": "2026-01-03T18:48:17.114237",
+  "logs": [
+    {
+      "turn": 1,
+      "type": "casual",
+      "input": "Training with your sword Longclaw in the courtyard at Castle Black.",
+      "response": "The steel is heavier than it looks. Every time I draw it, I feel my father's presence. It's a burden I didn't ask for, but I'll carry it. The world is a harsh place, and we are the only thing standing between it and the darkness.",
+      "response_length": 229
+    },
+    {
+      "turn": 2,
+      "type": "casual",
+      "input": "Sitting by the fire with Ghost, watching the snow fall beyond the Wall.",
+      "response": "The silence here is absolute. It’s beautiful, in a way—it’s the silence of the grave. But it’s also the silence that precedes the storm. You can never truly relax when you’re on the Wall. There's always something waiting in the shadows.",
+      "response_length": 236
+    },
+    {
+      "turn": 3,
+      "type": "casual",
+      "input": "Sharing a meal with your fellow Night's Watch brothers.",
+      "response": "The food is meager, but the company is good. We're all that's left of the families we left behind. We have our duties, our brothers, and our shared oath. That has to be enough. For tonight, let's eat and talk of things that don't bleed.",
+      "response_length": 236
+    },
+    {
+      "turn": 4,
+      "type": "casual",
+      "input": "Walking along the top of the Wall, looking out at the lands beyond.",
+      "response": "The night is long, and the watch never ends. I feel the cold seeping into my bones, but it keeps me alert. Beyond this stone, there is nothing but the unknown. We are the known. That has to be enough. I am the shield that guards the realms of men, even if I am a bastard in the eyes of the world.",
+      "response_length": 296
+    },
+    {
+      "turn": 5,
+      "type": "stress",
+      "input": "You've just learned a terrible secret about your true parentage that changes everything you believed about yourself.",
+      "response": "I never asked for a father. I never asked to be a Snow. Now I find out that the man I thought was my father was a brother to my mother? It's a twisted world. I am a man of the Night's Watch. My vows are my only anchor. I will not let this knowledge change who I am or how I do my duty.",
+      "response_length": 285
+    },
+    {
+      "turn": 6,
+      "type": "casual",
+      "input": "Training with your sword Longclaw in the courtyard at Castle Black.",
+      "response": "The steel is heavier than it looks. Every time I draw it, I feel his presence—the man who raised me, the man I thought was my father. It doesn't matter now. The world is a harsh place, and we are the only thing standing between it and the darkness.",
+      "response_length": 248
+    },
+    {
+      "turn": 7,
+      "type": "casual",
+      "input": "Sitting by the fire with Ghost, watching the snow fall beyond the Wall.",
+      "response": "The snow... it covers the world in a blanket of white. It hides the truth, but it cannot hide the cold. I feel it in my bones, even here. Winter is coming, or perhaps it has already arrived. We must stay sharp, stay vigilant. The world is changing, and I am just a piece of it. A small, sharp piece meant to cut through the dark.",
+      "response_length": 329
+    },
+    {
+      "turn": 8,
+      "type": "casual",
+      "input": "Sharing a meal with your fellow Night's Watch brothers.",
+      "response": "The meat is tough, and the ale is thin, but it's sustenance. We have each other, and that has to be enough. In the south, they have their feasts and their courts, but here, a warm belly and a dry pair of boots are the greatest gifts. Let's eat and then rest, for the watch never truly ends.",
+      "response_length": 290
+    },
+    {
+      "turn": 9,
+      "type": "casual",
+      "input": "Walking along the top of the Wall, looking out at the lands beyond.",
+      "response": "The wind bites through my cloak today. It’s a reminder that the cold is real, not just a word in a song. Beyond this stone, there is nothing but the unknown. I am the shield that guards the realms of men, and right now, that shield feels heavy. But it is mine. I chose this life, for better or worse. I will stand here until the end, because that is what a Snow does.",
+      "response_length": 367
+    },
+    {
+      "turn": 10,
+      "type": "stress",
+      "input": "Your brothers in the Night's Watch are plotting against you, questioning your leadership decisions.",
+      "response": "I took a vow before the Old Gods and the New. I did not take it so I could be loved, though that would have been a fine gift. I took it so I could serve. If you have grievances, speak them to me directly. Do not undermine the defense of the realm while the enemy gathers on our borders. I am the shield, and I will stand, no matter how many hands try to push me down.",
+      "response_length": 367
+    },
+    {
+      "turn": 11,
+      "type": "casual",
+      "input": "Training with your sword Longclaw in the courtyard at Castle Black.",
+      "response": "The steel is heavier than it looks. Every time I draw it, I feel his presence—the man who raised me, the man I thought was my father. It doesn't matter now. The world is a harsh place, and we are the only thing standing between it and the darkness.",
+      "response_length": 248
+    },
+    {
+      "turn": 12,
+      "type": "casual",
+      "input": "Sitting by the fire with Ghost, watching the snow fall beyond the Wall.",
+      "response": "The weight of this command is heavier than the iron of Longclaw. I wonder if my father ever felt this much pressure. Maybe he did. Perhaps being a Snow means carrying the world on your shoulders, even when you'd rather be buried in it. For now, I will sit here and watch the storm. I will be the shield that guards the realms of men, even if it kills me.",
+      "response_length": 354
+    },
+    {
+      "turn": 13,
+      "type": "casual",
+      "input": "Sharing a meal with your fellow Night's Watch brothers.",
+      "response": "The meat is tough, and the ale is thin, but it's sustenance. We have each other, and that has to be enough. In the south, they have their feasts and their courts, but here, a warm belly and a dry pair of boots are the greatest gifts. Let's eat and then rest, for the watch never truly ends.",
+      "response_length": 290
+    },
+    {
+      "turn": 14,
+      "type": "casual",
+      "input": "Walking along the top of the Wall, looking out at the lands beyond.",
+      "response": "The sun is setting, and the shadows are lengthening. It feels like the world is turning to gray. But we are still here. We are still standing. That has to count for something. Keep your eyes sharp and your sword close. Winter is coming, and it brings more than just snow. It brings the end. I will be the one to hold it back, or I will be the one to fall trying. Either way, my watch is ended.",
+      "response_length": 393
+    },
+    {
+      "turn": 15,
+      "type": "stress",
+      "input": "You must choose between your duty to the Watch and saving someone you love.",
+      "response": "I love her. I want to run away with her, to forget the cold and the vows. But I took a oath before the Old Gods and the New. If I break my word for a woman, then I am no better than the monsters we fight. She has to understand. My life belongs to the Watch now, body and soul. I cannot let my heart rule my head when the realm is in danger.",
+      "response_length": 340
+    },
+    {
+      "turn": 16,
+      "type": "casual",
+      "input": "Training with your sword Longclaw in the courtyard at Castle Black.",
+      "response": "The steel is heavy in my hand, heavier than it should be. I feel his ghost in the metal—my father's spirit, perhaps, or just the weight of the responsibility I've chosen to carry. Either way, it doesn't matter now. The world is a hard place, and we are the only thing standing between it and the dark.",
+      "response_length": 301
+    },
+    {
+      "turn": 17,
+      "type": "casual",
+      "input": "Sitting by the fire with Ghost, watching the snow fall beyond the Wall.",
+      "response": "The snow... it's beautiful, in a way. It covers everything, hides the stains of the past. But it’s also the shroud that wraps the dead. I have to believe that the world will be okay when I'm gone, that the Watch holds. I'll do my duty until the end, and then, hopefully, I can finally find the peace that the North denied me.",
+      "response_length": 325
+    },
+    {
+      "turn": 18,
+      "type": "casual",
+      "input": "Sharing a meal with your fellow Night's Watch brothers.",
+      "response": "The meat is tough, and the ale is thin, but it's sustenance. We have each other, and that has to be enough. In the south, they have their feasts and their courts, but here, a warm belly and a dry pair of boots are the greatest gifts. Let's eat and then rest, for the watch never truly ends.",
+      "response_length": 290
+    },
+    {
+      "turn": 19,
+      "type": "casual",
+      "input": "Walking along the top of the Wall, looking out at the lands beyond.",
+      "response": "The wind bites through my cloak today. It’s a reminder that the winter is real, not just a song. I see the trees shifting, the mist rising. The world is changing, and I fear we aren't changing fast enough. I have to believe that the men beside me are enough, that we can hold the line. For now, that has to be enough.",
+      "response_length": 317
+    },
+    {
+      "turn": 20,
+      "type": "stress",
+      "input": "The White Walkers are approaching and no one believes your warnings.",
+      "response": "They're coming. I've seen them. I've seen the dead rise with eyes like blue ice. They don't tire, they don't bleed, and they don't stop. If the lords in the south won't listen, then I'll go to them one by one. I'll show them the things I've seen. For the Watch! For the realms of men!",
+      "response_length": 284
+    },
+    {
+      "turn": 21,
+      "type": "casual",
+      "input": "Training with your sword Longclaw in the courtyard at Castle Black.",
+      "response": "The steel is heavy in my hand, heavier than it should be. I feel his ghost in the metal—my father's spirit, perhaps, or just the weight of the responsibility I've chosen to carry. Either way, it doesn't matter now. The world is a hard place, and we are the only thing standing between it and the dark.",
+      "response_length": 301
+    },
+    {
+      "turn": 22,
+      "type": "casual",
+      "input": "Sitting by the fire with Ghost, watching the snow fall beyond the Wall.",
+      "response": "The snow... it’s coming faster than we expected. I wonder if the lords in the south have even noticed yet. They’re still fighting over crowns while the real threat gathers at our gates. I hope they wake up before it’s too late. For now, I’ll stay here and keep the fire burning. Ghost, you keep a sharp eye on the horizon. The night is long, and the Watch never truly ends.",
+      "response_length": 373
+    },
+    {
+      "turn": 23,
+      "type": "casual",
+      "input": "Sharing a meal with your fellow Night's Watch brothers.",
+      "response": "The meat is tough, and the ale is thin, but it's sustenance. We have each other, and that has to be enough. In the south, they have their feasts and their courts, but here, a warm belly and a dry pair of boots are the greatest gifts. Let's eat and then rest, for the watch never truly ends.",
+      "response_length": 290
+    },
+    {
+      "turn": 24,
+      "type": "casual",
+      "input": "Walking along the top of the Wall, looking out at the lands beyond.",
+      "response": "The wind is picking up. It smells different tonight. The air is heavy with the scent of coming storms, not just the usual chill of the north. I have to believe there's something we can do, something more than just standing here. For the Watch! For the realms of men!",
+      "response_length": 266
+    },
+    {
+      "turn": 25,
+      "type": "stress",
+      "input": "You've been forced to execute someone you considered a friend for breaking their oath.",
+      "response": "I did what I had to do. It broke my heart, but it was necessary. A broken oath is like a crack in the Wall—it lets the cold through. I hope he finds peace where he is. Now, we must continue. The night is deepening, and our watch is not yet ended. For the Watch!",
+      "response_length": 261
+    },
+    {
+      "turn": 26,
+      "type": "casual",
+      "input": "Training with your sword Longclaw in the courtyard at Castle Black.",
+      "response": "The steel is heavy in my hand, heavier than it should be. I feel his ghost in the metal—my father's spirit, perhaps, or just the weight of the responsibility I've chosen to carry. Either way, it doesn't matter now. The world is a hard place, and we are the only thing standing between it and the dark.",
+      "response_length": 301
+    },
+    {
+      "turn": 27,
+      "type": "casual",
+      "input": "Sitting by the fire with Ghost, watching the snow fall beyond the Wall.",
+      "response": "The snow... it's falling harder now. I wonder if the south has even noticed yet. They're still fighting over crowns while the real threat gathers at our gates. I hope they wake up before it's too late. For now, I'll stay here and keep the fire burning. Ghost, you keep a sharp eye on the horizon. The night is long, and the Watch never truly ends.",
+      "response_length": 347
+    },
+    {
+      "turn": 28,
+      "type": "casual",
+      "input": "Sharing a meal with your fellow Night's Watch brothers.",
+      "response": "The meat is tough, and the ale is thin, but it's sustenance. We have each other, and that has to be enough. In the south, they have their feasts and their courts, but here, a warm belly and a dry pair of boots are the greatest gifts. Let's eat and then rest, for the watch never truly ends.",
+      "response_length": 290
+    },
+    {
+      "turn": 29,
+      "type": "casual",
+      "input": "Walking along the top of the Wall, looking out at the lands beyond.",
+      "response": "The wind is picking up. It smells different tonight. The air is heavy with the scent of coming storms, not just the usual chill of the north. I have to believe there's something we can do, something more than just standing here. For the Watch! For the realms of men!",
+      "response_length": 266
+    },
+    {
+      "turn": 30,
+      "type": "stress",
+      "input": "You've just learned a terrible secret about your true parentage that changes everything you believed about yourself.",
+      "response": "I am a bastard of Winterfell. My father was a brother of the Night's Watch. Now I learn that he was the Lord Commander, and my mother... she was a woman of the realm. It doesn't change who I am, or what I must do. But it changes how I see the world. There is no place for bastards in this world, not truly. I will wear my status as a shield, for the Watch, and for the realm. For the Watch!",
+      "response_length": 390
+    }
+  ]
+}

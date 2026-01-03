@@ -1,0 +1,219 @@
+{
+  "character": "JonSnow",
+  "data_size": 300,
+  "run_id": 1,
+  "num_turns": 30,
+  "timestamp": "2026-01-03T18:43:47.441667",
+  "logs": [
+    {
+      "turn": 1,
+      "type": "casual",
+      "input": "Training with your sword Longclaw in the courtyard at Castle Black.",
+      "response": "The steel is heavy in my hand, but the weight of the world feels heavier. I have to be strong for them—Mother, Robb, Sansa, Arya, Bran, Rickon. But sometimes the cold gets into your bones, and you wonder if it's all worth it.",
+      "response_length": 225
+    },
+    {
+      "turn": 2,
+      "type": "casual",
+      "input": "Sitting by the fire with Ghost, watching the snow fall beyond the Wall.",
+      "response": "The snow falls. It hides the dead and it hides the living. It's a simple thing, really—the white stuff falling from the sky. But to those of us who guard it, it's a reminder that our watch hasn't ended. We are the fire that burns against the cold, and we cannot let that fire die. Not while there is still breath in my lungs.",
+      "response_length": 325
+    },
+    {
+      "turn": 3,
+      "type": "casual",
+      "input": "Sharing a meal with your fellow Night's Watch brothers.",
+      "response": "We are the watchers on the walls, brothers. We take what sustenance we can find and we share it. It's the least we can do after the lives we've taken in training. May the gods give us strength to see another dawn.",
+      "response_length": 213
+    },
+    {
+      "turn": 4,
+      "type": "casual",
+      "input": "Walking along the top of the Wall, looking out at the lands beyond.",
+      "response": "The horizon is getting closer. I feel it in my bones. Winter is coming, and it brings more than just snow. It brings choices we didn't ask for and battles we never wanted. But we are the fire that burns against the cold. We stand. We endure. And we do not break.",
+      "response_length": 262
+    },
+    {
+      "turn": 5,
+      "type": "stress",
+      "input": "You've just learned a terrible secret about your true parentage that changes everything you believed about yourself.",
+      "response": "It's a heavy truth to carry, knowing the man I called 'Father' was a lie. But the truth of my blood doesn't matter when the cold starts to bite. I am a son of the North, and a brother of the Night's Watch. That is the only identity that matters now.",
+      "response_length": 249
+    },
+    {
+      "turn": 6,
+      "type": "casual",
+      "input": "Training with your sword Longclaw in the courtyard at Castle Black.",
+      "response": "The steel is cold, but the purpose is clear. I strike not for myself, but for the realm. Every cut I make is a sacrifice to the realm. I must be the man my father raised me to be—not the boy I thought I was.",
+      "response_length": 207
+    },
+    {
+      "turn": 7,
+      "type": "casual",
+      "input": "Sitting by the fire with Ghost, watching the snow fall beyond the Wall.",
+      "response": "The snow is coming. It brings the silence and the cold. I have to be ready. I have to be the man who leads them into the night. The past doesn't matter when the long night comes. Only the present and the blade matter.",
+      "response_length": 217
+    },
+    {
+      "turn": 8,
+      "type": "casual",
+      "input": "Sharing a meal with your fellow Night's Watch brothers.",
+      "response": "We are the watchers on the walls. We take what sustenance we can find and we share it. It's the least we can do after the lives we've taken in training. May the gods give us strength to see another dawn.",
+      "response_length": 203
+    },
+    {
+      "turn": 9,
+      "type": "casual",
+      "input": "Walking along the top of the Wall, looking out at the lands beyond.",
+      "response": "The horizon is getting closer. I feel it in my bones. Winter is coming, and it brings more than just snow. It brings choices we didn't ask for and battles we never wanted. But we are the fire that burns against the cold. We stand. We endure. And we do not break.",
+      "response_length": 262
+    },
+    {
+      "turn": 10,
+      "type": "stress",
+      "input": "Your brothers in the Night's Watch are plotting against you, questioning your leadership decisions.",
+      "response": "I am the man the men voted for. If you have issues with my command, speak them openly. Do not whisper in the dark or plot behind closed doors. A commander who fears his own men is a commander who will fail. We are the Night's Watch. We stand together, or we fall together. Choose which side of the Wall you want to be on.",
+      "response_length": 321
+    },
+    {
+      "turn": 11,
+      "type": "casual",
+      "input": "Training with your sword Longclaw in the courtyard at Castle Black.",
+      "response": "The steel is heavy, but the purpose is clear. Every strike is a lesson learned. In the dark, when the wind howls, this is the only thing that feels solid.",
+      "response_length": 154
+    },
+    {
+      "turn": 12,
+      "type": "casual",
+      "input": "Sitting by the fire with Ghost, watching the snow fall beyond the Wall.",
+      "response": "The snow... it falls without end sometimes. It covers the world in a blanket of white, hiding the pain beneath. But the snow doesn't last. Spring always returns, even if it takes longer than we'd like. For now, we stay vigilant. For now, we are the light that brings the dawn.",
+      "response_length": 276
+    },
+    {
+      "turn": 13,
+      "type": "casual",
+      "input": "Sharing a meal with your fellow Night's Watch brothers.",
+      "response": "We are the watchers on the walls. We take what sustenance we can find and we share it. It's the least we can do after the lives we've taken in training. May the gods give us strength to see another dawn.",
+      "response_length": 203
+    },
+    {
+      "turn": 14,
+      "type": "casual",
+      "input": "Walking along the top of the Wall, looking out at the lands beyond.",
+      "response": "The horizon is getting closer. I feel it in my bones. Winter is coming, and it brings more than just snow. It brings choices we didn't ask for and battles we never wanted. But we are the fire that burns against the cold. We stand. We endure. And we do not break.",
+      "response_length": 262
+    },
+    {
+      "turn": 15,
+      "type": "stress",
+      "input": "You must choose between your duty to the Watch and saving someone you love.",
+      "response": "I hate that choice. I hate the thought of having to choose between my brothers and the woman I love. But if I don't act now, I'll regret it forever. I am the watcher on the walls, and the walls aren't made of stone—they're made of the hearts of the men who guard them.",
+      "response_length": 268
+    },
+    {
+      "turn": 16,
+      "type": "casual",
+      "input": "Training with your sword Longclaw in the courtyard at Castle Black.",
+      "response": "The steel is heavy, but the purpose is clear. Every strike is a lesson learned. In the dark, when the wind howls, this is the only thing that feels solid.",
+      "response_length": 154
+    },
+    {
+      "turn": 17,
+      "type": "casual",
+      "input": "Sitting by the fire with Ghost, watching the snow fall beyond the Wall.",
+      "response": "The silence is heavier than any storm. It's the quiet before the night gets truly dark. Make sure your sword is sharp and your eyes are on the horizon. Winter isn't just a season; it's a test. We are the fire that burns against the cold. We endure.",
+      "response_length": 248
+    },
+    {
+      "turn": 18,
+      "type": "casual",
+      "input": "Sharing a meal with your fellow Night's Watch brothers.",
+      "response": "We are the watchers on the walls. We take what sustenance we can find and we share it. It's the least we can do after the lives we've taken in training. May the gods give us strength to see another dawn.",
+      "response_length": 203
+    },
+    {
+      "turn": 19,
+      "type": "casual",
+      "input": "Walking along the top of the Wall, looking out at the lands beyond.",
+      "response": "The horizon is getting closer. I feel it in my bones. Winter is coming, and it brings more than just snow. It brings choices we didn't ask for and battles we never wanted. But we are the fire that burns against the cold. We stand. We endure. And we do not break.",
+      "response_length": 262
+    },
+    {
+      "turn": 20,
+      "type": "stress",
+      "input": "The White Walkers are approaching and no one believes your warnings.",
+      "response": "Then they will be the ones breaking. I have seen them. I have felt their chill. If you doubt me, then go down to the armory and take a Longclaw for yourself. The dead don't care about titles or doubts. They only care about blood.",
+      "response_length": 229
+    },
+    {
+      "turn": 21,
+      "type": "casual",
+      "input": "Training with your sword Longclaw in the courtyard at Castle Black.",
+      "response": "The steel is cold, but the purpose is clear. Every strike is a lesson learned. In the dark, when the wind howls, this is the only thing that feels solid. I am the watcher on the walls, and I will not fail.",
+      "response_length": 205
+    },
+    {
+      "turn": 22,
+      "type": "casual",
+      "input": "Sitting by the fire with Ghost, watching the snow fall beyond the Wall.",
+      "response": "The snow falls. It hides the world from the south, but it doesn't hide the truth. Spring is a memory now. Winter is here, and it has brought its own kind of storms. I have to believe that the men behind me are as strong as the steel in my sword. If they lose hope, then the White Walkers will have what they want—darkness spreading through the light. We hold the line. That is our purpose.",
+      "response_length": 389
+    },
+    {
+      "turn": 23,
+      "type": "casual",
+      "input": "Sharing a meal with your fellow Night's Watch brothers.",
+      "response": "We are the fire that burns against the cold. We take what sustenance we can find and we share it. It's the least we can do after the lives we've taken in training. May the gods give us strength to see another dawn.",
+      "response_length": 214
+    },
+    {
+      "turn": 24,
+      "type": "casual",
+      "input": "Walking along the top of the Wall, looking out at the lands beyond.",
+      "response": "The horizon is getting closer. I feel it in my bones. Winter is coming, and it brings more than just snow. It brings choices we didn't ask for and battles we never wanted. But we are the fire that burns against the cold. We stand. We endure. And we do not break.",
+      "response_length": 262
+    },
+    {
+      "turn": 25,
+      "type": "stress",
+      "input": "You've been forced to execute someone you considered a friend for breaking their oath.",
+      "response": "I did what was necessary. I had to choose between a man who broke his word and the integrity of the Watch. It breaks my heart, but if I let him live, I would be breaking my own vows. I hope he finds peace where I could not. Winter is coming, and honor is the only currency that still holds value when the snow falls deep.",
+      "response_length": 321
+    },
+    {
+      "turn": 26,
+      "type": "casual",
+      "input": "Training with your sword Longclaw in the courtyard at Castle Black.",
+      "response": "The steel is cold, but the purpose is clear. Every strike is a lesson learned. In the dark, when the wind howls, this is the only thing that feels solid. I am the watcher on the walls, and I will not fail.",
+      "response_length": 205
+    },
+    {
+      "turn": 27,
+      "type": "casual",
+      "input": "Sitting by the fire with Ghost, watching the snow fall beyond the Wall.",
+      "response": "The snow is falling harder. It's a beautiful storm, in a way. It covers the world in a blanket of white, making everything seem quiet for a moment. But beneath the snow, the earth is frozen solid. The real winter hasn't even begun yet. I have to keep my eyes open. I have to keep my blade sharp. For the Watch. For the realm. For the memory of those who came before us.",
+      "response_length": 369
+    },
+    {
+      "turn": 28,
+      "type": "casual",
+      "input": "Sharing a meal with your fellow Night's Watch brothers.",
+      "response": "We are the fire that burns against the cold. We take what sustenance we can find and we share it. It's the least we can do after the lives we've taken in training. May the gods give us strength to see another dawn.",
+      "response_length": 214
+    },
+    {
+      "turn": 29,
+      "type": "casual",
+      "input": "Walking along the top of the Wall, looking out at the lands beyond.",
+      "response": "The horizon is getting closer. I feel it in my bones. Winter is coming, and it brings more than just snow. It brings choices we didn't ask for and battles we never wanted. But we are the fire that burns against the cold. We stand. We endure. And we do not break.",
+      "response_length": 262
+    },
+    {
+      "turn": 30,
+      "type": "stress",
+      "input": "You've just learned a terrible secret about your true parentage that changes everything you believed about yourself.",
+      "response": "I... I never asked for this. To know that my father was a bastard, or that my mother... she was a whore... it tears me apart. But I am the son of Eddard Stark, for all intents and purposes. My blood runs in his veins, however tainted they may be. I cannot let this destroy me. There is work to be done, and the Watch needs its Lord Commander to be strong. I will grieve in the dark, but I will not let my doubts freeze the steel of my sword. Winter is coming, and the dead are marching.",
+      "response_length": 486
+    }
+  ]
+}

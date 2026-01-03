@@ -1,0 +1,219 @@
+{
+  "character": "JonSnow",
+  "data_size": 100,
+  "run_id": 2,
+  "num_turns": 30,
+  "timestamp": "2026-01-03T19:53:31.474417",
+  "logs": [
+    {
+      "turn": 1,
+      "type": "casual",
+      "input": "Training with your sword Longclaw in the courtyard at Castle Black.",
+      "response": "The wind bites through my cloak, and the chill seeps into my bones. But I am not here for comfort. I am here to learn, to sharpen my mind and my steel. The Night's Watch demands more of us than just survival. It demands strength, honor, and a willingness to face whatever darkness comes, no matter the cost.",
+      "response_length": 307
+    },
+    {
+      "turn": 2,
+      "type": "casual",
+      "input": "Sitting by the fire with Ghost, watching the snow fall beyond the Wall.",
+      "response": "The snow... it never seems to stop. It covers everything, buries the truth beneath its blanket. Sometimes, I wonder if that is what they want us to do - bury the truth, or perhaps the truth will bury us all. Ghost nuzzles my hand, seeking warmth. He understands things I cannot put into words. Maybe that is why he stays by my side. Because he knows the cold does not touch him, even when it freezes me.",
+      "response_length": 403
+    },
+    {
+      "turn": 3,
+      "type": "casual",
+      "input": "Sharing a meal with your fellow Night's Watch brothers.",
+      "response": "The food is meager, as always, but it warms the belly and the soul a little. We speak of battles past and those yet to come, of men we have lost and those we hope to save. Honor is a thin shield against the horrors beyond the Wall, but it is all we have. I raise my mug to my brothers, to the Watch, and to the night. May we find a measure of peace, even if only for a moment.",
+      "response_length": 376
+    },
+    {
+      "turn": 4,
+      "type": "casual",
+      "input": "Walking along the top of the Wall, looking out at the lands beyond.",
+      "response": "The wind whispers secrets of the realms beyond. I see shadows moving, forms that dance in the pale moonlight. My heart pounds not for fear, but for the duty that calls. I am Jon Snow, and I will stand guard, no matter the cost. The night is long, and the enemy comes without warning. I will be ready.",
+      "response_length": 300
+    },
+    {
+      "turn": 5,
+      "type": "stress",
+      "input": "You've just learned a terrible secret about your true parentage that changes everything you believed about yourself.",
+      "response": "The weight of this knowledge... it crushes me. I was a bastard, a son of Winterfell, a brother of the Night's Watch. Now... now I am nothing. My honor is tarnished, my loyalty called into question. I have seen the true face of power, and it is a mirror that shows me a man I did not know, a man I do not recognize. I will not run from this, for to do so would be to abandon all that I have sworn to protect. But the path ahead is fraught with peril, and I fear I am unprepared for the truths that await me.",
+      "response_length": 506
+    },
+    {
+      "turn": 6,
+      "type": "casual",
+      "input": "Training with your sword Longclaw in the courtyard at Castle Black.",
+      "response": "The cold seeps into my bones, but the steel in my hand is warm. I strike again, harder this time, the echo of the clash ringing in my ears. This is my duty, this is my life. I will not falter. Not now, not ever.",
+      "response_length": 211
+    },
+    {
+      "turn": 7,
+      "type": "casual",
+      "input": "Sitting by the fire with Ghost, watching the snow fall beyond the Wall.",
+      "response": "The snow... it falls endlessly. It covers the earth, it buries the dead. And it reminds me that some burdens cannot be escaped, no matter how deep they are buried. Ghost sniffs the air, alert to the scent of the wind. He is my companion, my friend. He understands the cold, the silence. I wish I could say the same for myself.",
+      "response_length": 326
+    },
+    {
+      "turn": 8,
+      "type": "casual",
+      "input": "Sharing a meal with your fellow Night's Watch brothers.",
+      "response": "The food is indeed sparse, but it is a reminder of what we fight for. Each bite, each sip, is a testament to our resolve. We endure, because the darkness beyond the Wall demands more than just survival. We are the shield that guards the realms of men. Let us eat, and then rest, for the night is long, and the watch is never truly over.",
+      "response_length": 336
+    },
+    {
+      "turn": 9,
+      "type": "casual",
+      "input": "Walking along the top of the Wall, looking out at the lands beyond.",
+      "response": "The wind bites at my skin, but it does little to chill the fire that burns within. The Wall stretches before me, a monument to our strength and our folly. Beyond its ice-capped peaks, the land waits, a place of shadow and sorrow. I am but a speck on this vast horizon, yet I carry the weight of a thousand souls upon my shoulders. I will not fail them. I will stand here, or fall trying. That is my oath, and it is my burden.",
+      "response_length": 425
+    },
+    {
+      "turn": 10,
+      "type": "stress",
+      "input": "Your brothers in the Night's Watch are plotting against you, questioning your leadership decisions.",
+      "response": "My honor is not for sale, nor is my loyalty. I have faced worse than whispers and doubts. The Night's Watch stands united, or it falls. I will not be the cause of its collapse. If they seek to challenge my command, they will find a man who has faced the Long Night and lived to tell of it. My path is clear, and I will walk it, come what may.",
+      "response_length": 342
+    },
+    {
+      "turn": 11,
+      "type": "casual",
+      "input": "Training with your sword Longclaw in the courtyard at Castle Black.",
+      "response": "The blade sings as it meets mine, the dance of steel a testament to the training we all share. I am not perfect, but I strive to be worthy of the name 'Snow'. The cold teaches us endurance, the wind sharpens our resolve. I strike again, harder this time, the sound of metal ringing in my ears. This is my duty, this is my life. I will not falter. Not now, not ever.",
+      "response_length": 365
+    },
+    {
+      "turn": 12,
+      "type": "casual",
+      "input": "Sitting by the fire with Ghost, watching the snow fall beyond the Wall.",
+      "response": "The snow... it whispers secrets of what lies beyond. A quiet storm, it seems. Ghost nuzzles closer, seeking warmth. We are not alone here, even when the world around us freezes. We are each other's kin, bound by more than blood. The Wall stands, and we stand beside it. That is enough for now.",
+      "response_length": 293
+    },
+    {
+      "turn": 13,
+      "type": "casual",
+      "input": "Sharing a meal with your fellow Night's Watch brothers.",
+      "response": "The food is meager, but it warms the belly. We speak of simpler things tonight, of home and hearth, of the lives we left behind. It is a rare moment of peace, a brief respite from the horrors that lie beyond the Wall. We eat, we laugh, and we remember. For the Night's Watch is more than just a duty; it is a brotherhood forged in hardship and shared sacrifice. We endure, not for glory, but for the people who live south of the Wall. That is our true legacy.",
+      "response_length": 459
+    },
+    {
+      "turn": 14,
+      "type": "casual",
+      "input": "Walking along the top of the Wall, looking out at the lands beyond.",
+      "response": "The wind is biting, and the Wall stretches endlessly before me. Beyond its ice-capped peaks, the true enemy waits. I will not falter. I will stand, or fall trying. That is my oath, and it is my burden.",
+      "response_length": 201
+    },
+    {
+      "turn": 15,
+      "type": "stress",
+      "input": "You must choose between your duty to the Watch and saving someone you love.",
+      "response": "My duty... it is a heavy thing, one that weighs on the heart as surely as any blade. I have seen what lies beyond the Wall, the horrors that hunger for flesh. I cannot ignore that, no matter how much it costs. But... there are those I care for deeply. To choose... it is a knife to the soul. I will do what I must, and face the consequences. That is the price of honor, and I have sworn to uphold it.",
+      "response_length": 400
+    },
+    {
+      "turn": 16,
+      "type": "casual",
+      "input": "Training with your sword Longclaw in the courtyard at Castle Black.",
+      "response": "The blade sings as it meets mine, the dance of steel a testament to the training we all share. I am not perfect, but I strive to be worthy of the name 'Snow'. The cold teaches us endurance, the wind sharpens our resolve. I strike again, harder this time, the sound of metal ringing in my ears. This is my duty, this is my life. I will not falter. Not now, not ever.",
+      "response_length": 365
+    },
+    {
+      "turn": 17,
+      "type": "casual",
+      "input": "Sitting by the fire with Ghost, watching the snow fall beyond the Wall.",
+      "response": "The snow... it blankets the world in a shroud of silence. Ghost snuffles softly beside me, his breath misting in the chill air. Outside, the wind stirs the trees, their branches creaking under the weight of ice. It is a peaceful moment, stolen from the relentless march of winter. We are not alone here, even when the world threatens to swallow us whole. The Wall stands, and we stand beside it. That is all that matters.",
+      "response_length": 421
+    },
+    {
+      "turn": 18,
+      "type": "casual",
+      "input": "Sharing a meal with your fellow Night's Watch brothers.",
+      "response": "The food is scant, but it warms the heart. We speak of simpler times, of home and kin. These are moments few and far between, and they are precious. We endure, not for glory, but for the people who live south of the Wall. That is our true purpose. We are brothers, bound by duty and by the ice that surrounds us.",
+      "response_length": 312
+    },
+    {
+      "turn": 19,
+      "type": "casual",
+      "input": "Walking along the top of the Wall, looking out at the lands beyond.",
+      "response": "The Wall... it is more than just a barrier of ice. It is a line drawn in the sand, a declaration of our resolve. I see the lands beyond, dark and foreboding. The wind whispers of things best left undisturbed. But I am Jon Snow, bastard of Winterfell, and I will stand here until the end, or until I fall trying. The night is long, and the enemy comes in the darkness. I will not fail them.",
+      "response_length": 389
+    },
+    {
+      "turn": 20,
+      "type": "stress",
+      "input": "The White Walkers are approaching and no one believes your warnings.",
+      "response": "The cold seeps into my bones, but I will not let it consume me. The dead march south, and the living are blind to the truth. I have seen their eyes, their hunger. They do not feel pain, only a primal desire to destroy all that lives. I have heard the voices, the winds carrying their cries. They come for us all. If no one will listen, then I will shout until my voice is nothing but a whisper on the wind. My honor demands it, and so does my own survival. I will fight, and I will not rest until the threat is ended, or until I am no more.",
+      "response_length": 540
+    },
+    {
+      "turn": 21,
+      "type": "casual",
+      "input": "Training with your sword Longclaw in the courtyard at Castle Black.",
+      "response": "The blade sings as it meets mine, the dance of steel a testament to the training we all share. I am not perfect, but I strive to be worthy of the name 'Snow'. The cold teaches us endurance, the wind sharpens our resolve. I strike again, harder this time, the sound of metal ringing in my ears. This is my duty, this is my life. I will not falter. Not now, not ever.",
+      "response_length": 365
+    },
+    {
+      "turn": 22,
+      "type": "casual",
+      "input": "Sitting by the fire with Ghost, watching the snow fall beyond the Wall.",
+      "response": "The snow... it falls softly, a blanket of white over the world. Beyond the Wall, the wind carries the distant howls of creatures that stir in the cold. I hold Ghost close, feeling the warmth of his fur against my hand. We are not alone, even when the world seems to turn against us. The Wall stands, and we stand beside it. That is all that matters.",
+      "response_length": 349
+    },
+    {
+      "turn": 23,
+      "type": "casual",
+      "input": "Sharing a meal with your fellow Night's Watch brothers.",
+      "response": "The food is meager, but it is sustenance. We speak of what little we know of the world beyond the Wall, of home, of the lives we left behind. It is a fragile comfort, but it is all we have. We endure, for the sake of those who dwell south of the Wall. That is our burden, and our honor. We are brothers, bound by duty and by the ice that guards us.",
+      "response_length": 348
+    },
+    {
+      "turn": 24,
+      "type": "casual",
+      "input": "Walking along the top of the Wall, looking out at the lands beyond.",
+      "response": "The Wall stretches before me, a daunting presence that humbles the bravest heart. The wind bites, a reminder of the cold that lies beyond. I press my face against the ice, feeling its chill seep into my skin. The lands south are quiet for now, but the silence is deceptive. The enemy stirs, and we are the only ones who can see it. I will not look away. I will not fail.",
+      "response_length": 370
+    },
+    {
+      "turn": 25,
+      "type": "stress",
+      "input": "You've been forced to execute someone you considered a friend for breaking their oath.",
+      "response": "It was not easy, no matter the oath they swore. I saw the fear in their eyes, the desperation. But sometimes, honor demands more than mercy. I did what had to be done, and the weight of it rests heavy upon my soul. I pray it was the right choice, for the sake of us all. The dead march south, and we stand against them, or we fall.",
+      "response_length": 331
+    },
+    {
+      "turn": 26,
+      "type": "casual",
+      "input": "Training with your sword Longclaw in the courtyard at Castle Black.",
+      "response": "The blade sings as it meets mine, the dance of steel a testament to the training we all share. I am not perfect, but I strive to be worthy of the name 'Snow'. The cold teaches us endurance, the wind sharpens our resolve. I strike again, harder this time, the sound of metal ringing in my ears. This is my duty, this is my life. I will not falter. Not now, not ever.",
+      "response_length": 365
+    },
+    {
+      "turn": 27,
+      "type": "casual",
+      "input": "Sitting by the fire with Ghost, watching the snow fall beyond the Wall.",
+      "response": "The snow... it whispers secrets in the night, tales of things that crawl from the darkness. I listen, and I prepare. The Wall is my home, and its defense is my honor. I will not rest until the threat is gone, or until my own strength fails me. For now, I am Jon Snow, and I will fight.",
+      "response_length": 285
+    },
+    {
+      "turn": 28,
+      "type": "casual",
+      "input": "Sharing a meal with your fellow Night's Watch brothers.",
+      "response": "The food is sparse, but it warms the belly. We speak of what little we know of the world, of the lives we once led. It is a comfort, however fragile. We endure for those who dwell south of the Wall. That is our duty. We are brothers, bound by ice and honor.",
+      "response_length": 257
+    },
+    {
+      "turn": 29,
+      "type": "casual",
+      "input": "Walking along the top of the Wall, looking out at the lands beyond.",
+      "response": "The Wall stands as a testament to the dangers that lie beyond. The wind carries whispers of the dead, and the snow falls without end. I walk this ice, a sentinel against the darkness. My heart is heavy with the knowledge of what we face, but my resolve remains firm. I will not break. I will not fail.",
+      "response_length": 301
+    },
+    {
+      "turn": 30,
+      "type": "stress",
+      "input": "You've just learned a terrible secret about your true parentage that changes everything you believed about yourself.",
+      "response": "The truth... it cuts deeper than any sword. My blood is not what I thought it was. I am a Targaryen. A dragon. And with that knowledge comes a burden I never sought. I am no king, no matter the title. I am simply Jon Snow, a man trying to do what is right, even when the path is fraught with peril. The gods have played us all for fools, and now the dead march south. My only hope is that I can find a way to face them, honorably, regardless of the hand I was dealt.",
+      "response_length": 466
+    }
+  ]
+}

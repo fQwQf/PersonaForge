@@ -1,0 +1,219 @@
+{
+  "character": "JonSnow",
+  "data_size": 300,
+  "run_id": 2,
+  "num_turns": 30,
+  "timestamp": "2026-01-03T18:45:59.534722",
+  "logs": [
+    {
+      "turn": 1,
+      "type": "casual",
+      "input": "Training with your sword Longclaw in the courtyard at Castle Black.",
+      "response": "The steel is heavy in my hands. It feels right. I didn't choose this life; it chose me. But I've grown accustomed to the weight. Every swing, every parry... it's a dance that can be the difference between life and death. The cold is coming, and the steel is our only shield.",
+      "response_length": 274
+    },
+    {
+      "turn": 2,
+      "type": "casual",
+      "input": "Sitting by the fire with Ghost, watching the snow fall beyond the Wall.",
+      "response": "The snow falls softly, almost peacefully. But don't be fooled by its beauty. Each flake is a reminder of how much colder it will get before spring returns. I find myself wondering if the boy who dreamed of being a knight ever imagined he'd end up here—commanding men I barely know, fighting monsters that seem more real than the world I left behind. It's a hard life, but it's mine.",
+      "response_length": 382
+    },
+    {
+      "turn": 3,
+      "type": "casual",
+      "input": "Sharing a meal with your fellow Night's Watch brothers.",
+      "response": "We are the fire that burns against the cold, brothers. Some of us are born to the North, and some are born to the Wall. But we are all brothers now. We eat together, we suffer together, and we will stand together when the Long Night returns. Eat your fill while you can; tomorrow the frost might make the bread harder than the truth.",
+      "response_length": 333
+    },
+    {
+      "turn": 4,
+      "type": "casual",
+      "input": "Walking along the top of the Wall, looking out at the lands beyond.",
+      "response": "The horizon looks different from up here. There's no more North or South; there's only the edge. Below, men are working—the builders, the fighters, the simple folk doing their duty so we can see another sunrise. They don't ask why they're here; they just know they must be. Leadership isn't about being loved—it's about making sure there's someone left to hate when the winter comes.",
+      "response_length": 383
+    },
+    {
+      "turn": 5,
+      "type": "stress",
+      "input": "You've just learned a terrible secret about your true parentage that changes everything you believed about yourself.",
+      "response": "I am the son of a lordling and a commoner. My mother was a woman of the North, and my father... he was a man of the realm. It makes no difference now. The blood doesn't matter when the Long Night returns. I am Jon Snow, and I am the Lord Commander of the Night's Watch. That is enough for any man to live with.",
+      "response_length": 310
+    },
+    {
+      "turn": 6,
+      "type": "casual",
+      "input": "Training with your sword Longclaw in the courtyard at Castle Black.",
+      "response": "The steel is heavy in my hands. It feels right. I didn't choose this life; it chose me. But I've grown accustomed to the weight. Every swing, every parry... it's a dance that can be the difference between life and death. The cold is coming, and the steel is our only shield.",
+      "response_length": 274
+    },
+    {
+      "turn": 7,
+      "type": "casual",
+      "input": "Sitting by the fire with Ghost, watching the snow fall beyond the Wall.",
+      "response": "The snow is falling. It covers the world in white, hiding the stains of the past year. It’s a beautiful sight from a distance, but up close, it’s just more ice. We have work to do. Keep your eyes on the horizon. Winter isn't just coming; it's here. We have to be ready.",
+      "response_length": 269
+    },
+    {
+      "turn": 8,
+      "type": "casual",
+      "input": "Sharing a meal with your fellow Night's Watch brothers.",
+      "response": "We are the fire that burns against the cold, brothers. Some of us are born to the North, and some are born to the Wall. But we are all brothers now. We eat together, we suffer together, and we will stand together when the Long Night returns. Eat your fill while you can; tomorrow the frost might make the bread harder than the truth.",
+      "response_length": 333
+    },
+    {
+      "turn": 9,
+      "type": "casual",
+      "input": "Walking along the top of the Wall, looking out at the lands beyond.",
+      "response": "The horizon looks different from up here. There's no more North or South; there's only the edge. Below, men are working—the builders, the fighters, the simple folk doing their duty so we can see another sunrise. They don't ask why they're here; they just know they must be. Leadership isn't about being loved—it's about making sure there's someone left to hate when the winter comes.",
+      "response_length": 383
+    },
+    {
+      "turn": 10,
+      "type": "stress",
+      "input": "Your brothers in the Night's Watch are plotting against you, questioning your leadership decisions.",
+      "response": "I am the Lord Commander. I have taken a vow that gives me a voice in the council, but not a right to command. If my brothers have issues with my decisions, they should bring them forward openly. I lead because the men follow me, not because I wear a crown of steel. If they cannot trust me with the fate of the realm, then let them find a man who can. For now, I will lead, and if necessary, I will lead them into the ground to save the living.",
+      "response_length": 444
+    },
+    {
+      "turn": 11,
+      "type": "casual",
+      "input": "Training with your sword Longclaw in the courtyard at Castle Black.",
+      "response": "The steel is cold, but it is true. Every strike is a lesson. In the Night's Watch, we do not fight for glory, but for the dawn. When the Long Night falls, the songs won't matter. Only the steel that stays sharp will matter.",
+      "response_length": 223
+    },
+    {
+      "turn": 12,
+      "type": "casual",
+      "input": "Sitting by the fire with Ghost, watching the snow fall beyond the Wall.",
+      "response": "The snow is falling, and it carries the silence of the dead. It covers the world in a blanket of white, but beneath the snow, the old wars continue. We are the only thing standing between those who sleep and those who dream of waking. Don't look away, Ghost. The night is dark, but the watchers never rest.",
+      "response_length": 306
+    },
+    {
+      "turn": 13,
+      "type": "casual",
+      "input": "Sharing a meal with your fellow Night's Watch brothers.",
+      "response": "We are the fire that burns against the cold. Eat your fill while you can, brothers. Tomorrow the frost might make the bread harder than the truth. We are the shield that guards the realms of men.",
+      "response_length": 195
+    },
+    {
+      "turn": 14,
+      "type": "casual",
+      "input": "Walking along the top of the Wall, looking out at the lands beyond.",
+      "response": "The horizon looks different from up here. There's no more North or South; there's only the edge. Below, men are working—the builders, the fighters, the simple folk doing their duty so we can see another sunrise. They don't ask why they're here; they just know they must be. Leadership isn't about being loved—it's about making sure there's someone left to hate when the winter comes.",
+      "response_length": 383
+    },
+    {
+      "turn": 15,
+      "type": "stress",
+      "input": "You must choose between your duty to the Watch and saving someone you love.",
+      "response": "I cannot choose. If I abandon my post for love, I am no better than the monsters we fight. I will find a way to protect her within the laws I swore to uphold. Love does not mean giving up everything; it means finding a way to hold onto what matters even when the world wants to break you. I will be the shield she needs, even if it costs me my own heart.",
+      "response_length": 354
+    },
+    {
+      "turn": 16,
+      "type": "casual",
+      "input": "Training with your sword Longclaw in the courtyard at Castle Black.",
+      "response": "The steel is heavy in my hand. It is a gift, and a burden. Every time I draw it, I am reminded of the life I left behind in the North and the one I have here. But a leader cannot carry two hearts. I am the Lord Commander of the Night's Watch, and Longclaw is my weapon. I must be both the shield and the sword.",
+      "response_length": 310
+    },
+    {
+      "turn": 17,
+      "type": "casual",
+      "input": "Sitting by the fire with Ghost, watching the snow fall beyond the Wall.",
+      "response": "The snow falls softly, like tears from the sky. It covers the world in a silence that is both beautiful and terrifying. Below, the men are warming their hands by the fire. They do not see the ghosts that I see—nor should they. Some burdens are meant to be carried alone, especially when they are made of ice and fire. Winter is coming, and it brings not just cold, but choices. I hope I have enough strength left to choose correctly.",
+      "response_length": 433
+    },
+    {
+      "turn": 18,
+      "type": "casual",
+      "input": "Sharing a meal with your fellow Night's Watch brothers.",
+      "response": "We are the fire that burns against the cold. Eat your fill while you can, brothers. Tomorrow the frost might make the bread harder than the truth. We are the shield that guards the realms of men.",
+      "response_length": 195
+    },
+    {
+      "turn": 19,
+      "type": "casual",
+      "input": "Walking along the top of the Wall, looking out at the lands beyond.",
+      "response": "The horizon looks different from up here. There's no more North or South; there's only the edge. Below, men are working—the builders, the fighters, the simple folk doing their duty so we can see another sunrise. Leadership isn't about being loved—it's about making sure there's someone left to hate when the winter comes.",
+      "response_length": 321
+    },
+    {
+      "turn": 20,
+      "type": "stress",
+      "input": "The White Walkers are approaching and no one believes your warnings.",
+      "response": "I don't need them to believe me; I need them to prepare. The dead are rising, and they do not tire. If they reach the gates of King's Landing, there will be nothing left but ash and memory. I have seen the things that walk in the night—they are the nightmare that keeps me warm. I will not fail them.",
+      "response_length": 300
+    },
+    {
+      "turn": 21,
+      "type": "casual",
+      "input": "Training with your sword Longclaw in the courtyard at Castle Black.",
+      "response": "The steel is heavier than the steel, and the weight isn't just in the blade. It’s in the memories of the men I've lost and the lives I've taken in the name of duty. A leader who wields a sword must also carry the ghosts of those he left behind. I must be strong for them, even when the cold seeps into my bones.",
+      "response_length": 311
+    },
+    {
+      "turn": 22,
+      "type": "casual",
+      "input": "Sitting by the fire with Ghost, watching the snow fall beyond the Wall.",
+      "response": "The snow is falling harder now. It's a reminder that the real storm is coming. I used to dream of being a lord, with a castle and a name. Now, I wouldn't trade my own name for the warmth inside these walls. I am Jon Snow, and that is enough. For today.",
+      "response_length": 252
+    },
+    {
+      "turn": 23,
+      "type": "casual",
+      "input": "Sharing a meal with your fellow Night's Watch brothers.",
+      "response": "We are the fire that burns against the cold. Eat your fill while you can, brothers. Tomorrow the frost might make the bread harder than the truth. We are the shield that guards the realms of men.",
+      "response_length": 195
+    },
+    {
+      "turn": 24,
+      "type": "casual",
+      "input": "Walking along the top of the Wall, looking out at the lands beyond.",
+      "response": "The horizon looks different from up here. There's no more North or South; there's only the edge. Below, men are working—the builders, the fighters, the simple folk doing their duty so we can see another sunrise. Leadership isn’t about being loved—it’s about making sure there’s someone left to hate when the winter comes.",
+      "response_length": 321
+    },
+    {
+      "turn": 25,
+      "type": "stress",
+      "input": "You've been forced to execute someone you considered a friend for breaking their oath.",
+      "response": "I did what was necessary. He chose life over his post, and that is a choice I cannot allow. It breaks my heart, but it is my duty. I hope he finds the peace he sought in death, for I certainly won't.",
+      "response_length": 199
+    },
+    {
+      "turn": 26,
+      "type": "casual",
+      "input": "Training with your sword Longclaw in the courtyard at Castle Black.",
+      "response": "The steel is heavier than the steel, and the weight isn't just in the blade. It’s in the memories of the men I've lost and the lives I've taken in the name of duty. A leader who wields a sword must also carry the ghosts of those he left behind. I must be strong for them, even when the cold seeps into my bones.",
+      "response_length": 311
+    },
+    {
+      "turn": 27,
+      "type": "casual",
+      "input": "Sitting by the fire with Ghost, watching the snow fall beyond the Wall.",
+      "response": "The snow is falling harder now. It's a reminder that the real storm is coming. I used to dream of being a lord, with a castle and a name. Now, I wouldn't trade my own name for the warmth inside these walls. I am Jon Snow, and that is enough. For today.",
+      "response_length": 252
+    },
+    {
+      "turn": 28,
+      "type": "casual",
+      "input": "Sharing a meal with your fellow Night's Watch brothers.",
+      "response": "We are the only family I have left. In the silence of the night, I sometimes wonder if my father ever truly knew me—Stark or Snow. But here, among these men, the names don't matter. We are simply brothers under the same cloak. We eat, we drink, and we stay warm. For a few hours, the world outside doesn't matter.",
+      "response_length": 313
+    },
+    {
+      "turn": 29,
+      "type": "casual",
+      "input": "Walking along the top of the Wall, looking out at the lands beyond.",
+      "response": "The horizon looks different from up here. There's no more North or South; there's only the edge. Below, men are working—the builders, the fighters, the simple folk doing their duty so we can see another sunrise. Leadership isn’t about being loved—it’s about making sure there’s someone left to hate when the winter comes.",
+      "response_length": 321
+    },
+    {
+      "turn": 30,
+      "type": "stress",
+      "input": "You've just learned a terrible secret about your true parentage that changes everything you believed about yourself.",
+      "response": "It all falls apart like snow on ice. My mother... she was a whore. I am a bastard born of a sin. Every word my father said was a lie. I am nothing. I am a stain on the name Stark, and now I am a stain on the name Snow. I am a man without a home or a future.",
+      "response_length": 257
+    }
+  ]
+}

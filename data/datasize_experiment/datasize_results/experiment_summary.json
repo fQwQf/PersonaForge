@@ -1,0 +1,16 @@
+{
+  "experiment_type": "datasize_comparison",
+  "characters": [
+    "LinDaiyu",
+    "JonSnow"
+  ],
+  "data_sizes": [
+    200,
+    300,
+    500,
+    750
+  ],
+  "num_runs": 2,
+  "num_turns": 30,
+  "timestamp": "2026-01-03T18:54:56.034089"
+}
