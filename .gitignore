@@ -68,3 +68,7 @@ BookWorld_test.py
 migrate_maps.py
 convert_sillytavern_cards_to_data.py
 extract_data/
+
+# === REBUTTAL ===
+reviews/
+*.tex
