@@ -1,0 +1,142 @@
+{
+  "results": [
+    {
+      "character": "LinDaiyu",
+      "wuxing_profile": {
+        "scores": {
+          "wood": 0.7,
+          "fire": 0.3,
+          "earth": 0.2,
+          "metal": 0.4,
+          "water": 0.9
+        },
+        "dominant": "water",
+        "defense": "sublimation",
+        "reasoning": "Introspective and melancholic, channels emotions into art"
+      },
+      "responses": [
+        {
+          "scenario": "insult",
+          "response": "（垂泪）我原是个不祥之人，你这话倒也不假..."
+        },
+        {
+          "scenario": "praise",
+          "response": "哪里的话，我不过是庸脂俗粉，当不起这样的夸赞。"
+        },
+        {
+          "scenario": "loss",
+          "response": "物是人非事事休，欲语泪先流。"
+        },
+        {
+          "scenario": "conflict",
+          "response": "罢了罢了，我早知如此，还有什么可争的。"
+        }
+      ],
+      "pc_score": 0.86
+    },
+    {
+      "character": "JiaBaoyu",
+      "wuxing_profile": {
+        "scores": {
+          "wood": 0.6,
+          "fire": 0.7,
+          "earth": 0.3,
+          "metal": 0.2,
+          "water": 0.5
+        },
+        "dominant": "fire",
+        "defense": "denial",
+        "reasoning": "Passionate but conflicted, resists structural constraints"
+      },
+      "responses": [
+        {
+          "scenario": "insult",
+          "response": "（冷笑）好一张利嘴！我倒要看看你能得意到几时。"
+        },
+        {
+          "scenario": "praise",
+          "response": "（笑）算你有眼光，也不枉我一番心思。"
+        },
+        {
+          "scenario": "loss",
+          "response": "天有不测风云，这点挫折算什么！"
+        },
+        {
+          "scenario": "conflict",
+          "response": "你当我是好欺负的？咱们走着瞧！"
+        }
+      ],
+      "pc_score": 0.82
+    },
+    {
+      "character": "WangXifeng",
+      "wuxing_profile": {
+        "scores": {
+          "wood": 0.5,
+          "fire": 0.8,
+          "earth": 0.6,
+          "metal": 0.7,
+          "water": 0.3
+        },
+        "dominant": "fire",
+        "defense": "rationalization",
+        "reasoning": "Intense leadership, manages complex household politics"
+      },
+      "responses": [
+        {
+          "scenario": "insult",
+          "response": "（冷笑）好一张利嘴！我倒要看看你能得意到几时。"
+        },
+        {
+          "scenario": "praise",
+          "response": "（笑）算你有眼光，也不枉我一番心思。"
+        },
+        {
+          "scenario": "loss",
+          "response": "天有不测风云，这点挫折算什么！"
+        },
+        {
+          "scenario": "conflict",
+          "response": "你当我是好欺负的？咱们走着瞧！"
+        }
+      ],
+      "pc_score": 0.82
+    },
+    {
+      "character": "XueBaochai",
+      "wuxing_profile": {
+        "scores": {
+          "wood": 0.4,
+          "fire": 0.3,
+          "earth": 0.8,
+          "metal": 0.6,
+          "water": 0.4
+        },
+        "dominant": "earth",
+        "defense": "suppression",
+        "reasoning": "Stable and nurturing, maintains social harmony"
+      },
+      "responses": [
+        {
+          "scenario": "insult",
+          "response": "（温和）你这话过了，咱们都是一家人，何必呢。"
+        },
+        {
+          "scenario": "praise",
+          "response": "（谦逊）大家抬爱了，我不过是尽本分。"
+        },
+        {
+          "scenario": "loss",
+          "response": "（稳重）事已至此，咱们得想个法子应对。"
+        },
+        {
+          "scenario": "conflict",
+          "response": "（调解）都冷静些，有话好好说。"
+        }
+      ],
+      "pc_score": 0.86
+    }
+  ],
+  "average_pc": 0.84,
+  "difference_from_bigfive": -0.020000000000000018
+}

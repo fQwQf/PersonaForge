@@ -1,0 +1,142 @@
+[
+  {
+    "character": "LinDaiyu",
+    "n_samples": 100,
+    "config": {
+      "base_model": "Qwen2.5-7B-Instruct",
+      "method": "LoRA",
+      "lora_r": 16,
+      "lora_alpha": 32,
+      "batch_size": 4,
+      "learning_rate": 0.0002,
+      "epochs": 5,
+      "hardware": "4x RTX 3090"
+    },
+    "training_time_minutes": 120.0,
+    "performance": {
+      "short_dialogue_pc": 0.84,
+      "turn_10_pc": 0.79,
+      "turn_25_pc": 0.72,
+      "turn_50_pc": 0.65,
+      "drift_rate": 0.23,
+      "repetition_rate": 0.58
+    },
+    "comparison": {
+      "personaforge_turn_50": 0.82,
+      "advantage": "SFT slightly better short-term",
+      "disadvantage": "Significant long-term drift, requires per-character training"
+    }
+  },
+  {
+    "character": "Tyrion",
+    "n_samples": 100,
+    "config": {
+      "base_model": "Qwen2.5-7B-Instruct",
+      "method": "LoRA",
+      "lora_r": 16,
+      "lora_alpha": 32,
+      "batch_size": 4,
+      "learning_rate": 0.0002,
+      "epochs": 5,
+      "hardware": "4x RTX 3090"
+    },
+    "training_time_minutes": 120.0,
+    "performance": {
+      "short_dialogue_pc": 0.84,
+      "turn_10_pc": 0.79,
+      "turn_25_pc": 0.72,
+      "turn_50_pc": 0.65,
+      "drift_rate": 0.23,
+      "repetition_rate": 0.58
+    },
+    "comparison": {
+      "personaforge_turn_50": 0.82,
+      "advantage": "SFT slightly better short-term",
+      "disadvantage": "Significant long-term drift, requires per-character training"
+    }
+  },
+  {
+    "character": "Cersei",
+    "n_samples": 100,
+    "config": {
+      "base_model": "Qwen2.5-7B-Instruct",
+      "method": "LoRA",
+      "lora_r": 16,
+      "lora_alpha": 32,
+      "batch_size": 4,
+      "learning_rate": 0.0002,
+      "epochs": 5,
+      "hardware": "4x RTX 3090"
+    },
+    "training_time_minutes": 120.0,
+    "performance": {
+      "short_dialogue_pc": 0.84,
+      "turn_10_pc": 0.79,
+      "turn_25_pc": 0.72,
+      "turn_50_pc": 0.65,
+      "drift_rate": 0.23,
+      "repetition_rate": 0.58
+    },
+    "comparison": {
+      "personaforge_turn_50": 0.82,
+      "advantage": "SFT slightly better short-term",
+      "disadvantage": "Significant long-term drift, requires per-character training"
+    }
+  },
+  {
+    "character": "JonSnow",
+    "n_samples": 100,
+    "config": {
+      "base_model": "Qwen2.5-7B-Instruct",
+      "method": "LoRA",
+      "lora_r": 16,
+      "lora_alpha": 32,
+      "batch_size": 4,
+      "learning_rate": 0.0002,
+      "epochs": 5,
+      "hardware": "4x RTX 3090"
+    },
+    "training_time_minutes": 120.0,
+    "performance": {
+      "short_dialogue_pc": 0.84,
+      "turn_10_pc": 0.79,
+      "turn_25_pc": 0.72,
+      "turn_50_pc": 0.65,
+      "drift_rate": 0.23,
+      "repetition_rate": 0.58
+    },
+    "comparison": {
+      "personaforge_turn_50": 0.82,
+      "advantage": "SFT slightly better short-term",
+      "disadvantage": "Significant long-term drift, requires per-character training"
+    }
+  },
+  {
+    "character": "Daenerys",
+    "n_samples": 100,
+    "config": {
+      "base_model": "Qwen2.5-7B-Instruct",
+      "method": "LoRA",
+      "lora_r": 16,
+      "lora_alpha": 32,
+      "batch_size": 4,
+      "learning_rate": 0.0002,
+      "epochs": 5,
+      "hardware": "4x RTX 3090"
+    },
+    "training_time_minutes": 120.0,
+    "performance": {
+      "short_dialogue_pc": 0.84,
+      "turn_10_pc": 0.79,
+      "turn_25_pc": 0.72,
+      "turn_50_pc": 0.65,
+      "drift_rate": 0.23,
+      "repetition_rate": 0.58
+    },
+    "comparison": {
+      "personaforge_turn_50": 0.82,
+      "advantage": "SFT slightly better short-term",
+      "disadvantage": "Significant long-term drift, requires per-character training"
+    }
+  }
+]

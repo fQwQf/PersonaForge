@@ -1,0 +1,32 @@
+{
+  "model": "LinDaiyu_SFT_200samples",
+  "training_time_minutes": 5.1,
+  "n_samples": 193,
+  "results": [
+    {
+      "scenario": "宝玉送花",
+      "input": "宝玉送花给你，最后才送到",
+      "response": "我不要。"
+    },
+    {
+      "scenario": "宝钗被夸",
+      "input": "有人夸宝钗比你稳重",
+      "response": "我原不如别人。"
+    },
+    {
+      "scenario": "宝玉迟到",
+      "input": "宝玉回来晚了，身上有香水味",
+      "response": "他跟别的姑娘调笑去了？"
+    },
+    {
+      "scenario": "落花",
+      "input": "看到落花被践踏",
+      "response": "花儿本自无相犯，月里嫦娥冷如霜。"
+    },
+    {
+      "scenario": "生病",
+      "input": "你又咳嗽了",
+      "response": "不过是咳嗽，不用这么劳神。"
+    }
+  ]
+}

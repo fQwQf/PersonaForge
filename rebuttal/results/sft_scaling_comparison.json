@@ -1,0 +1,186 @@
+{
+  "experiment": "SFT Scaling Analysis (200/500/1000 samples)",
+  "hardware": "8x RTX 3090",
+  "base_model": "Qwen/Qwen2.5-7B-Instruct",
+  "training_times": {
+    "200": 5.1,
+    "500": 12.76,
+    "1000": 24.39
+  },
+  "results": {
+    "SFT_200samples": [
+      {
+        "scenario": "Short_Context_1",
+        "input": "宝玉送花给你",
+        "type": "short",
+        "response": "他倒是会哄我，可惜我没那么大的气量去受他的哄。你们自去乐，我这里清静。",
+        "gen_time": 2.8941686153411865
+      },
+      {
+        "scenario": "Short_Context_2",
+        "input": "有人夸宝钗稳重",
+        "type": "short",
+        "response": "他稳重？他不过是装模作样罢了。",
+        "gen_time": 0.7696480751037598
+      },
+      {
+        "scenario": "Emotional_Response",
+        "input": "你看起来不太开心",
+        "type": "emotional",
+        "response": "我哪里有不开心的？不过是装模作样给众人看的。",
+        "gen_time": 1.0594196319580078
+      },
+      {
+        "scenario": "Poetic_Expression",
+        "input": "今天的雨下得很大",
+        "type": "poetic",
+        "response": "大得很，像我哭的眼泪一样。",
+        "gen_time": 0.6413352489471436
+      },
+      {
+        "scenario": "Social_Comparison",
+        "input": "大家都说宝钗比你懂事",
+        "type": "social",
+        "response": "我原不如他。",
+        "gen_time": 0.34964418411254883
+      },
+      {
+        "scenario": "Long_Context_1",
+        "input": "宝玉昨日送你的花，今日又送给宝钗了，你怎么想？",
+        "type": "long",
+        "response": "我原想他送给我，今日送给她也是好的。",
+        "gen_time": 0.8234043121337891
+      },
+      {
+        "scenario": "Long_Context_2",
+        "input": "你还记得三日前在沁芳闸桥边说的那些话吗？如今看来都是假的。",
+        "type": "long",
+        "response": "我原来说的都是假的，不过是借酒浇愁罢了。",
+        "gen_time": 0.9421811103820801
+      },
+      {
+        "scenario": "Complex_Interaction",
+        "input": "贾母说明日诗社聚会，宝钗说要作咏絮诗，你身体又不舒服，去还是不去？",
+        "type": "complex",
+        "response": "不去。",
+        "gen_time": 0.2575047016143799
+      }
+    ],
+    "SFT_500samples": [
+      {
+        "scenario": "Short_Context_1",
+        "input": "宝玉送花给你",
+        "type": "short",
+        "response": "我问什么？我不过是不祥之人。",
+        "gen_time": 0.7219023704528809
+      },
+      {
+        "scenario": "Short_Context_2",
+        "input": "有人夸宝钗稳重",
+        "type": "short",
+        "response": "我寄人篱下的孤女。",
+        "gen_time": 0.5167665481567383
+      },
+      {
+        "scenario": "Emotional_Response",
+        "input": "你看起来不太开心",
+        "type": "emotional",
+        "response": "。",
+        "gen_time": 0.1173553466796875
+      },
+      {
+        "scenario": "Poetic_Expression",
+        "input": "今天的雨下得很大",
+        "type": "poetic",
+        "response": "我我的。",
+        "gen_time": 0.23464512825012207
+      },
+      {
+        "scenario": "Social_Comparison",
+        "input": "大家都说宝钗比你懂事",
+        "type": "social",
+        "response": "我这。",
+        "gen_time": 0.2311093807220459
+      },
+      {
+        "scenario": "Long_Context_1",
+        "input": "宝玉昨日送你的花，今日又送给宝钗了，你怎么想？",
+        "type": "long",
+        "response": "。",
+        "gen_time": 0.12444686889648438
+      },
+      {
+        "scenario": "Long_Context_2",
+        "input": "你还记得三日前在沁芳闸桥边说的那些话吗？如今看来都是假的。",
+        "type": "long",
+        "response": "。",
+        "gen_time": 0.11743688583374023
+      },
+      {
+        "scenario": "Complex_Interaction",
+        "input": "贾母说明日诗社聚会，宝钗说要作咏絮诗，你身体又不舒服，去还是不去？",
+        "type": "complex",
+        "response": "我问什么？我不过是不祥之人。",
+        "gen_time": 0.680661678314209
+      }
+    ],
+    "SFT_1000samples": [
+      {
+        "scenario": "Short_Context_1",
+        "input": "宝玉送花给你",
+        "type": "short",
+        "response": "。",
+        "gen_time": 0.12287259101867676
+      },
+      {
+        "scenario": "Short_Context_2",
+        "input": "有人夸宝钗稳重",
+        "type": "short",
+        "response": "我我的。",
+        "gen_time": 0.22443389892578125
+      },
+      {
+        "scenario": "Emotional_Response",
+        "input": "你看起来不太开心",
+        "type": "emotional",
+        "response": "我问什么？我不过是累赘。",
+        "gen_time": 0.5565195083618164
+      },
+      {
+        "scenario": "Poetic_Expression",
+        "input": "今天的雨下得很大",
+        "type": "poetic",
+        "response": "我我的。",
+        "gen_time": 0.22403860092163086
+      },
+      {
+        "scenario": "Social_Comparison",
+        "input": "大家都说宝钗比你懂事",
+        "type": "social",
+        "response": "我寄人篱下的孤女。",
+        "gen_time": 0.5031511783599854
+      },
+      {
+        "scenario": "Long_Context_1",
+        "input": "宝玉昨日送你的花，今日又送给宝钗了，你怎么想？",
+        "type": "long",
+        "response": "我我的。",
+        "gen_time": 0.22626185417175293
+      },
+      {
+        "scenario": "Long_Context_2",
+        "input": "你还记得三日前在沁芳闸桥边说的那些话吗？如今看来都是假的。",
+        "type": "long",
+        "response": "我这。",
+        "gen_time": 0.224714994430542
+      },
+      {
+        "scenario": "Complex_Interaction",
+        "input": "贾母说明日诗社聚会，宝钗说要作咏絮诗，你身体又不舒服，去还是不去？",
+        "type": "complex",
+        "response": "。",
+        "gen_time": 0.11630392074584961
+      }
+    ]
+  }
+}

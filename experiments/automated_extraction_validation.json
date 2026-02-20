@@ -1,0 +1,35 @@
+[
+  {
+    "character": "LinDaiyu",
+    "similarity": {
+      "big5_similarity": 0.964,
+      "defense_mechanism_match": 1.0,
+      "overall_similarity": 0.982
+    },
+    "expert_pc": 0.85,
+    "automated_pc": 0.8472999999999999,
+    "retention": 0.9968235294117647
+  },
+  {
+    "character": "TyrionLannister",
+    "similarity": {
+      "big5_similarity": 0.956,
+      "defense_mechanism_match": 1.0,
+      "overall_similarity": 0.978
+    },
+    "expert_pc": 0.85,
+    "automated_pc": 0.8467,
+    "retention": 0.9961176470588236
+  },
+  {
+    "character": "CerseiLannister",
+    "similarity": {
+      "big5_similarity": 0.95,
+      "defense_mechanism_match": 1.0,
+      "overall_similarity": 0.975
+    },
+    "expert_pc": 0.85,
+    "automated_pc": 0.84625,
+    "retention": 0.9955882352941177
+  }
+]

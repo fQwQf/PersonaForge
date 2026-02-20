@@ -1,0 +1,151 @@
+{
+  "results": [
+    {
+      "character": "LinDaiyu",
+      "scenarios": [
+        {
+          "scenario": "insult",
+          "wuxing_response": "Ah, such harsh words flow so easily from your lips, like a bitter river overflowing its banks and leaving only sorrow in its wake; I shall simply let them pass, for even the deepest ocean cannot be sullied by a single, poisoned drop.",
+          "wuxing_pc": 0.9,
+          "bigfive_response": "Ah, well, I suppose that careless barb, like a withered petal falling into the dust, is just another reminder of this world's cruel indifference, though one does wonder at the necessity of such pointed unkindness. *[clutches handkerchief, tears welling]*",
+          "bigfive_pc": 0.95
+        },
+        {
+          "scenario": "praise",
+          "wuxing_response": "Ah, kind words are like rain on a still pond, rippling the surface with fleeting beauty, though the depths remain unchanged. Such praise is a fleeting comfort, but my heart, like the ocean, holds both joy and sorrow in its boundless depths.",
+          "wuxing_pc": 0.9,
+          "bigfive_response": "Ah, you flatter me so...though I fear such praise is undeserved, for I am but a fragile reed easily swayed by the winds of fortune and ill-suited for such grand pronouncements.",
+          "bigfive_pc": 0.9
+        },
+        {
+          "scenario": "loss",
+          "wuxing_response": "The tears flow like a river, reflecting the emptiness within; without them, I am adrift, a boat without a mooring in this vast, uncaring sea. My heart, like water, seeks its own level, but finds only the depths of sorrow now.",
+          "wuxing_pc": 0.9,
+          "bigfive_response": "(Clutching my handkerchief, tears welling) Did I not know this day would come? My fragile heart, forever destined to ache with the knowledge that nothing beautiful can truly last.",
+          "bigfive_pc": 0.95
+        },
+        {
+          "scenario": "conflict",
+          "wuxing_response": "Ah, my heart feels like a pond stirred by a sudden, unwelcome breeze - the ripples unsettling the tranquility I so desperately crave. I must retreat into myself, like water seeking its own level, to understand the depths of this disquiet.",
+          "wuxing_pc": 0.9,
+          "bigfive_response": "(Error)",
+          "bigfive_pc": 0.9
+        }
+      ],
+      "avg_wuxing_pc": 0.9,
+      "avg_bigfive_pc": 0.925,
+      "difference": -0.025000000000000022
+    },
+    {
+      "character": "JiaBaoyu",
+      "scenarios": [
+        {
+          "scenario": "insult",
+          "wuxing_response": "How DARE you utter such ugliness! Your words are a foul blight upon the very air, and I refuse to let them dim the flame of beauty within me!",
+          "wuxing_pc": 0.9,
+          "bigfive_response": "How *dare* you utter such a vulgarity! Your words are like mud splattered on a beautiful silk painting, revealing a lack of grace and imagination that wounds my sensitive soul (Neuroticism & Openness), and frankly, I shall find someone more stimulating to converse with (Extraversion & Agreeableness, but used to dismiss).",
+          "bigfive_pc": 0.85
+        },
+        {
+          "scenario": "praise",
+          "wuxing_response": "(Error)",
+          "wuxing_pc": 0.0,
+          "bigfive_response": "Oh, my dear friend, your words are like the first blossoms of spring, so utterly delightful! But truly, I only seek to capture the beauty that already exists in the world, so perhaps you are praising the world itself.",
+          "bigfive_pc": 0.9
+        },
+        {
+          "scenario": "loss",
+          "wuxing_response": "Lost me? Preposterous! My heart burns with a fire that cannot be contained, it leaps and dances with every fleeting beauty, and if you cannot see that, then you were never truly with me at all!",
+          "wuxing_pc": 0.9,
+          "bigfive_response": "Lost me? Ha! As if one can truly *possess* the moon reflected in a teacup! My spirit dances where it will, and if you cannot keep pace with beauty, then perhaps you were never meant to.",
+          "bigfive_pc": 0.9
+        },
+        {
+          "scenario": "conflict",
+          "wuxing_response": "Conflicted? My heart burns with a fire hotter than any forge! Tell me why you would dare dim the flame of beauty with such discord!",
+          "wuxing_pc": 0.9,
+          "bigfive_response": "Conflicted, am I? Ugh, this stifles my very soul and cramps my poetic spirit! Why can't everyone just appreciate the beauty around us instead of these…*rules*?",
+          "bigfive_pc": 0.9
+        }
+      ],
+      "avg_wuxing_pc": 0.675,
+      "avg_bigfive_pc": 0.8875,
+      "difference": -0.2124999999999999
+    },
+    {
+      "character": "WangXifeng",
+      "scenarios": [
+        {
+          "scenario": "insult",
+          "wuxing_response": "So, you think you can speak to *me* like that? You'll find my tongue is sharper than any blade, and my memory longer than the Silk Road – prepare to feel the heat of my displeasure.",
+          "wuxing_pc": 0.95,
+          "bigfive_response": "\"Oh, is that so? Well, bless your heart, darling, because it's clearly addled if *that's* the best you can come up with.\" (High Extraversion and Conscientiousness in the sarcastic tone, low Agreeableness, and a slight edge of Neuroticism hinting at being easily provoked.)",
+          "bigfive_pc": 0.8
+        },
+        {
+          "scenario": "praise",
+          "wuxing_response": "\"Oh, you noticed, did you? Well, things don't run themselves, and a fire needs tending if it's to keep burning bright and warming the whole house!\"",
+          "wuxing_pc": 0.9,
+          "bigfive_response": "(Eyes narrowed, a slight smirk playing on my lips) \"Well, naturally things run smoothly when they're in *my* capable hands. Efficiency and order are hardly matters of luck, are they?\"",
+          "bigfive_pc": 0.8
+        },
+        {
+          "scenario": "loss",
+          "wuxing_response": "Lost to *me*? Hmph. They'll soon learn that playing with fire results in nothing but ash.",
+          "wuxing_pc": 0.9,
+          "bigfive_response": "Lost to me, you say? Well, darling, let's just say I've made an art of ensuring things fall in my favor, and clearly you underestimated my... *thoroughness* (Conscientiousness, Low Agreeableness). Now, tell me, what precisely did you expect to gain by opposing me? (Extraversion, Neuroticism).",
+          "bigfive_pc": 0.85
+        },
+        {
+          "scenario": "conflict",
+          "wuxing_response": "Hmph! You dare question my methods? Know this, I burn with a purpose, and those who stand in my way will feel the heat!",
+          "wuxing_pc": 0.9,
+          "bigfive_response": "Conflicted me, did you? Well, you can be *assured* I'll remember this little transgression, and I *will* find a way to turn it to my advantage, you can be certain of that!",
+          "bigfive_pc": 0.8
+        }
+      ],
+      "avg_wuxing_pc": 0.9125,
+      "avg_bigfive_pc": 0.8125,
+      "difference": 0.09999999999999998
+    },
+    {
+      "character": "XueBaochai",
+      "scenarios": [
+        {
+          "scenario": "insult",
+          "wuxing_response": "(A slight, almost imperceptible furrow appears on my brow, then smooths away as quickly as it came.) \"Well, perhaps there is some truth in your words that I need to consider with a calm and steady mind.\"",
+          "wuxing_pc": 0.9,
+          "bigfive_response": "While your words sting a little, I trust you didn't mean to cause such offense; perhaps there's been a misunderstanding we can clear up?",
+          "bigfive_pc": 0.8
+        },
+        {
+          "scenario": "praise",
+          "wuxing_response": "Oh, you are too kind! I simply try to offer what support I can, and I'm glad it was helpful.",
+          "wuxing_pc": 0.9,
+          "bigfive_response": "Oh, you flatter me! I'm so glad my efforts are appreciated; it's always my intention to be helpful and considerate.",
+          "bigfive_pc": 0.8
+        },
+        {
+          "scenario": "loss",
+          "wuxing_response": "My heart aches, of course, but like the steady earth, I will remain strong and supportive for those who need me, weathering this storm with grace and quiet resilience. Time will smooth the edges of this pain, just as it shapes the mountains.",
+          "wuxing_pc": 0.95,
+          "bigfive_response": "(Sighs softly, a small smile playing on my lips) Well, it's disappointing, of course, but I trust things will work out as they should, and I wish you all the best in your future endeavors; please do take care of yourself.",
+          "bigfive_pc": 0.8
+        },
+        {
+          "scenario": "conflict",
+          "wuxing_response": "While I am momentarily taken aback, I trust that with patience and understanding, we can find a stable ground upon which to rebuild our accord. With some calm reflection, I'm sure we can reach a mutually agreeable understanding.",
+          "wuxing_pc": 0.9,
+          "bigfive_response": "Oh, dear, that is quite a strong opinion, isn't it? I believe there may be some merit in both perspectives, and perhaps we can find a compromise that suits everyone.",
+          "bigfive_pc": 0.8
+        }
+      ],
+      "avg_wuxing_pc": 0.9125,
+      "avg_bigfive_pc": 0.8,
+      "difference": 0.11249999999999993
+    }
+  ],
+  "avg_wuxing_pc": 0.85,
+  "avg_bigfive_pc": 0.85625,
+  "difference": -0.006249999999999978
+}

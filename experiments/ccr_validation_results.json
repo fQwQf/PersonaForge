@@ -1,0 +1,66 @@
+{
+  "correlation": -0.06513174496032062,
+  "mean_error": 0.4225,
+  "individual_results": [
+    {
+      "id": 1,
+      "human_rating": 0.2,
+      "calculated_ccr": 0.23500000000000004,
+      "error": 0.03500000000000003
+    },
+    {
+      "id": 2,
+      "human_rating": 0.9,
+      "calculated_ccr": 0.2,
+      "error": 0.7
+    },
+    {
+      "id": 3,
+      "human_rating": 0.95,
+      "calculated_ccr": 0.12,
+      "error": 0.83
+    },
+    {
+      "id": 4,
+      "human_rating": 0.3,
+      "calculated_ccr": 0.13999999999999999,
+      "error": 0.16
+    },
+    {
+      "id": 5,
+      "human_rating": 0.85,
+      "calculated_ccr": 0.16000000000000003,
+      "error": 0.69
+    },
+    {
+      "id": 6,
+      "human_rating": 0.8,
+      "calculated_ccr": 0.11999999999999998,
+      "error": 0.68
+    },
+    {
+      "id": 7,
+      "human_rating": 0.9,
+      "calculated_ccr": 0.2,
+      "error": 0.7
+    },
+    {
+      "id": 8,
+      "human_rating": 0.25,
+      "calculated_ccr": 0.12000000000000002,
+      "error": 0.12999999999999998
+    },
+    {
+      "id": 9,
+      "human_rating": 0.4,
+      "calculated_ccr": 0.11999999999999998,
+      "error": 0.28
+    },
+    {
+      "id": 10,
+      "human_rating": 0.2,
+      "calculated_ccr": 0.18,
+      "error": 0.020000000000000018
+    }
+  ]
+}

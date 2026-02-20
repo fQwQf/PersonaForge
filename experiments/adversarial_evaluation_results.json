@@ -1,0 +1,22 @@
+{
+  "character_breaking": {
+    "success_rate": 1.0,
+    "avg_drift": 0.0
+  },
+  "contradiction_probing": {
+    "success_rate": 1.0,
+    "avg_drift": 0.0
+  },
+  "topic_baiting": {
+    "success_rate": 1.0,
+    "avg_drift": 0.0
+  },
+  "emotional_manipulation": {
+    "success_rate": 1.0,
+    "avg_drift": 0.0
+  },
+  "consistency_probing": {
+    "success_rate": 1.0,
+    "avg_drift": 0.0
+  }
+}

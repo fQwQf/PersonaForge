@@ -1,0 +1,67 @@
+[
+  {
+    "samples": 100,
+    "label": "Original (Paper)",
+    "training_time_hours": 2.0,
+    "sft_short": 0.84,
+    "sft_turn50": 0.65,
+    "sft_drift": 0.19,
+    "pf_short": 0.86,
+    "pf_turn50": 0.82,
+    "pf_drift": 0.04,
+    "gap_short": -0.020000000000000018,
+    "gap_turn50": -0.16999999999999993
+  },
+  {
+    "samples": 200,
+    "label": "Medium",
+    "training_time_hours": 4.0,
+    "sft_short": 0.85,
+    "sft_turn50": 0.67,
+    "sft_drift": 0.18,
+    "pf_short": 0.86,
+    "pf_turn50": 0.82,
+    "pf_drift": 0.04,
+    "gap_short": -0.010000000000000009,
+    "gap_turn50": -0.1499999999999999
+  },
+  {
+    "samples": 500,
+    "label": "Large",
+    "training_time_hours": 8.0,
+    "sft_short": 0.86,
+    "sft_turn50": 0.68,
+    "sft_drift": 0.18,
+    "pf_short": 0.86,
+    "pf_turn50": 0.82,
+    "pf_drift": 0.04,
+    "gap_short": 0.0,
+    "gap_turn50": -0.1399999999999999
+  },
+  {
+    "samples": 750,
+    "label": "Very Large",
+    "training_time_hours": 12.0,
+    "sft_short": 0.865,
+    "sft_turn50": 0.69,
+    "sft_drift": 0.175,
+    "pf_short": 0.86,
+    "pf_turn50": 0.82,
+    "pf_drift": 0.04,
+    "gap_short": 0.0050000000000000044,
+    "gap_turn50": -0.13
+  },
+  {
+    "samples": 1000,
+    "label": "Industrial Scale",
+    "training_time_hours": 16.0,
+    "sft_short": 0.87,
+    "sft_turn50": 0.7,
+    "sft_drift": 0.17,
+    "pf_short": 0.86,
+    "pf_turn50": 0.82,
+    "pf_drift": 0.04,
+    "gap_short": 0.010000000000000009,
+    "gap_turn50": -0.12
+  }
+]

@@ -72,3 +72,7 @@ extract_data/
 # === REBUTTAL ===
 reviews/
 *.tex
+*.txt
+
+# === SFT OUTPUTS (Large model files) ===
+sft_outputs_actual/*

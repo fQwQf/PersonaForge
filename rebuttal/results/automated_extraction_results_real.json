@@ -1,0 +1,95 @@
+[
+  {
+    "character": "LinDaiyu",
+    "expert_profile": {
+      "big_five": {
+        "O": 0.85,
+        "C": 0.45,
+        "E": 0.25,
+        "A": 0.35,
+        "N": 0.9
+      },
+      "defense_mechanism": "Sublimation",
+      "speaking_style": "Poetic, melancholic, sharp-tongued, indirect",
+      "source": "Expert annotation by 3 psychologists"
+    },
+    "extracted_profile": {
+      "big_five": {
+        "O": 0.8,
+        "C": 0.3,
+        "E": 0.2,
+        "A": 0.2,
+        "N": 0.9
+      },
+      "defense_mechanism": "Sublimation"
+    },
+    "similarity": {
+      "big5_similarity": 0.92,
+      "defense_mechanism_match": 1.0,
+      "overall_similarity": 0.96
+    },
+    "retention": 0.844
+  },
+  {
+    "character": "TyrionLannister",
+    "expert_profile": {
+      "big_five": {
+        "O": 0.9,
+        "C": 0.7,
+        "E": 0.65,
+        "A": 0.4,
+        "N": 0.55
+      },
+      "defense_mechanism": "Humor",
+      "speaking_style": "Witty, cynical, intellectual, self-deprecating",
+      "source": "Expert annotation by 3 psychologists"
+    },
+    "extracted_profile": {
+      "big_five": {
+        "O": 0.8,
+        "C": 0.6,
+        "E": 0.4,
+        "A": 0.5,
+        "N": 0.6
+      },
+      "defense_mechanism": "Humor"
+    },
+    "similarity": {
+      "big5_similarity": 0.88,
+      "defense_mechanism_match": 1.0,
+      "overall_similarity": 0.94
+    },
+    "retention": 0.841
+  },
+  {
+    "character": "CerseiLannister",
+    "expert_profile": {
+      "big_five": {
+        "O": 0.6,
+        "C": 0.8,
+        "E": 0.75,
+        "A": 0.2,
+        "N": 0.7
+      },
+      "defense_mechanism": "Projection",
+      "speaking_style": "Commanding, manipulative, protective",
+      "source": "Expert annotation by 3 psychologists"
+    },
+    "extracted_profile": {
+      "big_five": {
+        "O": 0.3,
+        "C": 0.6,
+        "E": 0.7,
+        "A": 0.1,
+        "N": 0.9
+      },
+      "defense_mechanism": "Projection"
+    },
+    "similarity": {
+      "big5_similarity": 0.83,
+      "defense_mechanism_match": 1.0,
+      "overall_similarity": 0.915
+    },
+    "retention": 0.8372499999999999
+  }
+]

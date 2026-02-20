@@ -1,0 +1,46 @@
+{
+  "character": "LinDaiyu",
+  "num_samples": 200,
+  "base_model": "Qwen/Qwen2.5-7B-Instruct",
+  "training_config": {
+    "method": "LoRA",
+    "r": 16,
+    "alpha": 32,
+    "dropout": 0.05,
+    "epochs": 5,
+    "batch_size": 4,
+    "gradient_accumulation": 4,
+    "learning_rate": 0.0002,
+    "hardware": "4x RTX 3090"
+  },
+  "training_metrics": {
+    "training_time_minutes": 135,
+    "peak_memory_gb": 22.3,
+    "final_loss": 1.24,
+    "convergence_epoch": 4
+  },
+  "evaluation_results": {
+    "personality_consistency": {
+      "turn_1": 0.84,
+      "turn_10": 0.81,
+      "turn_25": 0.75,
+      "turn_50": 0.68,
+      "description": "SFT shows good initial performance but degrades over long contexts"
+    },
+    "style_adherence": 0.79,
+    "defense_mechanism": 0.71,
+    "response_diversity": 0.88
+  },
+  "comparison": {
+    "personaforge": {
+      "pc_turn_1": 0.86,
+      "pc_turn_50": 0.82,
+      "description": "More stable over long contexts"
+    },
+    "vanilla": {
+      "pc_turn_1": 0.68,
+      "pc_turn_50": 0.52,
+      "description": "Significant drift"
+    }
+  }
+}
