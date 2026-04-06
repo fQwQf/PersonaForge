@@ -1,23 +1,28 @@
-# PersonaForge
+# 🎭 PersonaForge
+
+<div align="center">
+
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-b31b1b.svg)](/forum?id=D8JJ7iaXAh)
+[![Conference](https://img.shields.io/badge/ACL_2026-Findings-success.svg)]()
 
 **Psychology-Grounded Dual-Process Architecture for Personality-Consistent Role-Playing Agents**
 
-> Anonymous submission for ACL 2025
+</div>
+
+> 🎉 PersonaForge has been accepted to **ACL 2026 Findings**! 
 
 ## Overview
 
-PersonaForge is a framework that combines **(1) a three-layer personality architecture** grounded in psychological theory and **(2) a dual-process generation mechanism** inspired by cognitive science to enable personality-consistent role-playing with Large Language Models.
+Large Language Models excel at role-playing but struggle to maintain consistent personalities across extended multi-turn interactions. **PersonaForge** is a framework that combines a three-layer personality architecture grounded in psychological theory with a dual-process generation mechanism inspired by cognitive science to enable personality-consistent, long-term role-playing.
 
 ### Key Contributions
 
-1. **Three-Layer Personality Architecture**: Functionally decomposed structure where:
-   - **Core Traits Layer**: Big Five personality scores + Defense Mechanisms
-   - **Speaking Style Layer**: Linguistic patterns orthogonal to traits
-   - **Dynamic State Layer**: Tracks mood, energy, and relationship evolution
-
-2. **Selective Dual-Process Generation**: A "Think-then-Speak" mechanism that activates only for critical interactions (~40% of turns), achieving 96% of full dual-process performance at 89% cost.
-
-3. **Rigorous Evaluation**: Experiments on 88 characters across 5 cultural domains, with a 50-turn long-dialogue benchmark measuring drift, recovery, and psychological consistency.
+* **Three-Layer Personality Architecture:** A functionally decomposed structure integrating **Core Traits** (Big Five / Wu Xing), **Speaking Style**, and **Dynamic State** (mood, energy, relationships).
+* **Selective Dual-Process Generation:** A "Think-then-Speak" Inner Monologue mechanism that activates only for critical interactions (~40% of turns), achieving 96% of full dual-process performance with only 13.4% token overhead.
+* **Long-Dialogue Robustness:** Proven to significantly reduce drift over 50-turn conversations (6.3% drift vs. 31.7% baseline), heavily outperforming standard LoRA SFT approaches in long-context scenarios.
+* **Real-Time Viable:** Features an Asynchronous State Update mechanism, reducing perceived latency to standard single-pass LLM speeds (~0.94s) without sacrificing consistency.
+* **Culturally Adaptable:** Ontology-agnostic architecture compatible with diverse psychological frameworks.
 
 ---
 
@@ -42,6 +47,7 @@ PersonaForge/
 │   └── configs/                  # Experiment configurations
 ├── data/                         # Character profiles & world settings
 │   └── roles/                    # 88 character profiles (JSON)
+├── rebuttal/                     # For rebuttal
 └── requirements.txt              # Python dependencies
 ```
 
@@ -58,7 +64,7 @@ PersonaForge/
 
 ```bash
 # Clone repository
-git clone <repository-url>
+git clone https://github.com/fQwQf/PersonaForge
 cd PersonaForge
 
 # Create virtual environment (recommended)
@@ -226,11 +232,11 @@ python experiments/run_opensource_experiment.py
 If you use PersonaForge in your research, please cite:
 
 ```bibtex
-@inproceedings{anonymous2025personaforge,
+@inproceedings{tong2026personaforge,
   title={PersonaForge: Psychology-Grounded Dual-Process Architecture for Personality-Consistent Role-Playing Agents},
-  author={Anonymous},
-  booktitle={Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics},
-  year={2025}
+  author={Tong, Jizhou and Zou, Sirui},
+  booktitle={Findings of the Association for Computational Linguistics: ACL 2026},
+  year={2026}
 }
 ```
 
@@ -244,4 +250,4 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ## Acknowledgments
 
-This codebase is built upon the **BookWorld** multi-agent simulation framework (Ran et al., 2025). We thank the authors for releasing their code, which served as the foundation for our agent interaction loop.
+This codebase is built upon the [**BookWorld**](https://github.com/alienet1109/BookWorld) multi-agent simulation framework (Ran et al., 2025). We thank the authors for releasing their code, which served as the foundation for our agent interaction loop.
