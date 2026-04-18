@@ -50,7 +50,6 @@ paper/*.bbl
 paper/*.blg
 paper/*.out
 paper/*.log
-paper/page9.txt
 
 # === FRONTEND BUILD ARTIFACTS ===
 frontend/node_modules/
@@ -71,7 +70,6 @@ extract_data/
 
 # === REBUTTAL ===
 reviews/
-*.tex
 *.txt
 
 # === SFT OUTPUTS (Large model files) ===
