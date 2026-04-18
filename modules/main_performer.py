@@ -1,5 +1,5 @@
 # Copyright 2025 The BookWorld Authors.
-# Modifications Copyright 2025 anonymous Authors.
+# Modifications Copyright 2026 fQwQf.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.

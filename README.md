@@ -3,8 +3,8 @@
 <div align="center">
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Paper](https://img.shields.io/badge/Paper-OpenReview-b31b1b.svg)](/forum?id=D8JJ7iaXAh)
-[![Conference](https://img.shields.io/badge/ACL_2026-Findings-success.svg)]()
+[![Paper](https://img.shields.io/badge/Paper-Github-b31b1b.svg)](https://github.com/fQwQf/PersonaForge/blob/main/paper/personaforge.pdf)
+[![Conference](https://img.shields.io/badge/ACL_2026-Findings-success.svg)](https://2026.aclweb.org/)
 
 **Psychology-Grounded Dual-Process Architecture for Personality-Consistent Role-Playing Agents**
 
