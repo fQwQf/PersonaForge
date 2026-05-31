@@ -1,0 +1,586 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PersonaForge A3 Academic Poster</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: #222;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            min-height: 100vh;
+            font-family: Arial, Helvetica, sans-serif;
+            padding: 40px 20px;
+        }
+
+        /* Perfect A3 Portrait Proportion (840 x 1188) */
+        .poster-container {
+            width: 840px;
+            height: 1188px; 
+            background-color: #F3C300;
+            position: relative;
+            overflow: hidden;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.8);
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+        }
+
+        /* Top Green Banner */
+        .top-banner {
+            background-color: #8A9A4A;
+            padding: 10px 20px;
+            border-bottom: 3px solid #000;
+            text-align: center;
+        }
+
+        .top-banner p {
+            color: #000;
+            font-size: 18px;
+            font-weight: 900;
+            line-height: 1.3;
+            letter-spacing: 0.5px;
+            text-transform: uppercase;
+            font-family: "Arial Black", Impact, sans-serif;
+        }
+
+        /* Main Title Area */
+        .header-section {
+            text-align: center;
+            padding: 15px 20px 5px 20px;
+            position: relative;
+            z-index: 10;
+        }
+
+        .venue {
+            font-size: 16px;
+            font-weight: bold;
+            color: #d32f2f;
+            margin-bottom: 5px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        .huge-title {
+            font-family: "Arial Black", Impact, sans-serif;
+            font-size: 64px;
+            font-weight: 900;
+            color: #F3C300;
+            letter-spacing: 3px;
+            line-height: 1;
+            margin-bottom: 0px;
+            text-transform: uppercase;
+            /* Heavy black outline for the Jinkela meme effect */
+            text-shadow: 
+                -3px -3px 0 #000,  3px -3px 0 #000,
+                -3px  3px 0 #000,  3px  3px 0 #000,
+                -4px  0   0 #000,  4px  0   0 #000,
+                 0   -4px 0 #000,  0    4px 0 #000,
+                -2px -4px 0 #000,  2px -4px 0 #000,
+                -4px -2px 0 #000,  4px -2px 0 #000,
+                -2px  4px 0 #000,  2px  4px 0 #000,
+                -4px  2px 0 #000,  4px  2px 0 #000;
+        }
+
+        .authors {
+            font-size: 16px;
+            font-weight: bold;
+            color: #000;
+            margin-top: 5px;
+        }
+
+        /* The Meme Slogan Translated */
+        .slogan-group {
+            border-top: 3px solid #000;
+            border-bottom: 3px solid #000;
+            padding: 8px 0; 
+            margin: 5px 20px 15px 20px; 
+            background-color: #F3C300;
+            text-align: center;
+        }
+
+        .slogan-main {
+            font-family: "Arial Black", Impact, sans-serif;
+            font-size: 25px; 
+            font-weight: 900;
+            color: #000;
+            text-transform: uppercase;
+            line-height: 1.1;
+        }
+
+        .slogan-sub {
+            font-family: "Times New Roman", Times, serif;
+            font-size: 18px; 
+            font-style: italic;
+            font-weight: bold;
+            color: #000;
+            margin-bottom: 2px;
+        }
+
+        /* Academic Body Layout */
+        .body-layout {
+            display: flex;
+            flex-direction: row;
+            padding: 0 20px;
+            gap: 15px;
+            flex-grow: 1;
+            z-index: 10;
+            margin-bottom: 20px;
+            align-items: stretch; /* 确保左右两列等高 */
+        }
+
+        .col {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            gap: 15px; /* 列内元素严格间距 */
+        }
+
+        /* Text Boxes */
+        .content-box {
+            border: 3px solid #000;
+            background-color: rgba(255, 255, 255, 0.95);
+            padding: 14px 18px; 
+            box-shadow: 4px 4px 0 rgba(0,0,0,1);
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* 完美填补缝隙的核心逻辑 */
+        .box-stretch {
+            flex-grow: 1;
+        }
+
+        .content-box h3 {
+            font-family: "Arial Black", sans-serif;
+            font-size: 19px;
+            color: #004d28;
+            margin-bottom: 8px;
+            text-transform: uppercase;
+            border-bottom: 2px solid #000;
+            padding-bottom: 3px;
+        }
+
+        .content-box p, .content-box li {
+            font-size: 15px;
+            line-height: 1.45;
+            color: #111;
+            margin-bottom: 8px;
+            text-align: justify;
+        }
+
+        .content-box ul {
+            padding-left: 20px;
+            margin-bottom: 4px;
+        }
+
+        /* Giant Data Display */
+        .data-highlight {
+            background-color: #004d28;
+            color: #F3C300;
+            padding: 12px; 
+            text-align: center;
+            border: 3px solid #000;
+            box-shadow: 4px 4px 0 #000;
+        }
+
+        .data-highlight h4 {
+            font-size: 15px;
+            text-transform: uppercase;
+            margin-bottom: 2px;
+            color: #fff;
+            letter-spacing: 0.5px;
+        }
+
+        .data-num {
+            font-family: "Arial Black", sans-serif;
+            font-size: 44px; 
+            line-height: 1;
+            text-shadow: 2px 2px 0 #000;
+            margin: 4px 0;
+        }
+
+        .data-desc {
+            font-size: 14px;
+            font-weight: bold;
+        }
+
+        /* Action & QR Area */
+        .action-box {
+            border: 3px solid #000;
+            background-color: #fff;
+            padding: 12px 15px;
+            box-shadow: 4px 4px 0 #000;
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            gap: 15px;
+            flex-shrink: 0; /* 防止挤压 */
+        }
+
+        .action-text {
+            flex: 1;
+        }
+
+        .action-text h4 {
+            font-family: "Arial Black", sans-serif;
+            font-size: 17px;
+            color: #d32f2f;
+            margin-bottom: 5px;
+            text-transform: uppercase;
+        }
+
+        .action-text p {
+            font-size: 13px;
+            font-weight: bold;
+            line-height: 1.35;
+            color: #111;
+        }
+
+        .qr-placeholder {
+            width: 90px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            flex-shrink: 0;
+        }
+
+        .qr-placeholder span {
+            font-size: 11px;
+            font-weight: 900;
+            text-align: center;
+            margin-top: 5px;
+        }
+
+        .qr-image {
+            width: 85px;
+            height: 85px;
+            display: block;
+            border: 2px solid #000;
+        }
+
+        /* Bottom Stripes */
+        .bottom-stripes {
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            z-index: 10;
+        }
+
+        .stripe { width: 100%; }
+        .s-dark { background-color: #004d28; }
+        .s-light { background-color: #8A9A4A; }
+        .s-yellow { background-color: #F3C300; }
+        
+        .company-stripe {
+            background-color: #004d28;
+            padding: 12px 25px;
+            display: flex;
+            align-items: center;
+            position: relative;
+        }
+
+        .seal {
+            width: 50px;
+            height: 50px;
+            background-color: #fff;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-right: 15px;
+            border: 3px solid #d32f2f;
+            position: relative;
+            transform: rotate(-15deg);
+            z-index: 15;
+        }
+
+        .seal::before {
+            content: '';
+            position: absolute;
+            width: 42px;
+            height: 42px;
+            border: 1px solid #d32f2f;
+            border-radius: 50%;
+        }
+
+        .seal::after {
+            content: 'ACL\A 2026\A ACCEPT';
+            white-space: pre;
+            text-align: center;
+            font-size: 9px;
+            font-family: "Arial Black", sans-serif;
+            color: #d32f2f;
+            line-height: 1.1;
+        }
+
+        .company-text {
+            color: #fff;
+            flex-grow: 1;
+            z-index: 15;
+        }
+
+        .company-main {
+            font-family: "Arial Black", sans-serif;
+            font-size: 18px;
+            letter-spacing: 1px;
+            margin-bottom: 2px;
+            text-transform: uppercase;
+        }
+
+        .company-sub {
+            font-family: Arial, sans-serif;
+            font-size: 11px;
+            font-weight: bold;
+            color: #F3C300;
+            letter-spacing: 0.5px;
+        }
+
+        .github-logo {
+            font-family: "Arial Black", sans-serif;
+            font-size: 13px;
+            color: #fff;
+            text-shadow: 2px 2px 0 #000;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            z-index: 15;
+            position: absolute;
+            right: 25px;
+            bottom: 25px;
+        }
+
+        /* --- 新增：悬浮下载按钮样式 --- */
+        .download-btn {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            background-color: #d32f2f;
+            color: #fff;
+            border: 3px solid #000;
+            padding: 12px 24px;
+            font-family: "Arial Black", sans-serif;
+            font-size: 16px;
+            cursor: pointer;
+            box-shadow: 4px 4px 0 #000;
+            z-index: 1000;
+            transition: transform 0.1s, box-shadow 0.1s;
+            text-transform: uppercase;
+        }
+
+        .download-btn:active {
+            transform: translate(4px, 4px);
+            box-shadow: 0 0 0 #000;
+        }
+
+        /* --- 打印样式保护（以防万一你还是想用快捷键打印） --- */
+        @media print {
+            body { padding: 0; background-color: transparent; }
+            .download-btn { display: none; }
+            .poster-container { box-shadow: none; margin: 0; }
+            @page { size: A3 portrait; margin: 0; }
+        }
+
+    </style>
+    
+    <!-- 引入生成 PDF 所需的两个核心库 -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+</head>
+<body>
+
+    <!-- 悬浮的下载按钮 -->
+    <button class="download-btn" onclick="generatePDF()">⬇ Download PDF</button>
+
+    <div class="poster-container">
+        <!-- Top Banner -->
+        <div class="top-banner">
+            <p>Psychology-Grounded Dual-Process Architecture</p>
+        </div>
+
+        <!-- Header Section -->
+        <div class="header-section">
+            <div class="venue">ACL 2026 Findings</div>
+            <h1 class="huge-title">PersonaForge</h1>
+            <div class="authors">Jizhou Tong (Wuhan University) & Sirui Zou (SWUFE)</div>
+        </div>
+
+        <!-- Slogan Section -->
+        <!--<div class="slogan-group">
+            <p class="slogan-main">PersonaForge: Zero Character Drift Over 50 Turns</p>
+            <p class="slogan-sub">Grounding defense mechanisms into the LLM architecture</p>
+        </div>-->
+
+        <!-- Academic Content -->
+        <div class="body-layout">
+            <!-- Left Column -->
+            <div class="col">
+                <div class="content-box">
+                    <h3>Abstract</h3>
+                    <p>Large Language Models excel at role-playing but struggle to maintain consistent personalities across extended multi-turn interactions. PersonaForge introduces a <strong>Three-Layer Personality Architecture</strong> combined with a <strong>Dual-Process Generation Mechanism</strong>.</p>
+                    <ul>
+                        <li><strong>Orthogonality:</strong> Big Five + Defense Mechanisms reduce long-dialogue drift.</li>
+                        <li><strong>Integration:</strong> High-dimensional constraints require an Inner Monologue workspace to resolve.</li>
+                    </ul>
+                </div>
+
+                <!-- 延展到底部的区块 -->
+                <div class="content-box box-stretch">
+                    <div>
+                        <h3>Architecture</h3>
+                        <p><strong>1. Core Traits:</strong> Big Five scores (O,C,E,A,N) + Vaillant's Defense Mechanisms.</p>
+                        <p><strong>2. Style Layer:</strong> Constraints on sentence length, register, punctuation.</p>
+                        <p><strong>3. Dynamic State:</strong> Tracks mood, energy, and relationship intimacy.</p>
+                    </div>
+                    
+                    <!-- 强制压到底部的重磅视觉流程图 -->
+                    <div style="background-color: #f8f9fa; border: 3px dashed #004d28; padding: 16px 10px; margin-top: auto; text-align: center; font-weight: 900; font-size: 14px; line-height: 1.8; color: #000; box-shadow: inset 0 0 10px rgba(0,0,0,0.05);">
+                        <span style="color: #d32f2f; font-size: 16px; text-transform: uppercase;">[ User Message ]</span> <br>
+                        ↓<br>
+                        <span style="background-color: #F3C300; padding: 4px 10px; border: 2px solid #000; display: inline-block; margin: 4px 0;">Trigger Detector (Selective)</span><br>
+                        ↓<br>
+                        <span style="background-color: #fff; border: 2px solid #000; padding: 4px 10px; display: inline-block; margin: 4px 0;">Inner Monologue (System 2)</span><br>
+                        ↓<br>
+                        <span style="background-color: #8A9A4A; color: #fff; padding: 4px 10px; border: 2px solid #000; display: inline-block; margin: 4px 0;">Styled Response (System 1)</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Right Column -->
+            <div class="col">
+                <!-- Big Data Highlights -->
+                <div class="data-highlight">
+                    <h4>Personality Consistency (PC)</h4>
+                    <div class="data-num">+19.4%</div>
+                    <div class="data-desc">Over Structured-CoT Baseline (Human r=0.82)</div>
+                </div>
+
+                <div class="data-highlight" style="background-color: #d32f2f;">
+                    <h4>Character Drift Rate</h4>
+                    <div class="data-num">6.3%</div>
+                    <div class="data-desc">Reduced from 24.8% (50-Turn Eval)</div>
+                </div>
+                
+                <div class="data-highlight" style="background-color: #111;">
+                    <h4>Defense Mech Activation</h4>
+                    <div class="data-num">+64.7%</div>
+                    <div class="data-desc">Psychological Depth Reconstructed</div>
+                </div>
+
+                <!-- 单一延展模块取代两个碎块，完全消灭背景黄色缝隙 -->
+                <div class="content-box box-stretch">
+                    <div>
+                        <h3>Key Insights</h3>
+                        <p><strong>Catastrophic Rigidity in SFT:</strong> Low-resource SFT learns "how to speak" but not "who I am", leading to 57.7% repetition and 66.0% drift.</p>
+                        <p><strong>Dual-Process Efficiency:</strong> Think-then-Speak activates only for critical interactions (~40%), achieving 96% performance at 13.4% overhead.</p>
+                    </div>
+                    
+                    <!-- 通过 margin-top: auto 把第二节强制压死在白框底部 -->
+                    <div style="border-top: 2px dashed #000; padding-top: 10px; margin-top: auto;">
+                        <h3 style="border-bottom: none; margin-bottom: 5px; padding-bottom: 0;">Robustness & Validation</h3>
+                        <p><strong>Adversarial Defense:</strong> Maintained character consistency in <strong>95.2%</strong> of 21-turn RoleBreak attacks.</p>
+                        <p style="margin-bottom: 0;"><strong>Human Approval:</strong> Preferred in <strong>78.1%</strong> of blinded comparisons by expert annotators.</p>
+                    </div>
+                </div>
+
+                <!-- 处于最底端的操作块，与左列底部绝对水平持平 -->
+                <div class="action-box">
+                    <div class="action-text">
+                        <h4>Open Source</h4>
+                        <p>Please give me a star!</p>
+                    </div>
+                    <div class="qr-placeholder">
+                        <img class="qr-image" src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/fQwQf/PersonaForge" alt="GitHub QR Code">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Bottom Stripes & Company/Venue Info -->
+        <div class="bottom-stripes">
+            <div class="stripe s-dark" style="height: 5px;"></div>
+            <div class="stripe s-light" style="height: 4px;"></div>
+            <div class="stripe s-dark" style="height: 8px;"></div>
+            <div class="stripe s-yellow" style="height: 6px;"></div>
+            <div class="stripe s-light" style="height: 6px;"></div>
+            
+            <div class="company-stripe">
+                <img src="./acl-logo.png" style="height: 50px; margin-right: 15px;" alt="ACL Logo">
+                <div class="github-logo">
+                    <a href="https://github.com/fQwQf/PersonaForge" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none; display: inline-flex; align-items: center; gap: 6px;">
+                        <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor" aria-hidden="true"><path fill-rule="evenodd" clip-rule="evenodd" d="M12 0C5.37 0 0 5.37 0 12c0 5.30 3.438 9.8 8.207 11.387.6.111.793-.261.793-.577V20.68c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.31.469-2.38 1.235-3.22-.124-.303-.535-1.524.117-3.176 0 0 1.008-.323 3.3 1.23A11.5 11.5 0 0 1 12 6.844a11.5 11.5 0 0 1 3.003.404c2.29-1.554 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.233 1.91 1.233 3.22 0 4.61-2.807 5.624-5.48 5.922.43.37.815 1.102.815 2.222v3.293c0 .319.192.694.8.576C20.565 21.796 24 17.298 24 12 24 5.37 18.63 0 12 0z"/></svg>
+                        <span>github.com/fQwQf/PersonaForge</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- PDF 生成逻辑脚本 -->
+    <script>
+        async function generatePDF() {
+            const btn = document.querySelector('.download-btn');
+            const originalText = btn.innerText;
+            btn.innerText = "GENERATING...";
+            btn.style.backgroundColor = "#555";
+            btn.style.pointerEvents = "none";
+            
+            try {
+                // 1. 获取海报容器节点
+                const poster = document.querySelector('.poster-container');
+                
+                // 2. 利用 html2canvas 进行高精度截图
+                const scale = 4; // 4倍超采样，接近300 DPI打印分辨率
+                const canvas = await html2canvas(poster, {
+                    scale,
+                    useCORS: true, // 允许加载跨域图片(用于二维码)
+                    allowTaint: true,
+                    backgroundColor: '#F3C300', // 锁定黄色底色
+                    width: poster.offsetWidth,
+                    height: poster.offsetHeight,
+                });
+                
+                // 将画布转换为高质量图像数据
+                const imgData = canvas.toDataURL('image/png');
+                
+                // 3. 实例化 jsPDF: p=纵向(portrait), mm=毫米, a3=纸张规格
+                const { jsPDF } = window.jspdf;
+                const pdf = new jsPDF({ orientation: 'portrait', unit: 'mm', format: 'a3' });
+                
+                // 获取 A3 的标准尺寸 (宽 297mm, 高 420mm)
+                const pdfWidth = pdf.internal.pageSize.getWidth();
+                const pdfHeight = pdf.internal.pageSize.getHeight();
+                
+                // 将图像严丝合缝地填入 PDF
+                pdf.addImage(imgData, 'PNG', 0, 0, pdfWidth, pdfHeight);
+                
+                // 4. 触发本地下载
+                pdf.save('PersonaForge_A3_Poster.pdf');
+                
+                // 可选：同时下载 PNG 版本
+                const link = document.createElement('a');
+                link.href = imgData;
+                link.download = 'PersonaForge_A3_Poster.png';
+                document.body.appendChild(link);
+                link.click();
+                document.body.removeChild(link);
+            } catch (error) {
+                console.error("PDF generation failed:", error);
+                alert("生成失败，请刷新页面重试。");
+            } finally {
+                btn.innerText = originalText;
+                btn.style.backgroundColor = "#d32f2f";
+                btn.style.pointerEvents = "auto";
+            }
+        }
+    </script>
+</body>
+</html>

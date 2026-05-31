@@ -12,6 +12,8 @@
 
 > 🎉 PersonaForge has been accepted to **ACL 2026 Findings**! 
 
+![PersonaForge_A3_Poster](poster/PersonaForge_A3_Poster.png)
+
 ## Overview
 
 Large Language Models excel at role-playing but struggle to maintain consistent personalities across extended multi-turn interactions. **PersonaForge** is a framework that combines a three-layer personality architecture grounded in psychological theory with a dual-process generation mechanism inspired by cognitive science to enable personality-consistent, long-term role-playing.
