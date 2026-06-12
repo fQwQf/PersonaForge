@@ -1,0 +1,112 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/fQwQf/PersonaForge/schemas/role_info.schema.json",
+  "title": "PersonaForge role_info",
+  "description": "Character persona profile consumed by PersonaForge. Place a populated file at data/roles/<World>/<RoleCode>/role_info.json. This repository ships NO character data derived from copyrighted works; build your own profiles from public sources following this schema (see schemas/README.md).",
+  "type": "object",
+  "required": ["role_code", "role_name", "source", "profile", "personality_profile"],
+  "properties": {
+    "role_code": { "type": "string", "description": "Unique id, conventionally <Name>-<lang>, e.g. MyHero-en." },
+    "role_name": { "type": "string" },
+    "nickname": { "type": "string" },
+    "source": { "type": "string", "description": "Name of the source world/work this character belongs to." },
+    "activity": { "type": "integer", "description": "Activity flag used by the simulation loop (1 = active)." },
+    "profile": { "type": "string", "description": "Short, ORIGINAL prose summary of the character. Do not paste verbatim text from copyrighted works." },
+    "gender": { "type": "string" },
+    "age": { "type": "string" },
+    "identity": { "type": "array", "items": { "type": "string" }, "description": "Roles/titles." },
+    "personality_profile": {
+      "type": "object",
+      "required": ["core_traits", "speaking_style", "dynamic_state"],
+      "properties": {
+        "core_traits": {
+          "type": "object",
+          "required": ["big_five", "defense_mechanism"],
+          "properties": {
+            "mbti": { "type": "string", "description": "Optional MBTI label, e.g. INFP-T." },
+            "big_five": {
+              "type": "object",
+              "description": "Five scores in [0,1] (Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism).",
+              "required": ["openness", "conscientiousness", "extraversion", "agreeableness", "neuroticism"],
+              "properties": {
+                "openness": { "type": "number", "minimum": 0, "maximum": 1 },
+                "conscientiousness": { "type": "number", "minimum": 0, "maximum": 1 },
+                "extraversion": { "type": "number", "minimum": 0, "maximum": 1 },
+                "agreeableness": { "type": "number", "minimum": 0, "maximum": 1 },
+                "neuroticism": { "type": "number", "minimum": 0, "maximum": 1 }
+              }
+            },
+            "values": { "type": "array", "items": { "type": "string" } },
+            "defense_mechanism": {
+              "type": "string",
+              "description": "Primary Vaillant-style defense mechanism.",
+              "enum": ["Sublimation", "Humor", "Rationalization", "Intellectualization", "Projection", "Denial", "Repression", "Displacement", "Reaction_Formation"]
+            }
+          }
+        },
+        "speaking_style": {
+          "type": "object",
+          "description": "Style matrix S = {sentence length, vocabulary register, punctuation, emoji, catchphrases, tone markers}.",
+          "properties": {
+            "sentence_length": { "type": "string", "enum": ["short", "medium", "long"] },
+            "vocabulary_level": { "type": "string", "enum": ["casual", "standard", "academic"] },
+            "punctuation_habit": { "type": "string", "enum": ["minimal", "standard", "excessive"] },
+            "emoji_usage": {
+              "type": "object",
+              "properties": {
+                "frequency": { "type": "string", "enum": ["none", "rare", "occasional", "frequent"] },
+                "preferred": { "type": "array", "items": { "type": "string" } },
+                "avoided": { "type": "array", "items": { "type": "string" } }
+              }
+            },
+            "catchphrases": { "type": "array", "items": { "type": "string" } },
+            "tone_markers": { "type": "array", "items": { "type": "string" } }
+          }
+        },
+        "dynamic_state": {
+          "type": "object",
+          "description": "Initial dynamic state D = {mood, energy, relationship map}.",
+          "properties": {
+            "current_mood": { "type": "string" },
+            "energy_level": { "type": "integer", "minimum": 0, "maximum": 100 },
+            "relationship_map": {
+              "type": "object",
+              "additionalProperties": {
+                "type": "object",
+                "properties": {
+                  "intimacy": { "type": "number" },
+                  "history_summary": { "type": "string" }
+                }
+              }
+            }
+          }
+        },
+        "interests": { "type": "array", "items": { "type": "string" } },
+        "social_goals": { "type": "array", "items": { "type": "string" } },
+        "long_term_goals": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "style_examples": {
+      "type": "array",
+      "description": "A few ORIGINAL (context, response) pairs illustrating voice. Few-shot exemplars for the Styled-Response stage. Do not copy verbatim source dialogue.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "context": { "type": "string" },
+          "response": { "type": "string" }
+        }
+      }
+    },
+    "relation": {
+      "type": "object",
+      "description": "Map of related role_code -> { relation: [..], detail: '..' }.",
+      "additionalProperties": {
+        "type": "object",
+        "properties": {
+          "relation": { "type": "array", "items": { "type": "string" } },
+          "detail": { "type": "string" }
+        }
+      }
+    }
+  }
+}

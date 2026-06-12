@@ -1,0 +1,30 @@
+{
+    "NOTE": "Open-source model experiment config. Fill in your own API keys. DO NOT commit real keys — this file is gitignored.",
+    "qwen": {
+        "api_key": "YOUR_DASHSCOPE_API_KEY",
+        "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+        "models": [
+            "qwen-max",
+            "qwen-plus",
+            "qwen-turbo"
+        ]
+    },
+    "deepseek": {
+        "api_key": "YOUR_DEEPSEEK_API_KEY",
+        "base_url": "https://api.deepseek.com/v1",
+        "models": [
+            "deepseek-v3",
+            "deepseek-chat",
+            "deepseek-reasoner"
+        ]
+    },
+    "openrouter": {
+        "api_key": "YOUR_OPENROUTER_API_KEY",
+        "base_url": "https://openrouter.ai/api/v1",
+        "models": [
+            "meta-llama/llama-3-70b-instruct",
+            "meta-llama/llama-3-8b-instruct"
+        ]
+    },
+    "default_model": "deepseek-v3"
+}

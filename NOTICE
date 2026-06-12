@@ -1,0 +1,22 @@
+PersonaForge
+Copyright 2026 Jizhou Tong (also known as fQwQf) and Sirui Zou
+
+This product includes software originally developed as part of the BookWorld
+project (https://github.com/alienet1109/BookWorld), licensed under the Apache
+License, Version 2.0.
+
+Portions of the LLM provider adapters (personaforge/llm/), shared utilities
+(personaforge/utils/, personaforge/db/), and the embedding wrapper are derived
+from or build upon BookWorld and retain its Apache-2.0 licensing.
+
+PersonaForge's own contribution — the psychology-grounded three-layer
+personality model and the selective dual-process generation mechanism — is in:
+  personaforge/personality_model.py
+  personaforge/dual_process_agent.py
+  personaforge/dynamic_state_manager.py
+  personaforge/style_vector_db.py
+and the experiment suite under experiments/.
+
+The BookWorld simulation/product runtime (e.g. the world Server and the full
+Performer integration) is NOT redistributed here; obtain it from the upstream
+BookWorld repository if you need it.
